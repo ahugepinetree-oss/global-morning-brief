@@ -1,44 +1,72 @@
 {
-  "date_display": "September 2, 2026",
-  "headline": "Why energy costs matter far beyond the oil market",
-  "dek": "Today's sample shows how the live app will look. Once automation is enabled, this file is replaced every morning.",
+  "date_display": "September 3, 2026",
+  "headline": "AI Hardware Keeps Four Economies Moving—But Energy Costs Raise the Stakes",
+  "dek": "Strong semiconductor demand is supporting manufacturing across the United States, China, Japan, and South Korea, even as higher energy costs threaten to revive inflation.",
   "read_time": "8 min",
-  "story_title": "Energy prices can ripple through inflation, currencies and interest rates",
-  "story_html": "Energy prices are closely watched because their effects extend well beyond petrol stations. Persistently elevated energy costs can complicate central banks' efforts to bring inflation back toward target. In the United States, the Federal Reserve must weigh inflation risks against growth and employment. In Europe and the United Kingdom, household energy bills and industrial costs can shape both consumer confidence and policy expectations. Japan and South Korea are sensitive to import costs and exchange-rate movements, while China must balance domestic demand with global trade conditions.",
-  "b2_summary": "When energy stays expensive, transport and production also cost more. This can keep prices high and make it harder for central banks to decide when to lower interest rates.",
+  "story_title": "The AI Boom Is Cushioning Industry Across the Pacific",
+  "story_html": "<p>The clearest economic connection among the United States, China, Japan, and South Korea is the continuing investment boom in artificial intelligence hardware. Companies are spending heavily on data centers, advanced processors, memory chips, networking equipment, and electricity infrastructure. That spending is creating a powerful demand stream for factories, even while other parts of the global economy remain vulnerable to high borrowing costs and geopolitical uncertainty. Recent manufacturing surveys suggest that AI-related orders are helping industrial activity hold up better than many investors expected. ([ismworld.org](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/?utm_source=openai))</p><p>The United States remains the demand center of this cycle. The Institute for Supply Management reported that American manufacturing expanded for an eighth consecutive month in August, with the headline PMI at 54.6. New orders and production remained above the 50 threshold that separates expansion from contraction. The survey also reported rising prices for memory components, electronic components, semiconductors, and related materials. This combination is important: manufacturers are receiving strong orders, but they are also facing higher input costs. ([ismworld.org](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/?utm_source=openai))</p><p>China’s picture is more mixed. The official manufacturing PMI improved to 49.8 in August, while production and new orders rose above 50. However, the overall index remained below the expansion line, and employment stayed weak. A separate private survey was more optimistic, showing manufacturing growth supported by demand for chips, computers, and other AI-related products. The contrast suggests that China’s technology-linked industries are performing better than the wider industrial economy, but the recovery is still uneven. ([stats.gov.cn](https://www.stats.gov.cn/english/PressRelease/202609/t20260901_1965170.html?utm_source=openai))</p><p>Japan and South Korea show the export side of the same story. Japan’s manufacturing PMI reached 54.9, its strongest level in several months, as new business benefited from semiconductor and AI-related demand. South Korea’s August exports jumped 68.7 percent from a year earlier, while semiconductor exports surged 209 percent to $46.65 billion. These figures reveal both the strength and the risk of the cycle: Asia’s factories are busy because global technology companies are investing, but the region is highly exposed to any slowdown in AI spending. ([kslm.news](https://www.kslm.news/news/global-ai-boom-fuels-asia-factory-expansion-in-august-mti52o1a?utm_source=openai))</p><p>Meanwhile, higher oil prices and bond yields are complicating the outlook. Energy-importing Japan and South Korea are discussing emergency cooperation on LNG, crude oil, and petroleum products. If energy costs remain elevated, central banks may delay interest-rate cuts, making investment more expensive. For now, AI demand is acting as a cushion. The question is whether that cushion can remain strong enough to offset inflation, expensive credit, and weaker demand elsewhere. ([uk.marketscreener.com](https://uk.marketscreener.com/news/south-korea-japan-discuss-cooperation-on-emergency-energy-supply-ce7858d2da81f020?utm_source=openai))</p>",
+  "b2_summary": "AI investment is supporting factories in the United States, China, Japan, and South Korea. American manufacturing expanded again in August, while China showed improvement but remained below the level that signals broad growth. Japan’s factories benefited from strong orders for semiconductors and AI equipment. South Korea reported extremely strong exports, especially for chips. However, higher oil prices and bond yields are creating new problems. Energy costs could increase inflation and delay interest-rate cuts. The main risk is that these economies are becoming dependent on continued AI spending. If technology companies reduce investment, manufacturing and exports could weaken quickly.",
   "vocabulary": [
     {
-      "term": "Federal Reserve",
-      "meaning": "미국의 중앙은행 역할을 하는 기관. 기준금리와 통화정책을 결정하며 보통 the Fed라고 부름 (연방준비제도)"
+      "term": "industrial activity",
+      "meaning": "공장 생산과 제조업 움직임을 말합니다. (산업 활동)"
     },
     {
-      "term": "elevated",
-      "meaning": "평소보다 높은 상태가 계속되는. 경제뉴스에서는 물가·금리·비용 등이 높은 수준일 때 자주 씀"
+      "term": "input costs",
+      "meaning": "제품을 만들 때 들어가는 원자재·에너지·인건비입니다. (투입 비용)"
     },
     {
-      "term": "consumer confidence",
-      "meaning": "소비자들이 앞으로의 경제와 자신의 형편을 얼마나 긍정적으로 보는지 나타내는 심리 (소비자신뢰)"
+      "term": "semiconductor",
+      "meaning": "컴퓨터와 AI 장비에 사용되는 아주 작은 전자 부품입니다. (반도체)"
     },
     {
-      "term": "exchange-rate movements",
-      "meaning": "두 나라 돈의 교환 비율인 환율이 오르거나 내리는 변화 (환율 변동)"
+      "term": "manufacturing PMI",
+      "meaning": "제조업 경기를 보여 주는 지표입니다. 50보다 높으면 보통 확장을 뜻합니다."
     },
     {
-      "term": "policy expectations",
-      "meaning": "시장 참가자들이 중앙은행이나 정부가 앞으로 어떤 정책을 펼칠지 예상하는 것"
+      "term": "cushion",
+      "meaning": "충격이나 하락을 줄여 주는 보호 역할입니다. (완충 장치)"
+    },
+    {
+      "term": "uneven recovery",
+      "meaning": "경제의 모든 부문이 고르게 좋아지지 않는 회복입니다. (불균등한 회복)"
+    },
+    {
+      "term": "borrowing costs",
+      "meaning": "돈을 빌릴 때 지불해야 하는 비용입니다. 보통 금리와 관련 있습니다."
+    },
+    {
+      "term": "energy-importing economy",
+      "meaning": "필요한 에너지를 다른 나라에서 많이 사 오는 경제입니다."
+    },
+    {
+      "term": "exposed to",
+      "meaning": "특정 위험이나 변화의 영향을 크게 받을 수 있다는 뜻입니다."
     }
   ],
   "expressions": [
     {
-      "term": "bring inflation back toward target",
-      "meaning": "물가상승률을 중앙은행이 목표로 하는 수준 가까이 다시 낮추다",
-      "example": "Central banks are trying to bring inflation back toward target.",
+      "term": "hold up better than expected",
+      "meaning": "예상보다 더 잘 버티거나 좋은 상태를 유지하다.",
+      "example": "Manufacturing is holding up better than expected.",
       "type": "phrase"
     },
     {
-      "term": "weigh inflation risks against growth",
-      "meaning": "물가 위험과 경기 성장의 장단점을 서로 비교해 판단하다",
-      "example": "Policymakers must weigh inflation risks against growth.",
+      "term": "remain vulnerable to",
+      "meaning": "여전히 어떤 위험이나 충격에 약한 상태로 남아 있다.",
+      "example": "The recovery remains vulnerable to higher energy prices.",
+      "type": "phrase"
+    },
+    {
+      "term": "offset mounting costs",
+      "meaning": "점점 커지는 비용의 부정적 영향을 상쇄하다.",
+      "example": "Strong exports helped offset mounting costs.",
+      "type": "phrase"
+    },
+    {
+      "term": "the same story",
+      "meaning": "여러 상황이 같은 경제적 원인이나 흐름을 보여 준다는 표현.",
+      "example": "Japan and Korea show the export side of the same story.",
       "type": "phrase"
     }
   ],
@@ -46,56 +74,70 @@
     {
       "flag": "🇺🇸",
       "name": "United States",
-      "focus": "Fed policy · inflation · jobs"
-    },
-    {
-      "flag": "🇬🇧",
-      "name": "United Kingdom",
-      "focus": "energy bills · inflation · borrowing"
-    },
-    {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "focus": "ECB policy · industry · energy"
-    },
-    {
-      "flag": "🇯🇵",
-      "name": "Japan",
-      "focus": "yen · import prices · wages"
+      "focus": "Manufacturing expands as AI investment supports new orders."
     },
     {
       "flag": "🇨🇳",
       "name": "China",
-      "focus": "demand · exports · stimulus"
+      "focus": "AI-linked industries improve, but the wider recovery remains uneven."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Factory growth strengthens on semiconductor and AI-related demand."
     },
     {
       "flag": "🇰🇷",
       "name": "South Korea",
-      "focus": "won · import costs · BOK policy"
+      "focus": "Chip exports surge as global companies build AI infrastructure."
     }
   ],
-  "common_theme": "Energy costs can influence inflation and interest-rate decisions across several major economies.",
+  "common_theme": "AI-related semiconductor demand is supporting manufacturing and exports across the four economies, while higher energy costs threaten to weaken that momentum.",
   "concept": {
-    "title": "How can energy prices spread through an economy?",
-    "explanation": "Energy is an input for transport, factories, heating and many services. If energy costs stay high, businesses may pass some of those costs on to consumers. That can keep inflation higher and influence central-bank decisions."
+    "title": "Purchasing Managers’ Index, or PMI",
+    "explanation": "A PMI is based on monthly answers from business managers about orders, production, employment, inventories, and deliveries. The index is designed to show whether business conditions are improving or worsening. A reading above 50 usually indicates expansion compared with the previous month; below 50 usually indicates contraction. It is watched closely because it can signal economic changes before official GDP data are released."
   },
   "quiz": {
-    "question": "Why do central banks care about energy prices?",
+    "question": "What does a manufacturing PMI reading above 50 usually indicate?",
     "options": [
-      "They can affect inflation across the economy.",
-      "They directly set company profits.",
-      "They determine every exchange rate."
+      "Manufacturing activity is expanding",
+      "Interest rates are falling",
+      "A country has a trade deficit"
     ],
     "answer_index": 0,
-    "explanation": "Energy costs can spread into transport, production and consumer prices."
+    "explanation": "A PMI above 50 generally means that manufacturing activity is expanding compared with the previous month."
   },
-  "one_sentence": "Persistently high energy costs can complicate central banks' efforts to bring inflation back toward target.",
+  "one_sentence": "AI demand is acting as a cushion for industry, but an expensive-energy world could test how strong that cushion really is.",
   "sources": [
     {
-      "name": "Sample only",
-      "region": "Setup",
-      "title": "Automatic live sources will appear here after the generator runs.",
-      "url": "https://example.com"
+      "name": "Institute for Supply Management",
+      "region": "United States",
+      "title": "August 2026 ISM Manufacturing PMI Report",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/"
+    },
+    {
+      "name": "National Bureau of Statistics of China",
+      "region": "China",
+      "title": "Purchasing Managers’ Index for August 2026",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202609/t20260901_1965170.html"
+    },
+    {
+      "name": "Reuters",
+      "region": "Japan, China, South Korea",
+      "title": "Global AI boom fuels Asia factory expansion in August",
+      "url": "https://sa.marketscreener.com/news/global-ai-boom-fuels-asia-factory-expansion-in-august-ce7858ddda81fe2d"
+    },
+    {
+      "name": "Ministry of Trade, Industry and Resources",
+      "region": "South Korea",
+      "title": "August Exports Exceed USD 90 Billion for Third Consecutive Month",
+      "url": "https://english.motir.go.kr/eng/article/EATCLdfa319ada/2719/view"
+    },
+    {
+      "name": "Reuters",
+      "region": "South Korea, Japan",
+      "title": "South Korea, Japan discuss cooperation on emergency energy supply",
+      "url": "https://uk.marketscreener.com/news/south-korea-japan-discuss-cooperation-on-emergency-energy-supply-ce7858d2da81f020"
     }
   ]
 }
