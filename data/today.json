@@ -1,0 +1,101 @@
+{
+  "date_display": "September 2, 2026",
+  "headline": "Why energy costs matter far beyond the oil market",
+  "dek": "Today's sample shows how the live app will look. Once automation is enabled, this file is replaced every morning.",
+  "read_time": "8 min",
+  "story_title": "Energy prices can ripple through inflation, currencies and interest rates",
+  "story_html": "Energy prices are closely watched because their effects extend well beyond petrol stations. Persistently elevated energy costs can complicate central banks' efforts to bring inflation back toward target. In the United States, the Federal Reserve must weigh inflation risks against growth and employment. In Europe and the United Kingdom, household energy bills and industrial costs can shape both consumer confidence and policy expectations. Japan and South Korea are sensitive to import costs and exchange-rate movements, while China must balance domestic demand with global trade conditions.",
+  "b2_summary": "When energy stays expensive, transport and production also cost more. This can keep prices high and make it harder for central banks to decide when to lower interest rates.",
+  "vocabulary": [
+    {
+      "term": "Federal Reserve",
+      "meaning": "미국의 중앙은행 역할을 하는 기관. 기준금리와 통화정책을 결정하며 보통 the Fed라고 부름 (연방준비제도)"
+    },
+    {
+      "term": "elevated",
+      "meaning": "평소보다 높은 상태가 계속되는. 경제뉴스에서는 물가·금리·비용 등이 높은 수준일 때 자주 씀"
+    },
+    {
+      "term": "consumer confidence",
+      "meaning": "소비자들이 앞으로의 경제와 자신의 형편을 얼마나 긍정적으로 보는지 나타내는 심리 (소비자신뢰)"
+    },
+    {
+      "term": "exchange-rate movements",
+      "meaning": "두 나라 돈의 교환 비율인 환율이 오르거나 내리는 변화 (환율 변동)"
+    },
+    {
+      "term": "policy expectations",
+      "meaning": "시장 참가자들이 중앙은행이나 정부가 앞으로 어떤 정책을 펼칠지 예상하는 것"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "bring inflation back toward target",
+      "meaning": "물가상승률을 중앙은행이 목표로 하는 수준 가까이 다시 낮추다",
+      "example": "Central banks are trying to bring inflation back toward target.",
+      "type": "phrase"
+    },
+    {
+      "term": "weigh inflation risks against growth",
+      "meaning": "물가 위험과 경기 성장의 장단점을 서로 비교해 판단하다",
+      "example": "Policymakers must weigh inflation risks against growth.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Fed policy · inflation · jobs"
+    },
+    {
+      "flag": "🇬🇧",
+      "name": "United Kingdom",
+      "focus": "energy bills · inflation · borrowing"
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "focus": "ECB policy · industry · energy"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "yen · import prices · wages"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "demand · exports · stimulus"
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "won · import costs · BOK policy"
+    }
+  ],
+  "common_theme": "Energy costs can influence inflation and interest-rate decisions across several major economies.",
+  "concept": {
+    "title": "How can energy prices spread through an economy?",
+    "explanation": "Energy is an input for transport, factories, heating and many services. If energy costs stay high, businesses may pass some of those costs on to consumers. That can keep inflation higher and influence central-bank decisions."
+  },
+  "quiz": {
+    "question": "Why do central banks care about energy prices?",
+    "options": [
+      "They can affect inflation across the economy.",
+      "They directly set company profits.",
+      "They determine every exchange rate."
+    ],
+    "answer_index": 0,
+    "explanation": "Energy costs can spread into transport, production and consumer prices."
+  },
+  "one_sentence": "Persistently high energy costs can complicate central banks' efforts to bring inflation back toward target.",
+  "sources": [
+    {
+      "name": "Sample only",
+      "region": "Setup",
+      "title": "Automatic live sources will appear here after the generator runs.",
+      "url": "https://example.com"
+    }
+  ]
+}
