@@ -2,7 +2,6 @@ name: Daily Global Morning Brief
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "10 7 * * *"
       timezone: "Asia/Seoul"
@@ -15,7 +14,6 @@ permissions:
 jobs:
   generate-and-deploy:
     runs-on: ubuntu-latest
-
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -32,21 +30,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate today's brief
+      - name: Generate today's brief and archive
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-5.6-luna
         run: python scripts/generate_brief.py
 
-      - name: Save today's brief
+      - name: Commit daily data
         run: |
           git config user.name "morning-brief-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/today.json
-          git diff --cached --quiet || git commit -m "Update daily brief"
+          git add data/today.json data/archive data/archive_index.json
+          git diff --cached --quiet || git commit -m "Update daily brief and archive"
           git push
 
-      - name: Configure GitHub Pages
+      - name: Configure Pages
         uses: actions/configure-pages@v5
 
       - name: Upload site
@@ -54,6 +52,6 @@ jobs:
         with:
           path: "."
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
