@@ -1,48 +1,363 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Global Morning Brief</title>
 <style>
-body{font-family:Arial,sans-serif;background:#f7f7f3;color:#171717;margin:0}.wrap{max-width:900px;margin:auto;padding:24px}
-.card{background:#fff;border:1px solid #e7e7df;border-radius:18px;padding:22px;margin-bottom:16px}
-button{cursor:pointer;border:1px solid #ddd;background:#fff;border-radius:10px;padding:9px 12px;font-weight:700}
-header{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:18px}
-h1{font-size:clamp(34px,6vw,58px);line-height:1.05}.muted{color:#777}.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-.row{display:flex;justify-content:space-between;gap:10px;padding:10px 0;border-bottom:1px solid #eee}.row:last-child{border-bottom:0}
-.hidden{display:none}.archive-item{padding:12px;border:1px solid #eee;border-radius:12px;margin:8px 0;cursor:pointer}.archive-item:hover{background:#f2f2ec}
-@media(max-width:700px){.grid{grid-template-columns:1fr}}
-</style></head>
-<body><div class="wrap">
-<header><b>GLOBAL MORNING BRIEF</b><div><button id="todayBtn">Today</button> <button id="archiveBtn">Past Briefs</button></div></header>
-<div id="archivePanel" class="card hidden"><h2>Past Briefs</h2><div id="archiveList"></div></div>
-<div id="brief">
-<section class="card"><div id="date" class="muted"></div><h1 id="headline">Loading…</h1><p id="dek" class="muted"></p></section>
-<section class="card"><h2>Words worth knowing</h2><div id="vocab"></div></section>
-<section class="card"><h2 id="storytitle"></h2><div id="story"></div><button id="b2btn">Show B2 help</button><div id="b2" class="hidden"></div></section>
-<section class="card"><h2>Global snapshot</h2><div id="countries" class="grid"></div><p><b id="common"></b></p></section>
-<section class="card"><h2>News expressions</h2><div id="expressions"></div></section>
-<section class="card"><h2 id="conceptTitle"></h2><p id="conceptBody"></p></section>
-<section class="card"><h2 id="question"></h2><div id="answers"></div><p id="feedback"></p></section>
-<section class="card"><h2 id="sentence"></h2><button id="listen">🔊 Listen</button></section>
-<section class="card"><h2>Sources</h2><div id="sources"></div></section>
-</div></div>
+:root{--bg:#f7f7f3;--card:#fff;--text:#171717;--muted:#73736d;--line:#e7e7df;--soft:#efefe9}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.65}
+.wrap{max-width:920px;margin:auto;padding:26px 18px 80px}
+header{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:22px}
+.brand{font-weight:900;letter-spacing:.12em;font-size:13px}
+.top-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.badge{background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 11px;font-size:12px;font-weight:800}
+.card{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:24px;margin-bottom:16px}
+.hero{padding:32px}
+.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:11px;font-weight:900;color:var(--muted);margin-bottom:9px}
+h1{font-size:clamp(34px,6vw,62px);line-height:1.04;letter-spacing:-.045em;margin:0 0 14px}
+h2{margin:0 0 14px;letter-spacing:-.025em}
+.muted{color:var(--muted)}
+.meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.chip{background:var(--soft);padding:6px 10px;border-radius:999px;font-size:12px;font-weight:800}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.story p{font-size:17px;margin:0 0 15px}
+.wordrow{display:flex;justify-content:space-between;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.wordrow:last-child{border-bottom:0}
+.en{font-weight:900}.ko{font-size:14px;color:var(--muted)}
+.actions{display:flex;gap:8px;align-items:center;flex-shrink:0}
+button{font:inherit;cursor:pointer}
+.icon,.smallbtn,.secondary{border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 10px;font-weight:800}
+.icon{width:36px;height:36px;padding:0}
+.primary{border:0;background:#111;color:#fff;padding:11px 15px;border-radius:12px;font-weight:900}
+.secondary{border-radius:12px;padding:10px 13px}
+.country{background:var(--soft);padding:16px;border-radius:16px}
+.country b{display:block;margin-bottom:6px}
+.theme{border-left:4px solid #111;background:#fafaf7;padding:15px;border-radius:10px;font-weight:850;margin-top:14px}
+.quiz button{display:block;width:100%;text-align:left;margin:8px 0;border:1px solid var(--line);background:#fff;border-radius:13px;padding:13px;font-weight:750}
+.quiz .ok{background:#f0fdf4}.quiz .bad{background:#fef2f2}
+.archive-list{display:grid;gap:10px}
+.archive-item{border:1px solid var(--line);border-radius:15px;padding:14px;cursor:pointer;background:#fff}
+.archive-item:hover{background:var(--soft)}
+.archive-date{font-size:12px;color:var(--muted);font-weight:800}
+.archive-title{font-weight:900;margin-top:3px}
+.hidden{display:none}
+.notice{background:#fffbe8;border:1px solid #efe1a8;border-radius:15px;padding:13px;margin-bottom:16px;font-size:14px}
+@media(max-width:720px){.grid{grid-template-columns:1fr}.hero{padding:23px}.card{padding:20px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand">GLOBAL MORNING BRIEF</div>
+  <div class="top-actions">
+    <button class="secondary" id="todayBtn">Today</button>
+    <button class="secondary" id="archiveBtn">Past Briefs</button>
+    <div class="badge">Original-first · B2 help</div>
+  </div>
+</header>
+
+<div id="status" class="notice">Loading today's brief…</div>
+
+<section id="archivePanel" class="card hidden">
+  <div class="eyebrow">Past Briefs</div>
+  <h2>Your archive</h2>
+  <div id="archiveList" class="archive-list"></div>
+</section>
+
+<div id="briefView">
+<section class="card hero">
+  <div class="eyebrow" id="date"></div>
+  <h1 id="headline">Loading…</h1>
+  <p class="muted" id="dek"></p>
+  <div class="meta">
+    <span class="chip" id="readtime"></span>
+    <span class="chip">US · China · Japan · Korea</span>
+    <span class="chip">English study</span>
+  </div>
+</section>
+
+<section class="grid">
+  <div class="card">
+    <div class="eyebrow">Before you read</div>
+    <h2>Words worth knowing</h2>
+    <div id="vocab"></div>
+  </div>
+
+  <div class="card">
+    <div class="eyebrow">My Word Bank</div>
+    <h2>Saved words & expressions</h2>
+    <div id="mywords"></div>
+  </div>
+</section>
+
+<section class="card story">
+  <div class="eyebrow">Original-style brief</div>
+  <h2 id="storytitle"></h2>
+  <div id="story"></div>
+  <button class="secondary" id="simplifyBtn">Show B2 help</button>
+  <div id="b2help" class="hidden" style="margin-top:16px"></div>
+</section>
+
+<section class="card">
+  <div class="eyebrow">Global snapshot</div>
+  <h2>What major economies are watching</h2>
+  <div class="grid" id="countries"></div>
+  <div class="theme" id="common"></div>
+</section>
+
+<section class="card">
+  <div class="eyebrow">Understand the economy</div>
+  <h2 id="conceptTitle"></h2>
+  <p id="conceptBody"></p>
+</section>
+
+<section class="card">
+  <div class="eyebrow">News expressions</div>
+  <h2>Useful chunks, not just single words</h2>
+  <div id="phrases"></div>
+</section>
+
+<section class="card quiz">
+  <div class="eyebrow">30-second check</div>
+  <h2 id="q"></h2>
+  <div id="answers"></div>
+  <div id="feedback"></div>
+</section>
+
+<section class="card">
+  <div class="eyebrow">One sentence today</div>
+  <h2 id="sentence"></h2>
+  <button class="primary" id="listenSentence">🔊 Listen</button>
+</section>
+
+<section class="card">
+  <div class="eyebrow">Sources used for this synthesis</div>
+  <div id="sources"></div>
+</section>
+</div>
+</div>
+
 <script>
-let D=null; const $=x=>document.getElementById(x);
-function speak(t){if("speechSynthesis"in window){speechSynthesis.cancel();let u=new SpeechSynthesisUtterance(t);u.lang="en-US";u.rate=.86;speechSynthesis.speak(u)}}
-function render(){
- $("date").textContent=D.date_display||D.date_iso||""; $("headline").textContent=D.headline||""; $("dek").textContent=D.dek||"";
- $("storytitle").textContent=D.story_title||""; $("story").innerHTML=D.story_html||""; $("b2").innerHTML="<h3>B2 help</h3><p>"+(D.b2_summary||"")+"</p>";
- $("vocab").innerHTML=(D.vocabulary||[]).map(x=>`<div class="row"><div><b>${x.term}</b><br><span class="muted">${x.meaning}</span></div><button onclick='speak(${JSON.stringify(x.term)})'>🔊</button></div>`).join("");
- $("countries").innerHTML=(D.countries||[]).map(x=>`<div class="card"><b>${x.flag} ${x.name}</b><br>${x.focus}</div>`).join("");
- $("common").textContent="What the world is watching: "+(D.common_theme||"");
- $("expressions").innerHTML=(D.expressions||[]).map(x=>`<div class="row"><div><b>${x.term}</b><br><span class="muted">${x.meaning}</span><br>${x.example||""}</div><button onclick='speak(${JSON.stringify(x.term)})'>🔊</button></div>`).join("");
- $("conceptTitle").textContent=D.concept?.title||""; $("conceptBody").textContent=D.concept?.explanation||"";
- $("question").textContent=D.quiz?.question||""; $("answers").innerHTML=(D.quiz?.options||[]).map((x,i)=>`<button onclick="answer(${i})">${String.fromCharCode(65+i)}. ${x}</button> `).join("");
- $("sentence").textContent=D.one_sentence||""; $("listen").onclick=()=>speak(D.one_sentence||"");
- $("sources").innerHTML=(D.sources||[]).map(s=>`<p><b>${s.name}</b> · ${s.region||""}<br><a target="_blank" href="${s.url}">${s.title||s.url}</a></p>`).join("");
+let DATA = null;
+let saved = JSON.parse(localStorage.getItem("gmb_words") || "[]");
+const $ = id => document.getElementById(id);
+
+function speak(text){
+  if(!("speechSynthesis" in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = "en-US";
+  u.rate = 0.86;
+  speechSynthesis.speak(u);
 }
-function answer(i){$("feedback").textContent=i===D.quiz.answer_index?"✓ "+D.quiz.explanation:"Try again."}
-async function load(url){D=await fetch(url+"?v="+Date.now()).then(r=>r.json());$("archivePanel").classList.add("hidden");$("brief").classList.remove("hidden");render();scrollTo(0,0)}
-async function archives(){let a=await fetch("data/archive_index.json?v="+Date.now()).then(r=>r.json());$("brief").classList.add("hidden");$("archivePanel").classList.remove("hidden");$("archiveList").innerHTML=a.map(x=>`<div class="archive-item" onclick="load('${x.file}')"><span class="muted">${x.date_display||x.date_iso}</span><br><b>${x.headline}</b></div>`).join("")||"<p>No archived briefs yet.</p>"}
-$("todayBtn").onclick=()=>load("data/today.json"); $("archiveBtn").onclick=archives; $("b2btn").onclick=()=>{$("b2").classList.toggle("hidden")};
-load("data/today.json");
-</script></body></html>
+
+function saveWord(word, meaning, type="word"){
+  if(!saved.some(x => x.word === word)){
+    saved.push({
+      word,
+      meaning,
+      type,
+      date: DATA?.date_iso || ""
+    });
+    localStorage.setItem("gmb_words", JSON.stringify(saved));
+    renderMyWords();
+  }
+}
+
+function renderMyWords(){
+  const box = $("mywords");
+  if(!saved.length){
+    box.innerHTML = "<p class='muted'>Save words or expressions and they will stay here on this device.</p>";
+    return;
+  }
+  box.innerHTML = "";
+  saved.forEach((x,i)=>{
+    const row = document.createElement("div");
+    row.className = "wordrow";
+    row.innerHTML = `
+      <div>
+        <div class="en">${x.word}</div>
+        <div class="ko">${x.meaning}</div>
+        ${x.date ? `<div class="muted" style="font-size:12px">${x.date}</div>` : ""}
+      </div>
+      <div class="actions">
+        <button class="icon" data-saved-speak="${x.word}">🔊</button>
+        <button class="smallbtn" data-remove="${i}">Remove</button>
+      </div>`;
+    box.appendChild(row);
+  });
+
+  box.querySelectorAll("[data-saved-speak]").forEach(btn=>{
+    btn.onclick = ()=>speak(btn.dataset.savedSpeak);
+  });
+  box.querySelectorAll("[data-remove]").forEach(btn=>{
+    btn.onclick = ()=>{
+      saved.splice(Number(btn.dataset.remove),1);
+      localStorage.setItem("gmb_words", JSON.stringify(saved));
+      renderMyWords();
+    };
+  });
+}
+
+function render(){
+  $("status").classList.add("hidden");
+  $("date").textContent = DATA.date_display || DATA.date_iso || "";
+  $("headline").textContent = DATA.headline || "";
+  $("dek").textContent = DATA.dek || "";
+  $("readtime").textContent = DATA.read_time || "8 min";
+  $("storytitle").textContent = DATA.story_title || "";
+  $("story").innerHTML = DATA.story_html || "";
+  $("b2help").innerHTML = `<h3>B2 help</h3><p>${DATA.b2_summary || ""}</p>`;
+
+  $("vocab").innerHTML = "";
+  (DATA.vocabulary || []).forEach(v=>{
+    $("vocab").insertAdjacentHTML("beforeend", `
+      <div class="wordrow">
+        <div>
+          <div class="en">${v.term}</div>
+          <div class="ko">${v.meaning}</div>
+        </div>
+        <div class="actions">
+          <button class="icon" data-vs="${v.term}">🔊</button>
+          <button class="smallbtn" data-vsave="${v.term}">Save</button>
+        </div>
+      </div>`);
+  });
+
+  document.querySelectorAll("[data-vs]").forEach(btn=>{
+    btn.onclick = ()=>speak(btn.dataset.vs);
+  });
+  document.querySelectorAll("[data-vsave]").forEach(btn=>{
+    btn.onclick = ()=>{
+      const v = DATA.vocabulary.find(x=>x.term===btn.dataset.vsave);
+      saveWord(v.term, v.meaning, "word");
+    };
+  });
+
+  $("countries").innerHTML = "";
+  (DATA.countries || []).forEach(c=>{
+    $("countries").insertAdjacentHTML("beforeend", `
+      <div class="country">
+        <b>${c.flag} ${c.name}</b>
+        ${c.focus}
+      </div>`);
+  });
+  $("common").textContent = "What the world is watching: " + (DATA.common_theme || "");
+
+  $("conceptTitle").textContent = DATA.concept?.title || "";
+  $("conceptBody").textContent = DATA.concept?.explanation || "";
+
+  $("phrases").innerHTML = "";
+  (DATA.expressions || []).forEach(x=>{
+    $("phrases").insertAdjacentHTML("beforeend", `
+      <div class="wordrow">
+        <div>
+          <div class="en">${x.term}</div>
+          <div class="ko">${x.meaning}</div>
+          <div class="muted">${x.example || ""}</div>
+        </div>
+        <div class="actions">
+          <button class="icon" data-ps="${x.term}">🔊</button>
+          <button class="smallbtn" data-psave="${x.term}">Save</button>
+        </div>
+      </div>`);
+  });
+
+  document.querySelectorAll("[data-ps]").forEach(btn=>{
+    btn.onclick = ()=>speak(btn.dataset.ps);
+  });
+  document.querySelectorAll("[data-psave]").forEach(btn=>{
+    btn.onclick = ()=>{
+      const p = DATA.expressions.find(x=>x.term===btn.dataset.psave);
+      saveWord(p.term, p.meaning, "phrase");
+    };
+  });
+
+  $("q").textContent = DATA.quiz?.question || "";
+  $("answers").innerHTML = "";
+  (DATA.quiz?.options || []).forEach((opt,i)=>{
+    $("answers").insertAdjacentHTML("beforeend", `<button data-q="${i}">${String.fromCharCode(65+i)}. ${opt}</button>`);
+  });
+  document.querySelectorAll("[data-q]").forEach(btn=>{
+    btn.onclick = ()=>{
+      document.querySelectorAll("[data-q]").forEach(x=>x.className="");
+      const ok = Number(btn.dataset.q) === DATA.quiz.answer_index;
+      btn.className = ok ? "ok" : "bad";
+      $("feedback").textContent = ok ? "✓ " + DATA.quiz.explanation : "Try again.";
+    };
+  });
+
+  $("sentence").textContent = DATA.one_sentence || "";
+  $("listenSentence").onclick = ()=>speak(DATA.one_sentence || "");
+
+  $("sources").innerHTML = (DATA.sources || []).map(s=>`
+    <p><b>${s.name}</b> · ${s.region || ""}<br>
+    <a href="${s.url}" target="_blank" rel="noopener">${s.title || s.url}</a></p>
+  `).join("");
+
+  renderMyWords();
+}
+
+async function loadBrief(url){
+  $("archivePanel").classList.add("hidden");
+  $("briefView").classList.remove("hidden");
+  $("status").classList.remove("hidden");
+  $("status").textContent = "Loading brief…";
+
+  try{
+    const res = await fetch(url + "?ts=" + Date.now());
+    if(!res.ok) throw new Error(res.status);
+    DATA = await res.json();
+    render();
+    window.scrollTo({top:0, behavior:"smooth"});
+  }catch(err){
+    $("status").textContent = "This brief could not be loaded.";
+    console.error(err);
+  }
+}
+
+async function showArchive(){
+  $("briefView").classList.add("hidden");
+  $("archivePanel").classList.remove("hidden");
+
+  try{
+    const res = await fetch("data/archive_index.json?ts=" + Date.now());
+    const items = await res.json();
+    const box = $("archiveList");
+
+    if(!items.length){
+      box.innerHTML = "<p class='muted'>No archived briefs yet.</p>";
+      return;
+    }
+
+    box.innerHTML = "";
+    items.forEach(item=>{
+      const el = document.createElement("div");
+      el.className = "archive-item";
+      el.innerHTML = `
+        <div class="archive-date">${item.date_display || item.date_iso}</div>
+        <div class="archive-title">${item.headline}</div>`;
+      el.onclick = ()=>loadBrief(item.file);
+      box.appendChild(el);
+    });
+  }catch(err){
+    $("archiveList").innerHTML = "<p class='muted'>Archive could not be loaded yet.</p>";
+  }
+}
+
+$("todayBtn").onclick = ()=>loadBrief("data/today.json");
+$("archiveBtn").onclick = showArchive;
+
+$("simplifyBtn").onclick = ()=>{
+  $("b2help").classList.toggle("hidden");
+  $("simplifyBtn").textContent =
+    $("b2help").classList.contains("hidden") ? "Show B2 help" : "Hide B2 help";
+};
+
+renderMyWords();
+loadBrief("data/today.json");
+</script>
+</body>
+</html>
