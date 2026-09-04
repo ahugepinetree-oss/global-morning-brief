@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-09-05",
+    "date_display": "September 5, 2026",
+    "headline": "One jobs report, four different market reactions",
+    "file": "data/archive/2026-09-05.json"
+  },
+  {
     "date_iso": "2026-09-04",
     "date_display": "September 4, 2026",
     "headline": "AI optimism meets rate uncertainty across four major economies",
