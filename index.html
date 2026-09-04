@@ -1,88 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Global Morning Brief</title>
 <style>
-:root{--bg:#f7f7f3;--card:#fff;--text:#171717;--muted:#73736d;--line:#e7e7df;--soft:#efefe9}
-*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.65}
-.wrap{max-width:920px;margin:auto;padding:26px 18px 80px}
-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:22px}.brand{font-weight:900;letter-spacing:.12em;font-size:13px}.badge{background:white;border:1px solid var(--line);border-radius:99px;padding:6px 11px;font-size:12px;font-weight:800}
-.card{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:24px;margin-bottom:16px}.hero{padding:32px}
-.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:11px;font-weight:900;color:var(--muted);margin-bottom:9px}
-h1{font-size:clamp(34px,6vw,62px);line-height:1.04;letter-spacing:-.045em;margin:0 0 14px} h2{margin:0 0 14px;letter-spacing:-.025em}
-.muted{color:var(--muted)} .meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}.chip{background:var(--soft);padding:6px 10px;border-radius:99px;font-size:12px;font-weight:800}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.story p{font-size:17px;margin:0 0 15px}
-.term{border-bottom:1px dotted #555;cursor:pointer}.phrase{border-bottom:2px solid #111;font-weight:750;cursor:pointer}
-.wordrow{display:flex;justify-content:space-between;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}.wordrow:last-child{border-bottom:0}.en{font-weight:900}.ko{font-size:14px;color:var(--muted)}
-.actions{display:flex;gap:8px;align-items:center;flex-shrink:0}button{font:inherit;cursor:pointer}.icon,.smallbtn{border:1px solid var(--line);background:#fff;border-radius:99px;padding:7px 10px;font-weight:800}.icon{width:36px;height:36px;padding:0}
-.primary{border:0;background:#111;color:#fff;padding:11px 15px;border-radius:12px;font-weight:900}.secondary{border:1px solid var(--line);background:#fff;padding:11px 15px;border-radius:12px;font-weight:900}
-.country{background:var(--soft);padding:16px;border-radius:16px}.country b{display:block;margin-bottom:6px}.theme{border-left:4px solid #111;background:#fafaf7;padding:15px;border-radius:10px;font-weight:850;margin-top:14px}
-.quiz button{display:block;width:100%;text-align:left;margin:8px 0;border:1px solid var(--line);background:white;border-radius:13px;padding:13px;font-weight:750}.quiz .ok{background:#f0fdf4}.quiz .bad{background:#fef2f2}
-.pop{position:fixed;z-index:999;background:#111;color:#fff;padding:15px;border-radius:14px;max-width:310px;box-shadow:0 12px 40px #0003}.pop .meaning{color:#d7d7d0;margin:5px 0 12px}.hidden{display:none}
-.notice{background:#fffbe8;border:1px solid #efe1a8;border-radius:15px;padding:13px;margin-bottom:16px;font-size:14px}
-@media(max-width:720px){.grid{grid-template-columns:1fr}.hero{padding:23px}.card{padding:20px}}
-</style>
-</head>
-<body>
-<div class="wrap">
-<header><div class="brand">GLOBAL MORNING BRIEF</div><div class="badge" id="level">Original-first · B2 help</div></header>
-<div id="status" class="notice">Loading today's brief…</div>
-<section class="card hero">
-<div class="eyebrow" id="date"></div><h1 id="headline">Loading…</h1><p class="muted" id="dek"></p>
-<div class="meta"><span class="chip" id="readtime"></span><span class="chip">Global economy</span><span class="chip">English study</span></div>
-</section>
-
-<section class="grid">
-<div class="card"><div class="eyebrow">Before you read</div><h2>Words worth knowing</h2><div id="vocab"></div></div>
-<div class="card"><div class="eyebrow">Your memory</div><h2>My word bank</h2><div id="mywords"></div></div>
-</section>
-
-<section class="card story"><div class="eyebrow">Original-style brief · Click highlighted words</div><h2 id="storytitle"></h2><div id="story"></div>
-<button class="secondary" id="simplifyBtn">Show B2 help</button><div id="b2help" class="hidden" style="margin-top:16px"></div>
-</section>
-
-<section class="card"><div class="eyebrow">Global snapshot</div><h2>What major economies are watching</h2><div class="grid" id="countries"></div><div class="theme" id="common"></div></section>
-
-<section class="card"><div class="eyebrow">Understand the economy</div><h2 id="conceptTitle"></h2><p id="conceptBody"></p></section>
-
-<section class="card"><div class="eyebrow">News expressions</div><h2>Useful chunks, not just single words</h2><div id="phrases"></div></section>
-
-<section class="card quiz"><div class="eyebrow">30-second check</div><h2 id="q"></h2><div id="answers"></div><div id="feedback"></div></section>
-
-<section class="card"><div class="eyebrow">One sentence today</div><h2 id="sentence"></h2><button class="primary" id="listenSentence">🔊 Listen</button></section>
-
-<section class="card"><div class="eyebrow">Sources used for today's synthesis</div><div id="sources"></div></section>
-<div id="pop" class="pop hidden"></div>
-</div>
+body{font-family:Arial,sans-serif;background:#f7f7f3;color:#171717;margin:0}.wrap{max-width:900px;margin:auto;padding:24px}
+.card{background:#fff;border:1px solid #e7e7df;border-radius:18px;padding:22px;margin-bottom:16px}
+button{cursor:pointer;border:1px solid #ddd;background:#fff;border-radius:10px;padding:9px 12px;font-weight:700}
+header{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:18px}
+h1{font-size:clamp(34px,6vw,58px);line-height:1.05}.muted{color:#777}.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.row{display:flex;justify-content:space-between;gap:10px;padding:10px 0;border-bottom:1px solid #eee}.row:last-child{border-bottom:0}
+.hidden{display:none}.archive-item{padding:12px;border:1px solid #eee;border-radius:12px;margin:8px 0;cursor:pointer}.archive-item:hover{background:#f2f2ec}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
+</style></head>
+<body><div class="wrap">
+<header><b>GLOBAL MORNING BRIEF</b><div><button id="todayBtn">Today</button> <button id="archiveBtn">Past Briefs</button></div></header>
+<div id="archivePanel" class="card hidden"><h2>Past Briefs</h2><div id="archiveList"></div></div>
+<div id="brief">
+<section class="card"><div id="date" class="muted"></div><h1 id="headline">Loading…</h1><p id="dek" class="muted"></p></section>
+<section class="card"><h2>Words worth knowing</h2><div id="vocab"></div></section>
+<section class="card"><h2 id="storytitle"></h2><div id="story"></div><button id="b2btn">Show B2 help</button><div id="b2" class="hidden"></div></section>
+<section class="card"><h2>Global snapshot</h2><div id="countries" class="grid"></div><p><b id="common"></b></p></section>
+<section class="card"><h2>News expressions</h2><div id="expressions"></div></section>
+<section class="card"><h2 id="conceptTitle"></h2><p id="conceptBody"></p></section>
+<section class="card"><h2 id="question"></h2><div id="answers"></div><p id="feedback"></p></section>
+<section class="card"><h2 id="sentence"></h2><button id="listen">🔊 Listen</button></section>
+<section class="card"><h2>Sources</h2><div id="sources"></div></section>
+</div></div>
 <script>
-let DATA=null;
-let saved=JSON.parse(localStorage.getItem("gmb_words")||"[]");
-const $=id=>document.getElementById(id);
-function speak(t){if(!("speechSynthesis" in window))return;speechSynthesis.cancel();let u=new SpeechSynthesisUtterance(t);u.lang="en-US";u.rate=.86;speechSynthesis.speak(u)}
-function saveWord(word,meaning,type="word"){if(!saved.some(x=>x.word===word)){saved.push({word,meaning,type});localStorage.setItem("gmb_words",JSON.stringify(saved));renderMyWords()}}
-function renderMyWords(){let b=$("mywords");b.innerHTML=saved.length?"":"<p class='muted'>Words and expressions you save will appear here.</p>";saved.forEach((x,i)=>{let r=document.createElement("div");r.className="wordrow";r.innerHTML=`<div><div class=en>${x.word}</div><div class=ko>${x.meaning}</div></div><div class=actions><button class=icon data-speak="${x.word}">🔊</button><button class=smallbtn data-remove="${i}">Remove</button></div>`;b.appendChild(r)});b.querySelectorAll("[data-speak]").forEach(x=>x.onclick=()=>speak(x.dataset.speak));b.querySelectorAll("[data-remove]").forEach(x=>x.onclick=()=>{saved.splice(+x.dataset.remove,1);localStorage.setItem("gmb_words",JSON.stringify(saved));renderMyWords()})}
-function popup(el){let p=$("pop"),word=el.dataset.word,meaning=el.dataset.meaning;p.innerHTML=`<div class=en>${word}</div><div class=meaning>${meaning}</div><button class=primary id=addPop>Add to my words</button>`;let r=el.getBoundingClientRect();p.style.left=Math.max(10,Math.min(innerWidth-325,r.left))+"px";p.style.top=Math.min(innerHeight-160,r.bottom+8)+"px";p.classList.remove("hidden");$("addPop").onclick=()=>saveWord(word,meaning,el.classList.contains("phrase")?"phrase":"word")}
+let D=null; const $=x=>document.getElementById(x);
+function speak(t){if("speechSynthesis"in window){speechSynthesis.cancel();let u=new SpeechSynthesisUtterance(t);u.lang="en-US";u.rate=.86;speechSynthesis.speak(u)}}
 function render(){
- $("status").classList.add("hidden"); $("date").textContent=DATA.date_display; $("headline").textContent=DATA.headline; $("dek").textContent=DATA.dek;$("readtime").textContent=DATA.read_time;
- $("storytitle").textContent=DATA.story_title;
- let glossary={};[...(DATA.vocabulary||[]),...(DATA.expressions||[])].forEach(x=>glossary[x.term]={meaning:x.meaning,type:x.type||"word"});
- let story=DATA.story_html; Object.keys(glossary).sort((a,b)=>b.length-a.length).forEach(term=>{let g=glossary[term];let cls=g.type==="phrase"?"phrase":"term";let re=new RegExp(`(?<![\\w>])${term.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&')}(?![\\w<])`,"gi");story=story.replace(re,m=>`<span class="${cls}" data-word="${m}" data-meaning="${g.meaning.replace(/"/g,"&quot;")}">${m}</span>`)});
- $("story").innerHTML=story;$("story").querySelectorAll(".term,.phrase").forEach(x=>x.onclick=e=>{e.stopPropagation();popup(x)});
- $("b2help").innerHTML=`<h3>B2 help</h3><p>${DATA.b2_summary}</p>`;
- $("vocab").innerHTML="";DATA.vocabulary.forEach(x=>{$("vocab").insertAdjacentHTML("beforeend",`<div class=wordrow><div><div class=en>${x.term}</div><div class=ko>${x.meaning}</div></div><div class=actions><button class=icon data-vs="${x.term}">🔊</button><button class=smallbtn data-vadd="${x.term}">Save</button></div></div>`)});document.querySelectorAll("[data-vs]").forEach(x=>x.onclick=()=>speak(x.dataset.vs));document.querySelectorAll("[data-vadd]").forEach(x=>x.onclick=()=>{let v=DATA.vocabulary.find(v=>v.term===x.dataset.vadd);saveWord(v.term,v.meaning)});
- $("countries").innerHTML="";DATA.countries.forEach(c=>$("countries").insertAdjacentHTML("beforeend",`<div class=country><b>${c.flag} ${c.name}</b>${c.focus}</div>`));$("common").textContent="What the world is watching: "+DATA.common_theme;
- $("conceptTitle").textContent=DATA.concept.title;$("conceptBody").textContent=DATA.concept.explanation;
- $("phrases").innerHTML="";DATA.expressions.forEach(x=>$("phrases").insertAdjacentHTML("beforeend",`<div class=wordrow><div><div class=en>${x.term}</div><div class=ko>${x.meaning}</div><div class=muted>${x.example||""}</div></div><div class=actions><button class=icon data-ps="${x.term}">🔊</button><button class=smallbtn data-padd="${x.term}">Save</button></div></div>`));document.querySelectorAll("[data-ps]").forEach(x=>x.onclick=()=>speak(x.dataset.ps));document.querySelectorAll("[data-padd]").forEach(x=>x.onclick=()=>{let v=DATA.expressions.find(v=>v.term===x.dataset.padd);saveWord(v.term,v.meaning,"phrase")});
- $("q").textContent=DATA.quiz.question;$("answers").innerHTML="";DATA.quiz.options.forEach((o,i)=>{$("answers").insertAdjacentHTML("beforeend",`<button data-q="${i}">${String.fromCharCode(65+i)}. ${o}</button>`)});document.querySelectorAll("[data-q]").forEach(b=>b.onclick=()=>{document.querySelectorAll("[data-q]").forEach(x=>x.className="");let ok=+b.dataset.q===DATA.quiz.answer_index;b.className=ok?"ok":"bad";$("feedback").textContent=ok?"✓ "+DATA.quiz.explanation:"Try again."});
- $("sentence").textContent=DATA.one_sentence;$("listenSentence").onclick=()=>speak(DATA.one_sentence);
- $("sources").innerHTML=(DATA.sources||[]).map(s=>`<p><b>${s.name}</b> · ${s.region||""}<br><a href="${s.url}" target="_blank" rel="noopener">${s.title||s.url}</a></p>`).join("");
- renderMyWords();
+ $("date").textContent=D.date_display||D.date_iso||""; $("headline").textContent=D.headline||""; $("dek").textContent=D.dek||"";
+ $("storytitle").textContent=D.story_title||""; $("story").innerHTML=D.story_html||""; $("b2").innerHTML="<h3>B2 help</h3><p>"+(D.b2_summary||"")+"</p>";
+ $("vocab").innerHTML=(D.vocabulary||[]).map(x=>`<div class="row"><div><b>${x.term}</b><br><span class="muted">${x.meaning}</span></div><button onclick='speak(${JSON.stringify(x.term)})'>🔊</button></div>`).join("");
+ $("countries").innerHTML=(D.countries||[]).map(x=>`<div class="card"><b>${x.flag} ${x.name}</b><br>${x.focus}</div>`).join("");
+ $("common").textContent="What the world is watching: "+(D.common_theme||"");
+ $("expressions").innerHTML=(D.expressions||[]).map(x=>`<div class="row"><div><b>${x.term}</b><br><span class="muted">${x.meaning}</span><br>${x.example||""}</div><button onclick='speak(${JSON.stringify(x.term)})'>🔊</button></div>`).join("");
+ $("conceptTitle").textContent=D.concept?.title||""; $("conceptBody").textContent=D.concept?.explanation||"";
+ $("question").textContent=D.quiz?.question||""; $("answers").innerHTML=(D.quiz?.options||[]).map((x,i)=>`<button onclick="answer(${i})">${String.fromCharCode(65+i)}. ${x}</button> `).join("");
+ $("sentence").textContent=D.one_sentence||""; $("listen").onclick=()=>speak(D.one_sentence||"");
+ $("sources").innerHTML=(D.sources||[]).map(s=>`<p><b>${s.name}</b> · ${s.region||""}<br><a target="_blank" href="${s.url}">${s.title||s.url}</a></p>`).join("");
 }
-$("simplifyBtn").onclick=()=>{$("b2help").classList.toggle("hidden");$("simplifyBtn").textContent=$("b2help").classList.contains("hidden")?"Show B2 help":"Hide B2 help"};
-document.addEventListener("click",e=>{if(!$("pop").contains(e.target))$("pop").classList.add("hidden")});
-fetch("data/today.json?ts="+Date.now()).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{DATA=d;render()}).catch(e=>{$("status").textContent="Today's automatic brief could not be loaded. The sample data may not have been generated yet.";console.error(e)});
-renderMyWords();
-</script>
-</body></html>
+function answer(i){$("feedback").textContent=i===D.quiz.answer_index?"✓ "+D.quiz.explanation:"Try again."}
+async function load(url){D=await fetch(url+"?v="+Date.now()).then(r=>r.json());$("archivePanel").classList.add("hidden");$("brief").classList.remove("hidden");render();scrollTo(0,0)}
+async function archives(){let a=await fetch("data/archive_index.json?v="+Date.now()).then(r=>r.json());$("brief").classList.add("hidden");$("archivePanel").classList.remove("hidden");$("archiveList").innerHTML=a.map(x=>`<div class="archive-item" onclick="load('${x.file}')"><span class="muted">${x.date_display||x.date_iso}</span><br><b>${x.headline}</b></div>`).join("")||"<p>No archived briefs yet.</p>"}
+$("todayBtn").onclick=()=>load("data/today.json"); $("archiveBtn").onclick=archives; $("b2btn").onclick=()=>{$("b2").classList.toggle("hidden")};
+load("data/today.json");
+</script></body></html>
