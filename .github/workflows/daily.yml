@@ -13,8 +13,12 @@ permissions:
   id-token: write
 
 jobs:
-  generate:
+  generate-and-deploy:
     runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -41,3 +45,15 @@ jobs:
           git add data/today.json
           git diff --cached --quiet || git commit -m "Update daily brief"
           git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
