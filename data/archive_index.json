@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-09-12",
+    "date_display": "September 12, 2026",
+    "headline": "AI demand lifts trade, but supply-chain politics keep markets uneasy",
+    "file": "data/archive/2026-09-12.json"
+  },
+  {
     "date_iso": "2026-09-11",
     "date_display": "September 11, 2026",
     "headline": "An energy shock puts inflation back at the center of Asian policy debates",
