@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-09-19",
+    "date_display": "September 19, 2026",
+    "headline": "A more expensive world of money",
+    "file": "data/archive/2026-09-19.json"
+  },
+  {
     "date_iso": "2026-09-18",
     "date_display": "September 18, 2026",
     "headline": "One Fed hike, four different economic responses",
