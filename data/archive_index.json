@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-09-30",
+    "date_display": "September 30, 2026",
+    "headline": "Trade détente, higher yields, and a more selective global market",
+    "file": "data/archive/2026-09-30.json"
+  },
+  {
     "date_iso": "2026-09-29",
     "date_display": "September 29, 2026",
     "headline": "Higher-for-longer rates test Asia’s markets",
