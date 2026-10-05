@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-10-05",
+    "date_display": "October 5, 2026",
+    "headline": "Uneven demand signals in a holiday-thinned market",
+    "file": "data/archive/2026-10-05.json"
+  },
+  {
     "date_iso": "2026-10-04",
     "date_display": "October 4, 2026",
     "headline": "AI supports Asia’s factories while the U.S. labor market cools",
