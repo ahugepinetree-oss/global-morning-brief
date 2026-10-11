@@ -1,0 +1,150 @@
+{
+  "date_iso": "2026-10-11",
+  "date_display": "October 11, 2026",
+  "headline": "AI exports are cushioning weaker domestic demand—but unevenly",
+  "dek": "Across the United States, China, Japan, and South Korea, investment and exports are supporting growth while household confidence and consumption remain less dependable.",
+  "read_time": "8 min",
+  "story_title": "The uneven engine of growth",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The American economy is showing a widening gap between corporate investment and household mood. Services activity slowed in September, yet businesses reported the sharpest increase in input prices in more than four years. Domestic demand remains relatively strong, particularly through consumer spending and investment in artificial-intelligence infrastructure. At the same time, early-October consumer sentiment fell close to a record low as households reacted to higher living costs, inflation, and expensive borrowing. The result is a difficult policy mix: growth has not collapsed, but price pressures could limit how quickly the Federal Reserve can ease. ([investing.com](https://www.investing.com/news/economy-news/us-services-sector-activity-slows-in-september-price-pressures-mount-4932428?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is responding to a different version of the same problem. Consumption and fixed investment have been weak, while high-tech manufacturing and goods exports remain comparatively dynamic. On October 9, the government allocated 550 billion yuan in unused local-government debt quotas, partly to stabilize county finances and partly to support infrastructure projects. Chinese state media also reported improving offline consumption during the third quarter. These signals should not be treated as proof of a broad-based recovery: fiscal support is being used because private demand is still not strong enough to carry the economy alone. ([finwire.io](https://finwire.io/news/economy-news/china-ramps-up-fiscal-push-to-meet-growth-target?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is less dependent on emergency fiscal support at this moment, but its recovery remains sensitive to household purchasing power. The Bank of Japan’s October regional report described consumption as broadly resilient, helped by improving real incomes and inbound tourism, although bad weather temporarily weakened some retail activity. That is a more constructive picture than China’s, but it still leaves the central bank balancing two risks: withdrawing monetary support too quickly could damage demand, while persistent price increases could make continued accommodation harder to justify. Japan therefore illustrates that “domestic demand” is not one uniform story across Asia.</p><p><strong>South Korea 🇰🇷</strong> Korea is benefiting most clearly from the investment-and-export side of the equation. September factory activity accelerated, and export orders rose at their fastest pace in roughly fifteen and a half years, led by semiconductors and automobiles. This is closely linked to global AI infrastructure spending, which is lifting demand for advanced chips. But export strength does not automatically translate into equally strong household consumption. Korea’s economy remains exposed to swings in global technology spending, exchange rates, energy costs, and foreign interest rates. The shared theme, then, is not a synchronized boom or slowdown. It is an uneven growth model: investment and trade are providing momentum, while policymakers still need to repair the weaker link—domestic demand.</p>",
+  "b2_summary": "The four economies are growing in different ways. In the United States, AI investment is supporting demand, but consumers feel pessimistic because living costs and borrowing costs are high. China is using government debt to support infrastructure because household consumption and private investment are weak. Japan’s consumers are holding up better, helped by higher real incomes and tourism, although the recovery is still fragile. South Korea is benefiting from strong semiconductor and automobile exports connected to AI investment. The common theme is uneven growth: companies and exporters are active, but households are not equally confident everywhere.",
+  "vocabulary": [
+    {
+      "term": "input prices",
+      "meaning": "The costs businesses pay for materials, energy, and services before producing something (투입 비용·생산비용)."
+    },
+    {
+      "term": "domestic demand",
+      "meaning": "Spending by households and businesses inside a country (내수)."
+    },
+    {
+      "term": "fiscal support",
+      "meaning": "Government spending or tax measures used to support the economy (재정 지원·재정 부양)."
+    },
+    {
+      "term": "debt quota",
+      "meaning": "An officially permitted amount of borrowing, often available to a government or institution (채무 한도·부채 할당액)."
+    },
+    {
+      "term": "broad-based recovery",
+      "meaning": "A recovery supported by many sectors and groups, not just a few strong industries (광범위한 경기 회복)."
+    },
+    {
+      "term": "real income",
+      "meaning": "Income after considering changes in prices; it shows what people can actually buy (실질소득)."
+    },
+    {
+      "term": "inbound tourism",
+      "meaning": "Travel into a country by foreign visitors (방한 관광·외국인 관광)."
+    },
+    {
+      "term": "export orders",
+      "meaning": "New orders received from overseas customers (수출 주문·수출 신규 주문)."
+    },
+    {
+      "term": "monetary accommodation",
+      "meaning": "Keeping interest rates or financial conditions relatively supportive of borrowing and spending (완화적 통화정책)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "remain comparatively dynamic",
+      "meaning": "To continue performing better than other areas or economies.",
+      "example": "High-tech manufacturing remains comparatively dynamic despite weak property investment.",
+      "type": "phrase"
+    },
+    {
+      "term": "carry the economy",
+      "meaning": "To provide enough growth to support the whole economy.",
+      "example": "Exports are strong, but they cannot carry the economy indefinitely if household spending weakens.",
+      "type": "phrase"
+    },
+    {
+      "term": "hold up better",
+      "meaning": "To perform less badly than expected or than comparable areas.",
+      "example": "Japanese consumption is holding up better than Chinese consumption.",
+      "type": "phrase"
+    },
+    {
+      "term": "the weaker link",
+      "meaning": "The part of a system that is performing less effectively and limits the whole system.",
+      "example": "For many export economies, household demand is now the weaker link.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "AI investment is supporting demand, but consumer sentiment and price pressures are moving in opposite directions."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Fiscal support is being expanded because weak consumption and investment are offsetting stronger high-tech sectors."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Consumption is broadly resilient, helped by real-income gains and inbound tourism, but the recovery remains delicate."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Semiconductors and automobiles are driving a powerful export cycle linked to global AI investment."
+    }
+  ],
+  "common_theme": "Investment and exports are cushioning weaker or uneven domestic demand. The four economies do not share the same outlook, but each shows a gap between stronger corporate or trade activity and less dependable household demand.",
+  "concept": {
+    "title": "Broad-based recovery",
+    "explanation": "A broad-based recovery happens when growth is shared across households, businesses, sectors, and regions. If only exporters, technology companies, or government projects are expanding, the economy may still grow, but the recovery is narrower and more vulnerable."
+  },
+  "quiz": {
+    "question": "Why is China using additional local-government debt quotas?",
+    "options": [
+      "Because household consumption and private investment remain weak",
+      "Because tourism has completely stopped",
+      "Because semiconductor exports have collapsed"
+    ],
+    "answer_index": 0,
+    "explanation": "The new borrowing capacity is intended to support local finances and infrastructure while domestic demand remains insufficiently strong."
+  },
+  "one_sentence": "A strong export engine can lift the headline numbers, but a durable recovery requires households to feel confident enough to spend.",
+  "sources": [
+    {
+      "name": "Reuters via Investing.com",
+      "region": "United States",
+      "title": "US services sector activity slows in September, price pressures mount",
+      "url": "https://www.investing.com/news/economy-news/us-services-sector-activity-slows-in-september-price-pressures-mount-4932428"
+    },
+    {
+      "name": "Reuters via Devdiscourse",
+      "region": "United States",
+      "title": "US consumer sentiment near record low as frustration over economy mounts",
+      "url": "https://www.devdiscourse.com/article/international/3990048-reuters-us-domestic-news-summary"
+    },
+    {
+      "name": "Reuters via Finwire",
+      "region": "China",
+      "title": "China ramps up fiscal push to meet growth target",
+      "url": "https://finwire.io/news/economy-news/china-ramps-up-fiscal-push-to-meet-growth-target"
+    },
+    {
+      "name": "China Central Government Open Data",
+      "region": "China",
+      "title": "October 10, 2026 news bulletin: consumption and economic policy updates",
+      "url": "https://cn.govopendata.com/xinwenlianbo/20261010/"
+    },
+    {
+      "name": "Bank of Japan",
+      "region": "Japan",
+      "title": "Current economic conditions by region: October 2026 branch managers’ meeting report",
+      "url": "https://www.boj.or.jp/research/brp/rer/rera261008.htm"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "South Korea",
+      "title": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+      "url": "https://www.marketscreener.com/news/south-korea-factory-growth-hits-4-month-high-as-export-orders-boom-pmi-shows-ce785ad3da8cf025"
+    }
+  ]
+}
