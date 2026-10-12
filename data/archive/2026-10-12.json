@@ -1,0 +1,138 @@
+{
+  "date_iso": "2026-10-12",
+  "date_display": "October 12, 2026",
+  "headline": "The AI investment boom is becoming a four-economy story",
+  "dek": "America supplies demand and capital; China accelerates adoption; Japan benefits from equipment orders; South Korea captures the chip-export upside.",
+  "read_time": "8 min",
+  "story_title": "AI investment is reshaping growth across the Pacific",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The latest American data point to an economy still powered by domestic demand and heavy business spending on artificial intelligence and related infrastructure. Yet the picture is becoming less comfortable: services activity has cooled, while input-price pressures have intensified. That combination leaves the Federal Reserve facing a difficult trade-off. Strong AI investment supports growth, but higher costs could keep inflation elevated and delay a convincing shift toward easier monetary policy. ([investing.com](https://www.investing.com/news/economy-news/us-services-sector-activity-slows-in-september-price-pressures-mount-4932428?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is treating AI not merely as a technology sector but as a new engine of industrial policy. Official data released on October 11 showed investment in frontier fields such as AI and humanoid robots surged 184.1% year on year in the third quarter. Spending on computing power, data networks and other “new infrastructure” is also accelerating. The figures suggest that policymakers are trying to offset weaker traditional drivers by directing capital toward advanced manufacturing and digital services. This is a policy-led expansion, however, rather than evidence that every part of the economy is equally strong. ([english.news.cn](https://english.news.cn/20261011/5dad5070d25840c5adc791e08a7df649/c.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japanese manufacturers are benefiting from the same global build-out, especially through demand for chipmaking equipment and data-center components. The October Reuters Tankan manufacturing index rose to +22, its highest level since December 2021, while precision machinery recorded particularly strong sentiment. The contrast with non-manufacturers is important: service-sector confidence weakened as costs and interest rates rose. Japan’s economy is therefore experiencing a targeted industrial lift, not a broad-based boom. ([tradingeconomics.com](https://tradingeconomics.com/japan/reuters-tankan-index?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Korea is perhaps the clearest beneficiary—and the clearest example of concentration risk. September exports reached a record $120.94 billion, while semiconductor exports exceeded $60 billion for the first time and jumped 263% from a year earlier. That performance reflects surging memory-chip prices and global AI demand, but it also makes national growth unusually dependent on one sector. The common theme across all four economies is not a shared business cycle. It is the spread of an AI investment cycle through demand, industrial policy, equipment orders and semiconductor trade. ([english.hani.co.kr](https://english.hani.co.kr/arti/english_edition/e_business/1280654.html?utm_source=openai))</p>",
+  "b2_summary": "AI investment is affecting all four economies, but in different ways. In the United States, strong business spending supports growth while higher costs create inflation worries. China is directing large amounts of capital toward AI, robots and digital infrastructure to create new growth engines. Japan is benefiting from stronger orders for chipmaking equipment, although many service businesses remain under pressure. South Korea is enjoying record exports because of strong memory-chip demand, but this also increases its dependence on the semiconductor sector. The shared theme is AI-led investment—not a uniform recovery.",
+  "vocabulary": [
+    {
+      "term": "input-price pressure",
+      "meaning": "비용 압력: 기업이 원자재·에너지·부품에 더 많은 돈을 지불하게 되는 상황 (투입물 가격 상승 압력)"
+    },
+    {
+      "term": "trade-off",
+      "meaning": "상충관계: 한 가지를 개선하면 다른 목표가 나빠질 수 있는 상황 (상쇄 관계)"
+    },
+    {
+      "term": "frontier technology",
+      "meaning": "첨단 기술: 현재 기술의 가장 앞선 영역에 있는 기술 (최첨단 기술)"
+    },
+    {
+      "term": "industrial policy",
+      "meaning": "산업정책: 정부가 특정 산업을 키우기 위해 투자·규제·지원책을 사용하는 정책"
+    },
+    {
+      "term": "new infrastructure",
+      "meaning": "신형 인프라: 데이터센터·컴퓨팅 능력·5G·데이터 네트워크 같은 디지털 기반시설"
+    },
+    {
+      "term": "broad-based boom",
+      "meaning": "광범위한 호황: 한 산업이 아니라 경제 여러 부문에서 동시에 나타나는 성장"
+    },
+    {
+      "term": "concentration risk",
+      "meaning": "집중 위험: 특정 산업·시장·고객에 지나치게 의존해서 생기는 위험"
+    },
+    {
+      "term": "memory chip",
+      "meaning": "메모리 칩: 데이터를 저장하는 반도체 (DRAM·NAND 같은 저장용 반도체)"
+    },
+    {
+      "term": "manufacturing sentiment",
+      "meaning": "제조업 심리: 제조업체들이 경기를 얼마나 낙관적으로 보는지 보여주는 지표"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "be powered by",
+      "meaning": "~에 의해 성장이나 움직임이 뒷받침되다",
+      "example": "The recovery is being powered by strong investment in AI infrastructure.",
+      "type": "phrase"
+    },
+    {
+      "term": "face a difficult trade-off",
+      "meaning": "어려운 상충관계에 직면하다",
+      "example": "The central bank faces a difficult trade-off between growth and inflation.",
+      "type": "phrase"
+    },
+    {
+      "term": "benefit from the build-out",
+      "meaning": "대규모 구축·확대의 혜택을 받다",
+      "example": "Japanese equipment makers are benefiting from the global data-center build-out.",
+      "type": "phrase"
+    },
+    {
+      "term": "a clear example of",
+      "meaning": "~의 뚜렷한 사례이다",
+      "example": "South Korea is a clear example of the opportunities and risks created by chip dependence.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "AI-led business investment, cooling services activity and persistent cost pressures."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Policy-driven investment in AI, robots and digital infrastructure."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Stronger manufacturer sentiment, led by chip equipment and data-center demand."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Record exports and rising dependence on memory chips."
+    }
+  ],
+  "common_theme": "AI investment is spreading through demand, industrial policy, capital equipment and semiconductor trade, but its macroeconomic effects differ across the four economies.",
+  "concept": {
+    "title": "What is concentration risk?",
+    "explanation": "Concentration risk means relying too heavily on one sector, customer or market. It can produce impressive growth when conditions are favorable, but it can also make the whole economy vulnerable when demand or prices suddenly weaken. South Korea’s dependence on semiconductors is a clear example."
+  },
+  "quiz": {
+    "question": "Which economy shows the clearest concentration risk in today’s brief?",
+    "options": [
+      "United States",
+      "Japan",
+      "South Korea"
+    ],
+    "answer_index": 2,
+    "explanation": "South Korea’s record export performance is being driven heavily by semiconductor demand, especially memory chips."
+  },
+  "one_sentence": "The AI boom is connecting the four economies—but it is not affecting them in the same way.",
+  "sources": [
+    {
+      "name": "Reuters",
+      "region": "United States",
+      "title": "US services sector cools in September, price pressures building",
+      "url": "https://www.investing.com/news/economy-news/us-services-sector-activity-slows-in-september-price-pressures-mount-4932428"
+    },
+    {
+      "name": "Xinhua",
+      "region": "China",
+      "title": "High-frequency data points to China's improving economic momentum in Q3",
+      "url": "https://english.news.cn/20261011/5dad5070d25840c5adc791e08a7df649/c.html"
+    },
+    {
+      "name": "Trading Economics / Reuters Tankan",
+      "region": "Japan",
+      "title": "Japan Reuters Tankan Index",
+      "url": "https://tradingeconomics.com/japan/reuters-tankan-index"
+    },
+    {
+      "name": "The Hankyoreh",
+      "region": "South Korea",
+      "title": "Korea’s monthly exports exceed $120 billion for first time in September",
+      "url": "https://english.hani.co.kr/arti/english_edition/e_business/1280654.html"
+    }
+  ]
+}

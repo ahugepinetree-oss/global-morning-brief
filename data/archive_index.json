@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-10-12",
+    "date_display": "October 12, 2026",
+    "headline": "The AI investment boom is becoming a four-economy story",
+    "file": "data/archive/2026-10-12.json"
+  },
+  {
     "date_iso": "2026-10-11",
     "date_display": "October 11, 2026",
     "headline": "AI exports are cushioning weaker domestic demand—but unevenly",
