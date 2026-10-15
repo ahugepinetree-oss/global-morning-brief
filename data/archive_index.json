@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-10-15",
+    "date_display": "October 15, 2026",
+    "headline": "AI demand is strong, but higher inflation is testing the investment cycle",
+    "file": "data/archive/2026-10-15.json"
+  },
+  {
     "date_iso": "2026-10-14",
     "date_display": "October 14, 2026",
     "headline": "The AI boom meets a new test: demand, rates, and Chinese competition",
