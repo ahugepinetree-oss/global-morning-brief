@@ -1,0 +1,148 @@
+{
+  "date_iso": "2026-10-16",
+  "date_display": "October 16, 2026",
+  "headline": "Hot U.S. inflation sends a shock through Asian technology markets",
+  "dek": "The United States, China, Japan, and South Korea are responding differently to renewed interest-rate fears and doubts about the AI investment boom.",
+  "read_time": "8 min",
+  "story_title": "One inflation report, four different economic reactions",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — September consumer inflation accelerated to 3.7% year on year, while core CPI, which excludes food and energy, rose 2.6%. The figures were above expectations and revived speculation that the Federal Reserve may raise interest rates again at its October 27–28 meeting. Markets had previously leaned toward a pause, but traders rapidly increased the implied probability of another hike. The immediate effect was especially severe in technology shares, whose valuations depend heavily on expectations of strong future growth.</p><p><strong>China 🇨🇳</strong> — China has not escaped the global risk-off mood, but its response has been less dramatic. The Shanghai Composite fell about 1.6% on October 15, as investors worried that higher U.S. rates could strengthen the dollar and encourage capital to move toward American assets. However, domestic liquidity remains relatively supportive, and September exports surged 36.3% from a year earlier. That combination gives Chinese equities a partial cushion, although it also intensifies international criticism of China’s large trade surplus and manufacturing capacity.</p><p><strong>Japan 🇯🇵</strong> — Japanese shares were hit harder because the market is highly exposed to global technology companies, exporters, and changes in the yen. The Nikkei 225 fell almost 5% on October 15 as investors reassessed the value of semiconductor and AI-related companies. A stronger dollar can benefit Japanese exporters, but higher U.S. yields also tighten global financial conditions and make richly valued growth stocks less attractive. Japan therefore faces a delicate balance: a weaker yen may support corporate earnings, while volatile markets can damage household and business confidence.</p><p><strong>South Korea 🇰🇷</strong> — Korea suffered the sharpest equity-market reaction among the four economies. The KOSPI fell 7.57% and temporarily triggered a circuit breaker, while Samsung Electronics and SK hynix dropped sharply. The sell-off reflected both the global rise in borrowing costs and doubts about whether enormous AI infrastructure spending will generate sufficient profits. Because semiconductors account for a large share of Korean exports and market capitalization, Korea is particularly sensitive to changes in technology sentiment. Foreign investors also sold heavily, pushing the won lower against the dollar.</p><p>The connecting theme is not a uniform economic downturn but <strong>the repricing of growth</strong>. When investors expect interest rates to remain higher, future corporate profits are worth less today. That mechanism hits speculative technology shares first, then spreads through currencies, capital flows, and export economies. China appears relatively insulated because of domestic policy support, while Japan and South Korea are more exposed to the semiconductor cycle. The United States remains the source of the shock—but its own consumers and policymakers must now decide how much economic strength is compatible with price stability. ([marketscreener.com](https://www.marketscreener.com/news/fed-rate-hike-call-seen-tight-as-inflation-heats-up-ce785dd2df8eff2d?utm_source=openai))</p>",
+  "b2_summary": "U.S. inflation rose faster than expected in September, making investors think the Federal Reserve may raise interest rates again. Higher rates usually reduce the value of future company profits, so technology and AI shares suffered. South Korea was hit hardest: the KOSPI fell 7.57%, and trading was temporarily stopped. Japan’s Nikkei also dropped sharply. China’s market declined less because domestic policy remains supportive, while strong exports provided some protection. The common theme is the repricing of high-growth assets when borrowing costs may stay higher for longer.",
+  "vocabulary": [
+    {
+      "term": "core CPI",
+      "meaning": "물가에서 식품과 에너지처럼 변동이 큰 항목을 뺀 수치 (근원 소비자물가지수)"
+    },
+    {
+      "term": "rate hike",
+      "meaning": "중앙은행이 기준금리를 올리는 것 (금리 인상)"
+    },
+    {
+      "term": "implied probability",
+      "meaning": "시장 가격을 바탕으로 계산한 가능성 (내재 확률)"
+    },
+    {
+      "term": "risk-off mood",
+      "meaning": "투자자들이 위험한 자산을 팔고 안전한 자산을 찾는 분위기 (위험 회피 심리)"
+    },
+    {
+      "term": "domestic liquidity",
+      "meaning": "한 나라 안에서 기업과 시장에 공급되는 자금의 양 (국내 유동성)"
+    },
+    {
+      "term": "trade surplus",
+      "meaning": "수출액이 수입액보다 많은 상태 (무역 흑자)"
+    },
+    {
+      "term": "richly valued",
+      "meaning": "현재 실적에 비해 주가가 높게 평가된 (고평가된)"
+    },
+    {
+      "term": "circuit breaker",
+      "meaning": "주가가 급락할 때 거래를 잠시 멈추는 장치 (거래 중단 제도)"
+    },
+    {
+      "term": "reprice growth",
+      "meaning": "금리나 전망 변화에 따라 성장주의 가치를 다시 평가하다 (성장자산 재평가)"
+    },
+    {
+      "term": "capital flows",
+      "meaning": "국가와 시장 사이를 이동하는 투자 자금 (자본 흐름)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "revive speculation that",
+      "meaning": "~라는 추측을 다시 불러일으키다",
+      "example": "The data revived speculation that the central bank may raise rates again.",
+      "type": "phrase"
+    },
+    {
+      "term": "remain higher for longer",
+      "meaning": "금리나 비용이 더 오랫동안 높은 상태로 유지되다",
+      "example": "Investors are preparing for borrowing costs to remain higher for longer.",
+      "type": "phrase"
+    },
+    {
+      "term": "be hit hard by",
+      "meaning": "~에 의해 큰 타격을 받다",
+      "example": "Export markets were hit hard by the global technology sell-off.",
+      "type": "phrase"
+    },
+    {
+      "term": "provide a partial cushion",
+      "meaning": "충격을 어느 정도 완화해 주다",
+      "example": "Strong exports provided a partial cushion for Chinese equities.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Sticky inflation and renewed Federal Reserve rate-hike expectations"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Strong exports and domestic liquidity cushioning global market pressure"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Nikkei sell-off, yen effects, and exposure to global technology shares"
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Semiconductor losses, foreign selling, and a KOSPI circuit breaker"
+    }
+  ],
+  "common_theme": "Higher-for-longer interest-rate fears are forcing investors to reassess high-growth technology assets, with the strongest effects appearing in Japan and South Korea.",
+  "concept": {
+    "title": "Why do higher interest rates hurt growth stocks?",
+    "explanation": "A growth company’s value depends heavily on profits expected many years in the future. When interest rates rise, those future profits are discounted more heavily, so their value today falls. This is why technology and AI shares can decline sharply even when the companies’ current sales remain strong."
+  },
+  "quiz": {
+    "question": "Why was South Korea especially vulnerable to the global technology sell-off?",
+    "options": [
+      "Its economy and stock market are heavily exposed to semiconductors.",
+      "Its central bank immediately cut interest rates to zero.",
+      "Its exports are almost entirely made up of agricultural products."
+    ],
+    "answer_index": 0,
+    "explanation": "Semiconductors represent a major share of South Korea’s exports and market capitalization, making the country highly sensitive to changes in technology sentiment and global borrowing costs."
+  },
+  "one_sentence": "When U.S. inflation changes the path of interest rates, the repricing can travel across borders faster than the goods being traded.",
+  "sources": [
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "United States",
+      "title": "Fed rate-hike call seen tight as inflation heats up",
+      "url": "https://www.marketscreener.com/news/fed-rate-hike-call-seen-tight-as-inflation-heats-up-ce785dd2df8eff2d"
+    },
+    {
+      "name": "Reuters via Metrobank Wealth Insights",
+      "region": "United States / Asia",
+      "title": "Global Markets: Asian markets sell off as AI trades crumble after hot US CPI data",
+      "url": "https://wealthinsights.metrobank.com.ph/news/global-markets-asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data"
+    },
+    {
+      "name": "Associated Press",
+      "region": "China",
+      "title": "China's trade surplus nears record as pressure mounts from trading partners",
+      "url": "https://apnews.com/article/db43e08437b65f65c2ead64c82f9b990"
+    },
+    {
+      "name": "Securities Times via Eastmoney",
+      "region": "China / Japan",
+      "title": "美联储加息预期升温，难改A股中长期运行趋势",
+      "url": "https://finance.eastmoney.com/a/202610153897191777.html"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Tech rout triggers trading halt for KOSPI stocks for 20 min.",
+      "url": "https://en.yna.co.kr/view/AEN20261015002800320?section=economy-finance%2Feconomy"
+    }
+  ]
+}
