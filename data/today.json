@@ -1,73 +1,69 @@
 {
-  "date_iso": "2026-10-17",
-  "date_display": "October 17, 2026",
-  "headline": "AI investment becomes a market-wide stress test",
-  "dek": "Across the United States, China, Japan, and South Korea, enthusiasm for artificial intelligence is colliding with higher costs, tighter controls, and doubts about future returns.",
+  "date_iso": "2026-10-18",
+  "date_display": "October 18, 2026",
+  "headline": "Economic security is rewriting Asia’s trade map",
+  "dek": "The United States, China, Japan, and South Korea are increasingly treating technology, investment, and supply chains as strategic assets—not merely commercial matters.",
   "read_time": "8 min",
-  "story_title": "The AI boom is spreading—and so are its risks",
-  "story_html": "<p><strong>United States 🇺🇸</strong> The immediate concern in the United States is not whether artificial intelligence will transform productivity, but whether investors have priced in too much success too quickly. Federal Reserve officials have noted that AI-related demand is pushing up the prices of chips, computers, software, construction, and electricity. The investment surge is supporting growth, yet it may also create inflationary pressure and leave markets vulnerable if expected revenues fail to materialize. In that scenario, a correction in technology shares could weaken both corporate investment and household spending through a wealth effect. ([federalreserve.gov](https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is responding from a different position. On October 16, China’s Ministry of Commerce and Ministry of Science and Technology proposed adding 40 technologies—including large AI models, AI agents, and computing clusters—to its list of controlled or prohibited exports. The proposal is framed as a security and governance measure, and it contains exemptions or expedited treatment for some open-source and overseas operations. At the same time, Chinese officials are emphasizing moderately loose monetary policy and more proactive fiscal support. China is therefore trying to encourage technological development while retaining greater control over how sensitive capabilities move across borders. ([mofcom.gov.cn](https://www.mofcom.gov.cn/zwgk/zcjd/art/2026/art_b11d5c1e9374421e93e85dc87eba6e38.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is absorbing the global AI debate through its equity market and semiconductor supply chain. The Nikkei fell sharply during the week, with investors worried that AI-related valuations had become detached from near-term earnings prospects. Even strong results from Taiwan Semiconductor Manufacturing Company failed to reverse the broader risk-off mood. Japanese chip-related shares were pulled lower alongside U.S. semiconductor stocks, illustrating how closely Japan’s market is linked to global technology spending, imported equipment, and expectations for data-center demand. The episode shows that good company results do not always overcome a change in investor sentiment. ([s.kabutan.jp](https://s.kabutan.jp/news/n202610170063/?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> South Korea faces a similar tension, but with an especially direct exposure to memory chips and electronics exports. Korean semiconductor shares were also sold as investors reassessed the durability of the AI investment cycle. The common thread across the four economies is not a single shared policy response: the United States is watching inflation and financial stability, China is tightening technology governance while supporting demand, and Japan and South Korea are navigating market volatility through highly exposed industrial sectors. AI remains a powerful growth story, but it is increasingly becoming a macroeconomic transmission channel—one that can move prices, trade rules, investment, and stock markets at the same time. ([s.kabutan.jp](https://s.kabutan.jp/news/n202610170063/?utm_source=openai))</p>",
-  "b2_summary": "AI investment is now affecting all four economies, but in different ways. In the United States, strong demand for chips, software, electricity, and data centers may support growth but also raise prices. China is proposing new controls on advanced AI technologies while continuing to support the economy with easier policy. Japan’s stock market has weakened because investors worry that technology shares are too expensive. South Korea’s semiconductor stocks have also fallen because the country depends heavily on global chip demand. The shared theme is that AI is influencing inflation, trade policy, industrial production, and financial markets at the same time.",
+  "story_title": "From free trade to strategic trade",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — American markets ended the week under pressure as technology shares weakened and oil prices climbed toward $110 a barrel. The combination matters because higher energy costs can revive inflation while falling technology stocks challenge the premium valuations built around artificial-intelligence growth. Washington is also using investment policy more aggressively: it wants allied capital and manufacturing capacity located inside the United States, especially in sectors considered important to national security. South Korean investment has been explicitly praised for supporting American jobs and strengthening bilateral commercial ties. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261017000400315?utm_source=openai))</p><p><strong>China 🇨🇳</strong> — Beijing, meanwhile, is tightening control over the outward flow of technological know-how. A draft proposal would place 40 technologies in artificial intelligence, biomedicine, and solar manufacturing under export bans or licensing requirements. The measure appears designed to control technology transfers rather than simply restrict finished products. That distinction is important: Chinese companies could continue selling many goods abroad while making it harder for overseas firms to reproduce the underlying capabilities. The proposal also shows that export controls are no longer only a Western instrument; China is developing its own tools of economic statecraft. ([caixinglobal.com](https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> — Japan is responding through deeper coordination with the United States. At a recent U.S.-Japan business conference, companies called for more mutual investment, cooperation in artificial intelligence and advanced technologies, and more resilient supply chains. Japan’s central bank is also navigating a different strategic problem: inflation is now close enough to its 2% target for policymakers to keep gradual rate increases in view. In other words, Japanese firms are being encouraged to invest and innovate internationally while the Bank of Japan tries to normalize monetary policy at home without damaging a still-fragile recovery. ([uschamber.com](https://www.uschamber.com/international/joint-statement-of-the-63rd-u-s-japan-business-conference?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> — Seoul illustrates both the opportunities and the risks of this new environment. Exports more than doubled in the first ten days of October, led by semiconductors, while shipments to both China and the United States surged. That performance shows how Korean companies can benefit from strong demand for advanced chips. Yet it also exposes Korea to competing pressures: Washington wants more production and investment on American soil, while China remains a major market and manufacturing partner. Korean policymakers therefore have to preserve commercial access on both sides without becoming dangerously dependent on either one. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261012001851320?utm_source=openai))</p><p>The common theme is not a single coordinated policy, but a shared shift in priorities. The four economies are still trading extensively, yet they are increasingly asking who controls the technology, capital, and production capacity behind that trade. Economic efficiency remains important, but resilience and national security are now being priced into business decisions. For companies, the result is a more complicated map: investment locations, licensing rules, and supply-chain exposure can matter as much as wages or market size.</p>",
+  "b2_summary": "The United States, China, Japan, and South Korea are still closely connected through trade, but economic security is becoming more important. The United States wants more investment and production at home. China is proposing controls on exports of advanced technology. Japan is strengthening cooperation with the United States while managing inflation and interest rates. South Korea is benefiting from strong semiconductor exports but must balance its relationships with both Washington and Beijing. The main lesson is that companies now consider national security, supply-chain resilience, and technology control alongside traditional business factors such as cost and demand.",
   "vocabulary": [
     {
-      "term": "price in",
-      "meaning": "to include an expected event in a price already (가격에 이미 반영하다)"
-    },
-    {
-      "term": "wealth effect",
-      "meaning": "the tendency for people to spend more when their assets become more valuable (자산 가격 상승이 소비를 늘리는 효과)"
-    },
-    {
-      "term": "materialize",
-      "meaning": "to actually happen or produce the expected result (실제로 나타나다·실현되다)"
+      "term": "economic statecraft",
+      "meaning": "Using economic tools to achieve national goals (경제적 수단을 활용한 국가전략)."
     },
     {
       "term": "export control",
-      "meaning": "a government rule limiting the overseas sale or transfer of certain goods or technologies (수출통제)"
+      "meaning": "A government rule limiting the sale or transfer of certain goods or technology abroad (수출통제)."
     },
     {
-      "term": "computing cluster",
-      "meaning": "a group of connected computers working together on demanding tasks (고성능 연산 장비 묶음·컴퓨팅 클러스터)"
+      "term": "know-how",
+      "meaning": "Practical knowledge about how to make or do something, especially commercially valuable technology (실무 기술지식·노하우)."
     },
     {
-      "term": "risk-off mood",
-      "meaning": "a market atmosphere in which investors prefer safer assets (위험회피 분위기)"
+      "term": "licensing requirement",
+      "meaning": "A rule saying that official permission is needed before something can be exported or used (허가 요건)."
     },
     {
-      "term": "valuation",
-      "meaning": "the estimated financial worth of a company or asset (기업·자산의 평가가치)"
+      "term": "resilient supply chain",
+      "meaning": "A supply network that can continue working after shocks or disruptions (충격에 견디는 공급망)."
     },
     {
-      "term": "spillover",
-      "meaning": "an effect that spreads from one market, sector, or country to another (파급효과)"
+      "term": "normalize monetary policy",
+      "meaning": "To move interest rates away from emergency settings toward more ordinary levels (통화정책 정상화)."
     },
     {
-      "term": "transmission channel",
-      "meaning": "a route through which one economic shock affects other parts of the economy (경제 충격이 전달되는 경로)"
+      "term": "premium valuation",
+      "meaning": "A high market price justified by strong expected future growth (높은 성장 기대가 반영된 고평가)."
+    },
+    {
+      "term": "commercial access",
+      "meaning": "The ability to sell products or operate in a particular market (시장 접근권)."
     }
   ],
   "expressions": [
     {
-      "term": "be priced in",
-      "meaning": "to be reflected in a market price or expectation",
-      "example": "Much of the expected AI growth may already be priced in.",
+      "term": "come under pressure",
+      "meaning": "To face worsening conditions or stronger criticism",
+      "example": "Technology shares came under pressure as investors questioned AI valuations.",
       "type": "phrase"
     },
     {
-      "term": "fail to reverse the mood",
-      "meaning": "not succeed in changing a generally negative market direction",
-      "example": "Strong earnings failed to reverse the mood.",
+      "term": "on American soil",
+      "meaning": "Inside the United States; often used to emphasize domestic production",
+      "example": "The policy aims to bring more semiconductor production on American soil.",
       "type": "phrase"
     },
     {
-      "term": "be pulled lower",
-      "meaning": "to fall because another market or sector is weakening",
-      "example": "Korean chip shares were pulled lower by U.S. technology stocks.",
+      "term": "in view",
+      "meaning": "Being considered as a realistic future possibility",
+      "example": "Further rate increases remain in view for the Bank of Japan.",
       "type": "phrase"
     },
     {
-      "term": "the common thread is",
-      "meaning": "the main idea connecting several different situations",
-      "example": "The common thread is rising uncertainty about future returns.",
+      "term": "price something into business decisions",
+      "meaning": "To include a risk or cost when making plans",
+      "example": "Companies are pricing geopolitical risk into business decisions.",
       "type": "phrase"
     }
   ],
@@ -75,64 +71,70 @@
     {
       "flag": "🇺🇸",
       "name": "United States",
-      "focus": "AI investment, inflation, and financial-stability risks"
+      "focus": "Technology-market pressure, oil-driven inflation risk, and efforts to attract allied investment."
     },
     {
       "flag": "🇨🇳",
       "name": "China",
-      "focus": "Proposed AI export controls and supportive macroeconomic policy"
+      "focus": "Proposed export controls on AI, biomedicine, and solar-manufacturing technology."
     },
     {
       "flag": "🇯🇵",
       "name": "Japan",
-      "focus": "Nikkei volatility and exposure to global semiconductor demand"
+      "focus": "U.S. cooperation, supply-chain resilience, and gradual monetary-policy normalization."
     },
     {
       "flag": "🇰🇷",
       "name": "South Korea",
-      "focus": "Semiconductor shares and dependence on the AI investment cycle"
+      "focus": "A semiconductor-led export surge alongside difficult balancing between China and the United States."
     }
   ],
-  "common_theme": "AI investment is becoming a cross-border macroeconomic transmission channel, affecting inflation, technology controls, industrial supply chains, and equity-market sentiment.",
+  "common_theme": "Economic security is reshaping trade, investment, and technology decisions across the four economies.",
   "concept": {
-    "title": "The wealth effect",
-    "explanation": "When people see the value of their shares or homes rise, they may feel richer and spend more. If asset prices fall, they may reduce spending instead. This is called the wealth effect, and it can connect financial markets to the real economy."
+    "title": "What are export controls?",
+    "explanation": "Export controls are government rules that limit who can receive certain products, software, or technical knowledge abroad. They are often used for national security, not just for commercial reasons. A ban stops an export completely, while a licensing system allows it only after official approval."
   },
   "quiz": {
-    "question": "Why can a fall in technology shares affect the wider economy?",
+    "question": "Why are export controls becoming more important in the article?",
     "options": [
-      "It can reduce investment and household spending through weaker expectations and wealth effects.",
-      "It automatically increases exports in every country.",
-      "It guarantees lower interest rates from all central banks."
+      "Because all four economies are ending international trade",
+      "Because technology and supply chains are increasingly viewed as strategic assets",
+      "Because central banks want to eliminate semiconductor production"
     ],
-    "answer_index": 0,
-    "explanation": "A market correction can reduce companies’ willingness to invest and make households feel less wealthy, weakening spending."
+    "answer_index": 1,
+    "explanation": "The article says governments increasingly treat technology, capital, and production capacity as matters of national security."
   },
-  "one_sentence": "AI is no longer only a technology story; it is becoming a test of how markets, trade rules, inflation, and industrial economies interact.",
+  "one_sentence": "Trade is still global, but the rules are increasingly being written by governments that want to control the technology and capacity behind it.",
   "sources": [
     {
-      "name": "Federal Reserve Board",
-      "region": "United States",
-      "title": "Speech by Governor Cook on an update on AI and the economy",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm"
+      "name": "Yonhap News Agency",
+      "region": "South Korea / United States",
+      "title": "U.S. envoy highlights role of S. Korean investment in creating American jobs",
+      "url": "https://en.yna.co.kr/view/AEN20261017000400315"
     },
     {
-      "name": "China Ministry of Commerce",
+      "name": "Caixin Global",
       "region": "China",
-      "title": "Response on revising China’s catalogue of prohibited and restricted technologies for export",
-      "url": "https://www.mofcom.gov.cn/zwgk/zcjd/art/2026/art_b11d5c1e9374421e93e85dc87eba6e38.html"
+      "title": "China Proposes Export Curbs on AI and Solar Technology",
+      "url": "https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html"
     },
     {
-      "name": "Kabutan News",
-      "region": "Japan and South Korea",
-      "title": "Weekly stock-market overview: sharp decline amid concerns over AI investment",
-      "url": "https://s.kabutan.jp/news/n202610170063/"
+      "name": "U.S. Chamber of Commerce",
+      "region": "United States / Japan",
+      "title": "Joint Statement of the 63rd U.S.-Japan Business Conference",
+      "url": "https://www.uschamber.com/international/joint-statement-of-the-63rd-u-s-japan-business-conference"
     },
     {
-      "name": "Eastmoney / CLS",
-      "region": "China",
-      "title": "Morning economic and financial news summary, October 16, 2026",
-      "url": "https://finance.eastmoney.com/a/202610163897555160.html"
+      "name": "Bank of Japan",
+      "region": "Japan",
+      "title": "Summary of Opinions at the Monetary Policy Meeting, September 17–18, 2026",
+      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Exports double in first 10 days of October on chips",
+      "url": "https://en.yna.co.kr/view/AEN20261012001851320"
     }
   ]
 }

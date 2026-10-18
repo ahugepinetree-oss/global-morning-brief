@@ -1,0 +1,140 @@
+{
+  "date_iso": "2026-10-18",
+  "date_display": "October 18, 2026",
+  "headline": "Economic security is rewriting Asia’s trade map",
+  "dek": "The United States, China, Japan, and South Korea are increasingly treating technology, investment, and supply chains as strategic assets—not merely commercial matters.",
+  "read_time": "8 min",
+  "story_title": "From free trade to strategic trade",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — American markets ended the week under pressure as technology shares weakened and oil prices climbed toward $110 a barrel. The combination matters because higher energy costs can revive inflation while falling technology stocks challenge the premium valuations built around artificial-intelligence growth. Washington is also using investment policy more aggressively: it wants allied capital and manufacturing capacity located inside the United States, especially in sectors considered important to national security. South Korean investment has been explicitly praised for supporting American jobs and strengthening bilateral commercial ties. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261017000400315?utm_source=openai))</p><p><strong>China 🇨🇳</strong> — Beijing, meanwhile, is tightening control over the outward flow of technological know-how. A draft proposal would place 40 technologies in artificial intelligence, biomedicine, and solar manufacturing under export bans or licensing requirements. The measure appears designed to control technology transfers rather than simply restrict finished products. That distinction is important: Chinese companies could continue selling many goods abroad while making it harder for overseas firms to reproduce the underlying capabilities. The proposal also shows that export controls are no longer only a Western instrument; China is developing its own tools of economic statecraft. ([caixinglobal.com](https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> — Japan is responding through deeper coordination with the United States. At a recent U.S.-Japan business conference, companies called for more mutual investment, cooperation in artificial intelligence and advanced technologies, and more resilient supply chains. Japan’s central bank is also navigating a different strategic problem: inflation is now close enough to its 2% target for policymakers to keep gradual rate increases in view. In other words, Japanese firms are being encouraged to invest and innovate internationally while the Bank of Japan tries to normalize monetary policy at home without damaging a still-fragile recovery. ([uschamber.com](https://www.uschamber.com/international/joint-statement-of-the-63rd-u-s-japan-business-conference?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> — Seoul illustrates both the opportunities and the risks of this new environment. Exports more than doubled in the first ten days of October, led by semiconductors, while shipments to both China and the United States surged. That performance shows how Korean companies can benefit from strong demand for advanced chips. Yet it also exposes Korea to competing pressures: Washington wants more production and investment on American soil, while China remains a major market and manufacturing partner. Korean policymakers therefore have to preserve commercial access on both sides without becoming dangerously dependent on either one. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261012001851320?utm_source=openai))</p><p>The common theme is not a single coordinated policy, but a shared shift in priorities. The four economies are still trading extensively, yet they are increasingly asking who controls the technology, capital, and production capacity behind that trade. Economic efficiency remains important, but resilience and national security are now being priced into business decisions. For companies, the result is a more complicated map: investment locations, licensing rules, and supply-chain exposure can matter as much as wages or market size.</p>",
+  "b2_summary": "The United States, China, Japan, and South Korea are still closely connected through trade, but economic security is becoming more important. The United States wants more investment and production at home. China is proposing controls on exports of advanced technology. Japan is strengthening cooperation with the United States while managing inflation and interest rates. South Korea is benefiting from strong semiconductor exports but must balance its relationships with both Washington and Beijing. The main lesson is that companies now consider national security, supply-chain resilience, and technology control alongside traditional business factors such as cost and demand.",
+  "vocabulary": [
+    {
+      "term": "economic statecraft",
+      "meaning": "Using economic tools to achieve national goals (경제적 수단을 활용한 국가전략)."
+    },
+    {
+      "term": "export control",
+      "meaning": "A government rule limiting the sale or transfer of certain goods or technology abroad (수출통제)."
+    },
+    {
+      "term": "know-how",
+      "meaning": "Practical knowledge about how to make or do something, especially commercially valuable technology (실무 기술지식·노하우)."
+    },
+    {
+      "term": "licensing requirement",
+      "meaning": "A rule saying that official permission is needed before something can be exported or used (허가 요건)."
+    },
+    {
+      "term": "resilient supply chain",
+      "meaning": "A supply network that can continue working after shocks or disruptions (충격에 견디는 공급망)."
+    },
+    {
+      "term": "normalize monetary policy",
+      "meaning": "To move interest rates away from emergency settings toward more ordinary levels (통화정책 정상화)."
+    },
+    {
+      "term": "premium valuation",
+      "meaning": "A high market price justified by strong expected future growth (높은 성장 기대가 반영된 고평가)."
+    },
+    {
+      "term": "commercial access",
+      "meaning": "The ability to sell products or operate in a particular market (시장 접근권)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "come under pressure",
+      "meaning": "To face worsening conditions or stronger criticism",
+      "example": "Technology shares came under pressure as investors questioned AI valuations.",
+      "type": "phrase"
+    },
+    {
+      "term": "on American soil",
+      "meaning": "Inside the United States; often used to emphasize domestic production",
+      "example": "The policy aims to bring more semiconductor production on American soil.",
+      "type": "phrase"
+    },
+    {
+      "term": "in view",
+      "meaning": "Being considered as a realistic future possibility",
+      "example": "Further rate increases remain in view for the Bank of Japan.",
+      "type": "phrase"
+    },
+    {
+      "term": "price something into business decisions",
+      "meaning": "To include a risk or cost when making plans",
+      "example": "Companies are pricing geopolitical risk into business decisions.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Technology-market pressure, oil-driven inflation risk, and efforts to attract allied investment."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Proposed export controls on AI, biomedicine, and solar-manufacturing technology."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "U.S. cooperation, supply-chain resilience, and gradual monetary-policy normalization."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "A semiconductor-led export surge alongside difficult balancing between China and the United States."
+    }
+  ],
+  "common_theme": "Economic security is reshaping trade, investment, and technology decisions across the four economies.",
+  "concept": {
+    "title": "What are export controls?",
+    "explanation": "Export controls are government rules that limit who can receive certain products, software, or technical knowledge abroad. They are often used for national security, not just for commercial reasons. A ban stops an export completely, while a licensing system allows it only after official approval."
+  },
+  "quiz": {
+    "question": "Why are export controls becoming more important in the article?",
+    "options": [
+      "Because all four economies are ending international trade",
+      "Because technology and supply chains are increasingly viewed as strategic assets",
+      "Because central banks want to eliminate semiconductor production"
+    ],
+    "answer_index": 1,
+    "explanation": "The article says governments increasingly treat technology, capital, and production capacity as matters of national security."
+  },
+  "one_sentence": "Trade is still global, but the rules are increasingly being written by governments that want to control the technology and capacity behind it.",
+  "sources": [
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea / United States",
+      "title": "U.S. envoy highlights role of S. Korean investment in creating American jobs",
+      "url": "https://en.yna.co.kr/view/AEN20261017000400315"
+    },
+    {
+      "name": "Caixin Global",
+      "region": "China",
+      "title": "China Proposes Export Curbs on AI and Solar Technology",
+      "url": "https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html"
+    },
+    {
+      "name": "U.S. Chamber of Commerce",
+      "region": "United States / Japan",
+      "title": "Joint Statement of the 63rd U.S.-Japan Business Conference",
+      "url": "https://www.uschamber.com/international/joint-statement-of-the-63rd-u-s-japan-business-conference"
+    },
+    {
+      "name": "Bank of Japan",
+      "region": "Japan",
+      "title": "Summary of Opinions at the Monetary Policy Meeting, September 17–18, 2026",
+      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Exports double in first 10 days of October on chips",
+      "url": "https://en.yna.co.kr/view/AEN20261012001851320"
+    }
+  ]
+}
