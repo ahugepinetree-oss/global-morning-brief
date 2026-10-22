@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-10-22",
+  "date_display": "October 22, 2026",
+  "headline": "Export power meets a more expensive world",
+  "dek": "Across the United States, China, Japan, and South Korea, trade, energy costs, and inflation are forcing policymakers to balance growth against resilience.",
+  "read_time": "8 min",
+  "story_title": "Export Power Meets a More Expensive World",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — The American economy is still expanding, but businesses are navigating a less comfortable mix of conditions. The Federal Reserve’s October Beige Book reported modest growth in several regions, while tariffs, elevated energy costs, and policy uncertainty continued to raise input prices. Some manufacturers are benefiting from data-center construction and defense demand, yet many service companies have less power to pass higher costs on to customers. That leaves profit margins under pressure and complicates the Federal Reserve’s task: it must prevent inflation from becoming entrenched without unnecessarily weakening demand. The next major official growth release is scheduled for October 29. ([federalreserve.gov](https://www.federalreserve.gov/monetarypolicy/beigebook202610-new-york.htm?utm_source=openai))</p><p><strong>China 🇨🇳</strong> — China’s economy accelerated to 4.5% year on year in the July–September quarter, helped by robust exports and demand for technology-related goods. The headline figure is encouraging, but the composition of growth remains uneven. Consumer spending is subdued, property investment is weak, and the country’s exceptionally large trade surplus is attracting greater resistance abroad. In other words, exports are cushioning domestic weakness, but they are also intensifying trade friction. Beijing therefore faces a difficult policy challenge: support industrial competitiveness while also stimulating household demand and reducing the economy’s dependence on overseas markets. ([apnews.com](https://apnews.com/article/71354a055a412ef13e4e2edad070b4a5?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> — Japan illustrates the opposite side of external dependence. Its trade deficit reached ¥2.81 trillion in the first half of the fiscal year as sharply higher oil-import costs pushed up the import bill. Even if exporters remain competitive, an energy shock can erode national income by making essential inputs more expensive. The result is a policy dilemma for Tokyo and the Bank of Japan: tighter monetary policy could help contain inflation, but higher borrowing costs could weaken already-sensitive domestic demand. Japan’s experience shows that a country can face economic pressure not because exports collapse, but because the cost of imports rises faster than export earnings. ([apnews.com](https://apnews.com/article/c2265fa62a4511229dd83693d94d32e2?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> — South Korea sits between these two patterns. Strong semiconductor exports have improved the growth outlook, while inflation remains above the Bank of Korea’s 2% target. After two consecutive rate increases, markets widely expect the BOK to hold its policy rate at 3.00% on October 22, while leaving open the possibility of another hike later. The central bank must weigh export momentum against household debt, housing prices, currency movements, and imported energy costs. The broader theme is clear: external strength is valuable, but it does not automatically translate into secure domestic growth. Across these four economies, policymakers are trying to make their economies less vulnerable to shocks without sacrificing the trade and investment that currently support them. ([investing.com](https://www.investing.com/news/economy-news/bank-of-korea-chief-says-monetary-policyto-stay-restrictive-for-now-4946286?utm_source=openai))</p>",
+  "b2_summary": "The United States, China, Japan, and South Korea are all facing pressure from the global economy, but in different ways. U.S. companies are dealing with tariffs and higher energy costs. China is growing through strong exports, although domestic spending and property investment remain weak. Japan is suffering because expensive oil imports have created a large trade deficit. South Korea is benefiting from semiconductor exports, but inflation, household debt, and housing prices remain concerns. The common theme is that international trade supports growth while also making economies more exposed to tariffs, energy prices, and unstable demand.",
+  "vocabulary": [
+    {
+      "term": "input prices",
+      "meaning": "The costs a company pays for materials, energy, transport, or labor before making a product (생산 투입 비용)."
+    },
+    {
+      "term": "entrenched inflation",
+      "meaning": "Inflation that becomes deeply established and difficult to reduce (고착화된 인플레이션)."
+    },
+    {
+      "term": "headline figure",
+      "meaning": "The main number reported in a data release, often before examining its details (헤드라인 수치, 대표 지표)."
+    },
+    {
+      "term": "trade surplus",
+      "meaning": "A situation in which a country exports more goods and services than it imports (무역 흑자)."
+    },
+    {
+      "term": "trade friction",
+      "meaning": "Conflict or tension caused by tariffs, restrictions, or unequal trade flows (무역 마찰)."
+    },
+    {
+      "term": "import bill",
+      "meaning": "The total amount a country must pay for imported goods, especially energy or raw materials (수입 대금, 수입 비용)."
+    },
+    {
+      "term": "pass costs on to customers",
+      "meaning": "To make customers pay for higher business costs through increased prices (비용 상승분을 소비자 가격에 전가하다)."
+    },
+    {
+      "term": "policy dilemma",
+      "meaning": "A difficult choice in which solving one problem may worsen another (정책 딜레마)."
+    },
+    {
+      "term": "household debt",
+      "meaning": "Money owed by individuals and families through mortgages, loans, or credit (가계 부채)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "under pressure",
+      "meaning": "Facing difficult conditions or demands.",
+      "example": "Manufacturers are under pressure from higher energy and transportation costs.",
+      "type": "phrase"
+    },
+    {
+      "term": "cushion domestic weakness",
+      "meaning": "To reduce the negative effect of weak activity at home.",
+      "example": "Exports have helped cushion domestic weakness in China.",
+      "type": "phrase"
+    },
+    {
+      "term": "pass costs on to customers",
+      "meaning": "To raise prices so customers absorb higher expenses.",
+      "example": "Some firms cannot easily pass costs on to customers.",
+      "type": "phrase"
+    },
+    {
+      "term": "leave open the possibility of",
+      "meaning": "To avoid ruling out a future action.",
+      "example": "The central bank left open the possibility of another rate hike.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Tariffs and energy costs are raising business expenses while growth remains modest."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Exports are supporting growth, but weak domestic demand and trade resistance remain problems."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Higher oil-import costs have produced a large trade deficit and intensified inflation pressure."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Semiconductor exports are strong, but the central bank must manage inflation and household debt."
+    }
+  ],
+  "common_theme": "External strength is supporting growth, but trade dependence and imported costs are making inflation and economic resilience harder to manage.",
+  "concept": {
+    "title": "Trade-off",
+    "explanation": "A trade-off occurs when improving one economic objective makes another more difficult. For example, raising interest rates may reduce inflation, but it can also weaken borrowing, housing activity, and consumer spending. Governments and central banks constantly choose which risk to prioritize."
+  },
+  "quiz": {
+    "question": "Why is China’s strong export performance not an entirely positive story?",
+    "options": [
+      "Because exports are falling rapidly",
+      "Because exports are supporting growth but also increasing trade tensions and exposing weak domestic demand",
+      "Because China has stopped producing technology goods"
+    ],
+    "answer_index": 1,
+    "explanation": "Strong exports are helping China grow, but they also highlight weak household demand and contribute to trade friction with major partners."
+  },
+  "one_sentence": "A strong export sector can buy an economy time, but it cannot permanently substitute for resilient domestic demand.",
+  "sources": [
+    {
+      "name": "Federal Reserve",
+      "region": "United States",
+      "title": "October 2026 Beige Book: New York District",
+      "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-new-york.htm"
+    },
+    {
+      "name": "Associated Press",
+      "region": "United States / Asia-Pacific",
+      "title": "APEC finance chiefs warn persistent global imbalances risk growth and stability",
+      "url": "https://apnews.com/article/f8d9079539914ff6d97546bbc438fd0a"
+    },
+    {
+      "name": "Associated Press",
+      "region": "China",
+      "title": "China's economy accelerated in the July-September quarter on robust exports",
+      "url": "https://apnews.com/article/71354a055a412ef13e4e2edad070b4a5"
+    },
+    {
+      "name": "Associated Press",
+      "region": "Japan",
+      "title": "Japan records a trade deficit as oil imports soar because of conflict in the Middle East",
+      "url": "https://apnews.com/article/c2265fa62a4511229dd83693d94d32e2"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "South Korea",
+      "title": "South Korea central bank expected to hold rates on October 22",
+      "url": "https://www.marketscreener.com/news/south-korea-central-bank-to-hold-rates-on-october-22-hike-in-november-ce785cdbde88f424"
+    }
+  ]
+}
