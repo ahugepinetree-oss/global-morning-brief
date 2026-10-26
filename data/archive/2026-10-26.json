@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-10-26",
+  "date_display": "October 26, 2026",
+  "headline": "The AI boom is powerful—but its economic benefits are uneven",
+  "dek": "Strong technology demand is supporting the United States and South Korea, while China–US investment restrictions and softer Japanese manufacturing reveal a more fragmented global economy.",
+  "read_time": "8 min",
+  "story_title": "One AI cycle, four very different economies",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The US economy entered the fourth quarter with solid momentum, even though business activity cooled slightly in October. S&P Global’s composite Purchasing Managers’ Index, or PMI, fell to 57.6 from 58.4, but a reading above 50 still indicates expansion. New orders remained strong, and companies continued to raise prices. This combination—healthy demand alongside persistent price pressure—could make the Federal Reserve cautious about cutting interest rates. Business investment in artificial intelligence is also helping support growth, particularly through technology spending and corporate capital expenditure.</p><p><strong>China 🇨🇳</strong> China’s latest economic story is less about broad-based acceleration than about strategic competition. Beijing has urged Washington to abandon proposed rules that would widen restrictions on US investment in sensitive Chinese technologies, including biotechnology, high-performance computing and hypersonic systems. The disagreement shows how national-security policy is reshaping capital flows. Even if trade in ordinary goods continues, companies may delay projects or redesign supply chains when access to advanced technology and investment becomes uncertain. For China, the issue is not merely diplomatic: restrictions could affect productivity, innovation and the development of high-value industries.</p><p><strong>Japan 🇯🇵</strong> Japan is expanding, but at a slower and more uneven pace. The flash manufacturing PMI declined to 53.3 in October from 54.1 in September, its lowest level in seven months. Output and new orders grew more slowly, while export-business growth weakened. Services remained healthier, keeping the composite PMI at 52.3 and extending private-sector expansion for a nineteenth consecutive month. Still, rising input costs and weaker business confidence suggest that Japan is not receiving the full benefit of the global technology cycle.</p><p><strong>South Korea 🇰🇷</strong> South Korea is the clearest beneficiary of the AI investment wave. Semiconductor exports surged, and economists expect third-quarter growth to improve modestly. Yet the country’s success also exposes a vulnerability: chips account for an unusually large share of exports, while household consumption remains constrained by high borrowing costs and heavy debt. The recovery is therefore powerful but concentrated. Strong profits in the semiconductor sector do not automatically translate into stronger hiring, wages or spending across the entire economy.</p><p>The common theme is <strong>uneven transmission</strong>: technology demand is boosting production and trade, but its benefits are not spreading equally. The US is dealing with inflationary pressure, South Korea with concentration risk, Japan with slowing industrial momentum, and China with restrictions that could limit technological upgrading. The AI boom is real, but it is not a uniform tide lifting every economic boat.</p>",
+  "b2_summary": "The AI investment boom is affecting the four economies in different ways. The United States has strong demand, but companies are raising prices, which may keep interest rates high. China is facing wider US restrictions on investment in advanced technologies. Japan is still growing, but manufacturing and export orders are slowing. South Korea is benefiting strongly from record semiconductor exports, although household demand remains weak. The shared theme is uneven transmission: technology demand is helping some sectors greatly, but the benefits are not spreading evenly across each economy.",
+  "vocabulary": [
+    {
+      "term": "composite PMI",
+      "meaning": "A survey-based measure of activity in both manufacturing and services (종합 구매관리자지수). A reading above 50 usually means expansion."
+    },
+    {
+      "term": "price pressure",
+      "meaning": "Forces that push prices higher, such as strong demand or rising costs (물가 상승 압력)."
+    },
+    {
+      "term": "capital expenditure",
+      "meaning": "Money a company spends on long-term assets such as factories, equipment or data centres (자본지출, 설비투자)."
+    },
+    {
+      "term": "outbound investment",
+      "meaning": "Investment made by domestic companies or investors in another country (해외투자)."
+    },
+    {
+      "term": "sensitive technology",
+      "meaning": "Technology considered important for national security or strategic competition (민감 기술, 전략기술)."
+    },
+    {
+      "term": "input cost",
+      "meaning": "The cost of materials, labour and other resources used to produce goods or services (투입비용)."
+    },
+    {
+      "term": "concentration risk",
+      "meaning": "The danger created when too much economic activity depends on one sector, customer or market (집중 위험)."
+    },
+    {
+      "term": "broad-based recovery",
+      "meaning": "An economic improvement shared by many sectors, households and businesses—not just one industry (전반적 회복)."
+    },
+    {
+      "term": "transmission",
+      "meaning": "The process by which an economic change spreads from one area to another, such as from exports to household spending (파급 및 전달 과정)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "enter the fourth quarter with momentum",
+      "meaning": "Begin the final three months of the year with strong economic or business energy.",
+      "example": "The US economy entered the fourth quarter with momentum despite tighter financial conditions.",
+      "type": "phrase"
+    },
+    {
+      "term": "raise concerns about",
+      "meaning": "Create worries or doubts about a possible problem.",
+      "example": "Heavy dependence on semiconductors raises concerns about South Korea’s economic resilience.",
+      "type": "phrase"
+    },
+    {
+      "term": "benefit from the global technology cycle",
+      "meaning": "Gain from a worldwide period of strong demand for technology products or services.",
+      "example": "Some Asian exporters are benefiting from the global technology cycle.",
+      "type": "phrase"
+    },
+    {
+      "term": "spread across the wider economy",
+      "meaning": "Reach many different sectors, companies or households rather than remaining concentrated in one area.",
+      "example": "Investors want to see whether chip profits spread across the wider economy.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Strong demand and AI investment are supporting growth, but persistent price pressure may keep the Federal Reserve cautious."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Beijing is resisting wider US investment restrictions on strategic technologies."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Manufacturing growth has slowed, although services continue to expand."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Record semiconductor exports are lifting growth, but the recovery remains highly concentrated."
+    }
+  ],
+  "common_theme": "The AI-driven technology cycle is producing uneven economic benefits: it is strengthening US demand and South Korean exports, while Japan sees slower industrial momentum and China faces technology-related investment restrictions.",
+  "concept": {
+    "title": "Uneven transmission",
+    "explanation": "An economic boom does not affect every part of an economy equally. For example, strong chip exports may increase profits and GDP, but households may see little improvement if hiring, wages and consumption remain weak. Economists call this process—how growth spreads from one sector to the rest of the economy—transmission."
+  },
+  "quiz": {
+    "question": "Which economy is most directly exposed to concentration risk in this brief?",
+    "options": [
+      "United States",
+      "Japan",
+      "South Korea"
+    ],
+    "answer_index": 2,
+    "explanation": "South Korea is highly dependent on semiconductor exports, so a downturn in the chip cycle could affect national growth disproportionately."
+  },
+  "one_sentence": "The AI boom is lifting production faster than it is spreading prosperity.",
+  "sources": [
+    {
+      "name": "Reuters via Investing.com",
+      "region": "United States",
+      "title": "US business activity cools in October; strong demand fueling price pressures",
+      "url": "https://www.investing.com/news/economy-news/us-business-activity-cools-in-october-strong-demand-fueling-price-pressures-4969791"
+    },
+    {
+      "name": "Reuters via SRN News",
+      "region": "China",
+      "title": "China urges US to halt proposed expansion of outbound investment curbs",
+      "url": "https://srnnews.com/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs/"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "Japan",
+      "title": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
+      "url": "https://www.marketscreener.com/news/japan-manufacturing-growth-slows-to-7-month-low-in-october-pmi-shows-ce785cdede8bfe24"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "South Korea",
+      "title": "South Korean economy's growth likely picked up in Q3 on chip exports",
+      "url": "https://www.marketscreener.com/news/south-korean-economy-s-growth-likely-picked-up-in-q3-on-chip-exports-ce785cded18af02c"
+    },
+    {
+      "name": "Reuters via MarketScreener UK",
+      "region": "South Korea",
+      "title": "South Korea October 1-20 exports surge 105% on record chip sales",
+      "url": "https://uk.marketscreener.com/news/south-korea-october-1-20-exports-surge-105-on-record-chip-sales-ce785cd8df89f52d"
+    }
+  ]
+}
