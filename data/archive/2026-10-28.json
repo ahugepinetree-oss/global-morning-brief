@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-10-28",
+  "date_display": "October 28, 2026",
+  "headline": "AI Investment Is Powering Growth—but Not Everywhere in the Same Way",
+  "dek": "The United States and South Korea are seeing strong investment and exports, while China faces uneven industrial momentum and Japan benefits from AI demand but remains vulnerable to higher costs.",
+  "read_time": "8 min",
+  "story_title": "The AI Boom Spreads Across Asia, but Its Benefits Are Uneven",
+  "story_html": "<p><strong>United States:</strong> The latest US data point to an economy still supported by corporate investment, even as households remain uneasy. Orders for core capital goods—a closely watched measure of business equipment spending—rose in September, while shipments accelerated. That suggests companies continued to spend heavily on technology and infrastructure during the third quarter, with artificial intelligence a major driver. However, the investment cycle is becoming more difficult to evaluate. Building data centers and expanding computing capacity requires enormous amounts of capital, and investors are increasingly asking whether future profits will justify today’s spending. Consumer confidence improved in October as petrol prices eased slightly, but inflation and weak wage gains continue to weigh on households. ([investing.com](https://www.investing.com/news/economic-indicators/us-core-capital-goods-rise-in-september-shipments-accelerate-4975596?utm_source=openai))</p><p><strong>China:</strong> China presents a more mixed picture. Industrial profits increased at a faster pace in September, indicating that some manufacturers are benefiting from stronger production and technology-related demand. Yet Reuters reported a widening divide across the economy: selected industrial sectors are improving, while other companies continue to struggle with weak domestic demand, excess capacity and intense price competition. This matters for the wider region because China remains a major buyer of machinery, components and raw materials. A recovery concentrated in a few advanced industries may support exports and investment without creating a broad-based improvement in business confidence or household spending. ([marketscreener.com](https://www.marketscreener.com/news/china-s-industrial-profit-growth-picks-up-amid-two-speed-economy-ce785cdcd089f627?utm_source=openai))</p><p><strong>Japan:</strong> Japan is also being pulled into the AI investment cycle, although the transmission mechanism is different. The Bank of Japan says rising AI-related demand should help support moderate economic growth, while Japanese companies involved in semiconductor equipment and precision manufacturing are positioned to benefit. At the same time, the central bank expects higher crude-oil prices and other cost pressures to restrain activity and push inflation higher. Japan’s challenge is therefore to convert strong demand for industrial technology into durable domestic growth, rather than relying mainly on a narrow group of exporters and equipment makers. ([boj.or.jp](https://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm?utm_source=openai))</p><p><strong>South Korea:</strong> South Korea offers the clearest evidence of the boom’s immediate payoff. Gross domestic product expanded 1.0% quarter on quarter in the third quarter, beating economists’ expectations, as semiconductor exports and facilities investment surged. Exports of chips, machinery and electrical equipment rose, while investment in semiconductor-manufacturing equipment jumped 4.1%. But private consumption fell 0.2%, showing that export success has not yet translated into equally strong household demand. The common theme, then, is not simply “AI is lifting every economy.” Rather, AI is redirecting capital toward technology, chips and industrial equipment, producing powerful gains for globally competitive firms while leaving consumers and less competitive businesses under pressure. ([investing.com](https://www.investing.com/news/economy-news/south-koreas-economy-grows-faster-than-expected-in-third-quarter-4973940?utm_source=openai))</p>",
+  "b2_summary": "AI-related spending is supporting growth in all four economies, but the effects are uneven. In the United States, companies continue to buy equipment and build AI infrastructure, although investors question the cost. China’s industrial profits are improving, but the recovery is divided between stronger and weaker sectors. Japan expects AI demand to support moderate growth, while higher energy costs remain a risk. South Korea is benefiting most directly from strong semiconductor exports and investment. However, Korean household spending is weak. The main lesson is that AI is helping technology companies faster than it is helping consumers.",
+  "vocabulary": [
+    {
+      "term": "core capital goods",
+      "meaning": "기업이 생산에 쓰는 핵심 장비와 기계; (핵심 자본재)"
+    },
+    {
+      "term": "business investment",
+      "meaning": "기업이 장비·공장·기술에 돈을 쓰는 것; (기업 투자)"
+    },
+    {
+      "term": "data center",
+      "meaning": "많은 컴퓨터와 서버를 모아 데이터를 처리하는 시설; (데이터센터)"
+    },
+    {
+      "term": "industrial profits",
+      "meaning": "제조업·광업 등 산업 기업이 벌어들인 이익; (산업이익)"
+    },
+    {
+      "term": "excess capacity",
+      "meaning": "수요보다 생산 능력이 지나치게 큰 상태; (과잉생산능력)"
+    },
+    {
+      "term": "broad-based recovery",
+      "meaning": "일부 분야가 아니라 경제 전반에서 나타나는 회복; (광범위한 회복)"
+    },
+    {
+      "term": "transmission mechanism",
+      "meaning": "어떤 변화가 경제의 다른 부분으로 전달되는 방식; (파급 경로)"
+    },
+    {
+      "term": "semiconductor equipment",
+      "meaning": "반도체를 만들 때 사용하는 생산 장비; (반도체 제조장비)"
+    },
+    {
+      "term": "private consumption",
+      "meaning": "가계가 상품과 서비스에 지출하는 돈; (민간소비)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "point to an economy supported by",
+      "meaning": "어떤 요소가 경제를 지탱하고 있음을 보여 주다",
+      "example": "The latest figures point to an economy supported by strong corporate investment.",
+      "type": "phrase"
+    },
+    {
+      "term": "a mixed picture",
+      "meaning": "좋은 면과 나쁜 면이 함께 나타나는 상황",
+      "example": "China’s industrial data present a mixed picture.",
+      "type": "phrase"
+    },
+    {
+      "term": "be positioned to benefit from",
+      "meaning": "어떤 변화로 이익을 얻기에 유리한 위치에 있다",
+      "example": "Japanese equipment makers are positioned to benefit from AI demand.",
+      "type": "phrase"
+    },
+    {
+      "term": "translate into stronger household demand",
+      "meaning": "경제적 성과가 더 강한 가계 수요로 이어지다",
+      "example": "Export growth has not yet translated into stronger household demand.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Strong AI-related capital spending, but inflation and consumer unease remain."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Industrial profits improve, but the recovery remains uneven across sectors."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "AI demand supports moderate growth, while energy costs create pressure."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Semiconductor exports drive faster growth, despite weak private consumption."
+    }
+  ],
+  "common_theme": "AI-driven investment is strengthening technology, semiconductor and industrial-equipment sectors across the four economies, but its benefits are not spreading evenly to households or less competitive businesses.",
+  "concept": {
+    "title": "Capital expenditure",
+    "explanation": "Capital expenditure, or capex, is money a company spends on long-term assets such as factories, machines, servers and data centers. It can boost economic growth because companies hire workers and buy equipment. However, capex does not guarantee immediate profits. If companies spend too much before demand becomes strong enough, investors may worry about low returns and financial risk."
+  },
+  "quiz": {
+    "question": "Which economy recorded the clearest recent boost from semiconductor exports and investment?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea"
+    ],
+    "answer_index": 2,
+    "explanation": "South Korea’s third-quarter GDP growth was driven by semiconductor exports and facilities investment, although private consumption weakened."
+  },
+  "one_sentence": "AI is becoming a powerful engine of investment, but an investment boom is not the same thing as broad prosperity.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "US consumer confidence recovers in October as gas prices eased a bit",
+      "url": "https://apnews.com/article/10aae13e93501c1c7f8803d44316eb28"
+    },
+    {
+      "name": "Reuters via Investing.com",
+      "region": "United States",
+      "title": "US core capital goods rise in September; shipments accelerate",
+      "url": "https://www.investing.com/news/economic-indicators/us-core-capital-goods-rise-in-september-shipments-accelerate-4975596"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "China",
+      "title": "China's industrial profit growth picks up amid two-speed economy",
+      "url": "https://www.marketscreener.com/news/china-industrial-profit-growth-picks-up-amid-two-speed-economy-ce785cdcd089f627"
+    },
+    {
+      "name": "Bank of Japan",
+      "region": "Japan",
+      "title": "Highlights of the Outlook for Economic Activity and Prices: July 2026",
+      "url": "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm"
+    },
+    {
+      "name": "Reuters via Investing.com",
+      "region": "South Korea",
+      "title": "South Korea's economy grows faster than expected in third quarter",
+      "url": "https://www.investing.com/news/economy-news/south-koreas-economy-grows-faster-than-expected-in-third-quarter-4973940"
+    }
+  ]
+}
