@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-06",
+  "date_display": "November 6, 2026",
+  "headline": "The AI boom is becoming a market risk as well as a growth engine",
+  "dek": "The United States is reassessing huge AI investments, while Japan and South Korea feel the shock through markets and semiconductors. China is managing the currency effects of strong external demand.",
+  "read_time": "8 min",
+  "story_title": "AI’s global economic test: growth, exports, and market nerves",
+  "story_html": "<p><strong>United States 🇺🇸</strong> Wall Street’s enthusiasm for artificial intelligence has abruptly become more cautious. On Thursday, November 5, shares linked to AI chips, software, and data-center construction suffered a severe sell-off. The Nasdaq fell toward correction territory, while investors questioned whether the enormous capital spending required for AI infrastructure can generate returns quickly enough. Political uncertainty also mattered: after the midterm elections, investors began to worry that a new Congress could impose tighter limits on data centers or slow the expansion of the electricity network they require. The immediate damage was concentrated in technology stocks, but the episode matters for the wider economy because AI investment has been supporting growth, corporate profits, and demand for skilled workers. At the same time, the labor market still looks relatively resilient: weekly applications for unemployment benefits fell to 189,000, the lowest level since mid-July. ([apnews.com](https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e?utm_source=openai))</p><p><strong>China 🇨🇳</strong> China’s story is less about a sudden stock-market shock and more about managing the consequences of strong external demand. The People’s Bank of China said it would raise the foreign-exchange reserve requirement ratio from 4% to 6% on November 15. In practical terms, banks will have to hold more foreign currency, reducing the supply of dollars available for conversion into yuan. The move is designed to slow the yuan’s appreciation after robust exports, a large trade surplus, and companies’ conversion of foreign earnings pushed the currency higher. A stronger yuan can reduce the domestic value of exporters’ overseas revenues, even though it makes imported goods and energy cheaper. Beijing therefore appears to be balancing two objectives: preserving export competitiveness while preventing excessive one-way bets on the currency. ([investing.com](https://www.investing.com/news/economy-news/china-to-raise-forex-deposit-reserve-ratio-to-6-starting-november-15-4993312?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan shows how quickly a U.S. technology shock can travel through Asian financial markets. The Nikkei 225 fell more than 6% after trading opened on Friday, November 6, as investors sold companies exposed to semiconductors, automation, and the construction of AI data centers. The yen, meanwhile, remained weak at roughly ¥158 to the dollar, a combination that can support exporters but also raises the cost of imported fuel and food. Corporate results were not uniformly negative: Toyota raised its full-year profit forecast even though quarterly profit declined, suggesting that established manufacturers can still benefit from strong overseas sales and currency effects. Japan’s economy is therefore caught between two forces—an export sector that can profit from a weak yen and a market increasingly sensitive to the sustainability of the AI investment cycle. ([apnews.com](https://apnews.com/article/bba6f0bf9035a6e6b1c4fef3e8230b89?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> South Korea is the clearest example of the AI boom’s real-economy benefits—and its financial vulnerability. October exports jumped 93.7% year on year to a record $115.3 billion, while semiconductor exports soared 259% to $56.4 billion. Demand for memory chips used in AI servers has transformed the trade figures and put the country on course to exceed $1 trillion in annual exports. Yet the same dependence creates risk: when U.S. investors suddenly question data-center spending, Korean chipmakers and the KOSPI can fall sharply even if factory orders remain strong. The common theme across these four economies is not a single shared slowdown. It is a change in the quality of AI-led growth: the technology is still lifting trade and investment, but markets are demanding clearer proof that the spending is economically sustainable. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261101000900320?section=economy-finance%2Feconomy&utm_source=openai))</p>",
+  "b2_summary": "The AI boom is affecting the four economies in different ways. In the United States, investors sold technology shares because they worried that huge data-center investments may be too expensive or face political limits. Japan’s stock market fell as the shock spread across Asia, although Toyota raised its profit forecast. China is trying to slow the yuan’s rise after strong exports increased demand for the currency. South Korea is benefiting strongly from AI-related chip demand: October exports rose almost 94%. The shared theme is that AI still supports growth, but investors now want stronger evidence that the boom can continue.",
+  "vocabulary": [
+    {
+      "term": "sell-off",
+      "meaning": "갑자기 많은 사람들이 자산을 팔아 가격이 크게 떨어지는 현상 (대규모 매도)"
+    },
+    {
+      "term": "capital spending",
+      "meaning": "공장·장비·데이터센터 같은 장기 자산에 쓰는 돈 (자본지출)"
+    },
+    {
+      "term": "correction territory",
+      "meaning": "최근 고점에서 보통 10% 이상 하락한 시장 상태 (조정 국면)"
+    },
+    {
+      "term": "foreign-exchange reserve requirement ratio",
+      "meaning": "은행이 외화를 일정 비율 이상 보유해야 하는 규정 (외화 지급준비율)"
+    },
+    {
+      "term": "trade surplus",
+      "meaning": "수출액이 수입액보다 많은 상태 (무역흑자)"
+    },
+    {
+      "term": "export competitiveness",
+      "meaning": "해외 시장에서 가격과 품질 면에서 경쟁할 수 있는 능력 (수출 경쟁력)"
+    },
+    {
+      "term": "one-way bet",
+      "meaning": "가격이 한 방향으로만 움직일 것이라고 믿고 투자하는 행위 (일방향 베팅)"
+    },
+    {
+      "term": "memory chip",
+      "meaning": "데이터를 저장하는 반도체. AI 서버에도 많이 사용됨 (메모리 반도체)"
+    },
+    {
+      "term": "real-economy benefits",
+      "meaning": "주가가 아니라 생산·고용·수출처럼 실제 경제에 나타나는 이익 (실물경제 효과)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "fall into correction territory",
+      "meaning": "최근 고점에서 크게 떨어져 조정 국면에 들어가다",
+      "example": "The Nasdaq fell into correction territory after investors questioned AI spending.",
+      "type": "phrase"
+    },
+    {
+      "term": "raise concerns about",
+      "meaning": "무언가에 대한 우려를 키우다",
+      "example": "The sell-off raised concerns about the sustainability of data-center investment.",
+      "type": "phrase"
+    },
+    {
+      "term": "be on course to",
+      "meaning": "현재 추세가 계속되면 ~할 가능성이 높다",
+      "example": "South Korea is on course to exceed $1 trillion in annual exports.",
+      "type": "phrase"
+    },
+    {
+      "term": "balance two objectives",
+      "meaning": "두 가지 목표를 동시에 맞추려 하다",
+      "example": "Beijing is balancing two objectives: export competitiveness and currency stability.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "AI investment, technology-stock sell-off, and resilient unemployment claims"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "PBOC measures to slow yuan appreciation after strong export demand"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Nikkei drop, weak yen, and Toyota’s upgraded profit outlook"
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Record October exports driven by AI-related semiconductor demand"
+    }
+  ],
+  "common_theme": "AI investment is still driving trade and economic growth, but its enormous cost and dependence on future returns are creating new market and policy risks.",
+  "concept": {
+    "title": "Why can a stronger currency hurt exporters?",
+    "explanation": "When a country’s currency rises, its companies receive fewer units of local currency when they convert overseas sales back home. This can reduce reported profits and make their products more expensive for foreign buyers. However, imports such as oil, machinery, and food become cheaper. The overall effect depends on how important exports and imports are to the economy."
+  },
+  "quiz": {
+    "question": "Why is South Korea especially sensitive to a slowdown in AI data-center investment?",
+    "options": [
+      "Because it imports almost all of its food from the United States",
+      "Because semiconductors make up a large and rapidly growing share of its exports",
+      "Because the Bank of Korea controls the yuan’s exchange rate"
+    ],
+    "answer_index": 1,
+    "explanation": "South Korea’s export surge is being powered by semiconductor demand, especially for AI servers. A slowdown in data-center construction could therefore reduce orders for Korean chipmakers."
+  },
+  "one_sentence": "The AI boom is still generating growth, but the world is moving from asking “How fast can it expand?” to “Can the spending pay off?”",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+      "url": "https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e"
+    },
+    {
+      "name": "Reuters, via Investing.com",
+      "region": "China",
+      "title": "China to raise FX RRR to slow pace of yuan gains",
+      "url": "https://www.investing.com/news/economy-news/china-to-raise-forex-deposit-reserve-ratio-to-6-starting-november-15-4993312"
+    },
+    {
+      "name": "Associated Press",
+      "region": "Japan",
+      "title": "Japan’s Nikkei falls more than 6% as Asian benchmarks tumble after Wall Street drop",
+      "url": "https://apnews.com/article/bba6f0bf9035a6e6b1c4fef3e8230b89"
+    },
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "Unemployment claims drop to 189,000, the fewest since mid-July",
+      "url": "https://apnews.com/article/039c8e6b655b7bc3dd5e2836bbb2ecc9"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "S. Korea’s monthly exports hit US$115.3 bln in Oct. on record chip sales",
+      "url": "https://en.yna.co.kr/view/AEN20261101000900320?section=economy-finance%2Feconomy"
+    }
+  ]
+}
