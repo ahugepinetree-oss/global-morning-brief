@@ -1,0 +1,148 @@
+{
+  "date_iso": "2026-11-08",
+  "date_display": "November 8, 2026",
+  "headline": "The AI Boom Meets a New Policy Reality",
+  "dek": "A U.S.-led technology sell-off is exposing how closely the four economies are linked through chips, data centres, capital flows and trade policy.",
+  "read_time": "8 min",
+  "story_title": "From Wall Street to Asia, Markets Reprice the AI Boom",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — U.S. markets are reassessing the assumptions behind the artificial-intelligence investment boom. The S&P 500 fell 4.4%, while the Nasdaq dropped 5.5%, after investors interpreted the Democrats’ victory in the midterm elections as a possible threat to the rapid expansion of data centres. The concern is not that AI demand has disappeared, but that regulation, electricity constraints and community opposition could delay projects whose profitability already depends on enormous capital expenditure. Treasury yields also declined as investors sought safety, suggesting that the shock was moving beyond technology shares into broader financial markets. ([apnews.com](https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e))</p><p><strong>China 🇨🇳</strong> — China’s response has been more administrative than market-driven. State entities reportedly bought equities to limit the damage as the global technology sell-off spread across Asia. At the same time, Beijing and Washington are trying to prevent a separate trade dispute from destabilising the relationship before the November 18–19 APEC summit in Shenzhen. U.S. officials demanded that China implement commitments on agricultural purchases and rare-earth exports, while Chinese officials complained about new American trade restrictions. The two sides therefore face a delicate combination: financial contagion from the AI correction and continuing strategic rivalry over critical inputs. ([brecorder.com](https://www.brecorder.com/news/40447966/top-us-china-officials-raise-trade-concerns-as-apec-approaches))</p><p><strong>Japan 🇯🇵</strong> — Japan illustrates how an American valuation shock can quickly become an Asian industrial shock. The Nikkei fell sharply, with technology-linked companies such as Kioxia and SoftBank among the major casualties. Japan is exposed not only through its equity market but also through its role in the semiconductor and advanced-manufacturing supply chain. Investors are questioning whether companies supplying memory, equipment and components can maintain high growth if U.S. data-centre construction slows. Meanwhile, Japan remains vulnerable to trade friction involving China, particularly because rare earths are essential to automobiles, electronics and defence-related production. ([apnews.com](https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e))</p><p><strong>South Korea 🇰🇷</strong> — South Korea experienced the most dramatic market reaction among the four economies. The KOSPI plunged 6.0% on November 6 after falling more than 5% the previous day, and trading was temporarily halted when the index initially dropped over 8%. Samsung Electronics and SK hynix, which together represent a large share of the index, suffered steep losses as investors feared weaker future demand for memory chips. Seoul’s authorities moved to calm markets and ease some financing rules, but the episode highlights a structural vulnerability: Korea’s export cycle is highly sensitive to global semiconductor investment. The common theme is not the end of AI, but the repricing of its risks. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261106007800320?section=economy-finance%2Feconomy&utm_source=openai))</p>",
+  "b2_summary": "The four economies are connected by the global AI and semiconductor industry. In the United States, investors fear that new political pressure could slow data-centre construction. This pushed down technology stocks and reduced confidence in expensive AI projects. China tried to stabilise its stock market, while also negotiating with Washington over trade and rare-earth exports. Japan’s technology shares fell because Japanese companies supply important components and equipment. South Korea suffered especially heavily because Samsung Electronics and SK hynix depend on strong memory-chip demand. The main message is that AI growth continues, but investors now see greater regulatory, financial and supply-chain risks.",
+  "vocabulary": [
+    {
+      "term": "reassess",
+      "meaning": "to think about something again and decide whether your opinion should change (재평가하다)"
+    },
+    {
+      "term": "capital expenditure",
+      "meaning": "money a company spends on long-term assets such as factories or data centres (자본지출)"
+    },
+    {
+      "term": "valuation shock",
+      "meaning": "a sudden fall in the prices investors think companies are worth (기업가치 평가 충격)"
+    },
+    {
+      "term": "financial contagion",
+      "meaning": "when economic trouble spreads from one market or country to others (금융 전염)"
+    },
+    {
+      "term": "critical input",
+      "meaning": "a material or component that is essential for production (핵심 투입재)"
+    },
+    {
+      "term": "rare earths",
+      "meaning": "a group of minerals needed for electronics, vehicles and defence equipment (희토류)"
+    },
+    {
+      "term": "semiconductor supply chain",
+      "meaning": "the international network that designs, produces and delivers chips (반도체 공급망)"
+    },
+    {
+      "term": "financing rules",
+      "meaning": "official limits or conditions governing how companies and investors borrow money (금융 규정)"
+    },
+    {
+      "term": "export cycle",
+      "meaning": "the pattern of expansion and slowdown driven by a country’s overseas sales (수출 경기순환)"
+    },
+    {
+      "term": "reprice risk",
+      "meaning": "to adjust asset prices because investors now see danger differently (위험을 새롭게 가격에 반영하다)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "move beyond technology shares",
+      "meaning": "to affect wider parts of the financial system or economy",
+      "example": "The sell-off moved beyond technology shares and hit the broader market.",
+      "type": "phrase"
+    },
+    {
+      "term": "seek safety",
+      "meaning": "to move money into assets considered less risky",
+      "example": "Investors sought safety in government bonds.",
+      "type": "phrase"
+    },
+    {
+      "term": "calm markets",
+      "meaning": "to reduce panic and excessive price movements",
+      "example": "The central bank issued a statement to calm markets.",
+      "type": "phrase"
+    },
+    {
+      "term": "be highly sensitive to",
+      "meaning": "to react strongly to a particular factor",
+      "example": "Korea’s export cycle is highly sensitive to semiconductor demand.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "AI regulation fears, market losses and a flight to safer assets"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "State support for equities and renewed U.S.-China trade friction"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Technology-stock losses and exposure to semiconductor supply chains"
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "A sharp KOSPI fall and vulnerability to weaker memory-chip demand"
+    }
+  ],
+  "common_theme": "Policy and investment risk are spreading through globally integrated AI, semiconductor and trade networks.",
+  "concept": {
+    "title": "Capital expenditure",
+    "explanation": "Capital expenditure, or capex, is money spent on assets that will be useful for many years, such as factories, power systems or data centres. AI companies are investing heavily in capex today, but investors worry that future profits may not be large enough to justify those costs."
+  },
+  "quiz": {
+    "question": "Why did South Korean chip stocks fall sharply after the U.S. market sell-off?",
+    "options": [
+      "Investors feared that slower U.S. data-centre construction would reduce future memory-chip demand.",
+      "China immediately banned all Korean semiconductor exports.",
+      "The Bank of Korea announced that it would close the KOSPI."
+    ],
+    "answer_index": 0,
+    "explanation": "South Korea is deeply exposed to the global semiconductor cycle, so weaker expectations for U.S. AI investment quickly affected Korean chip companies."
+  },
+  "one_sentence": "The AI boom is still alive, but markets are no longer willing to ignore the cost, regulation and supply-chain risks behind it.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+      "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
+    },
+    {
+      "name": "Al Jazeera / Reuters",
+      "region": "International",
+      "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+      "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading"
+    },
+    {
+      "name": "Business Recorder / AFP",
+      "region": "China–United States",
+      "title": "Top US, China officials raise trade ‘concerns’ as APEC approaches",
+      "url": "https://www.brecorder.com/news/40447966/top-us-china-officials-raise-trade-concerns-as-apec-approaches"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Seoul stocks crash for 2nd day on AI rout after U.S. midterms",
+      "url": "https://en.yna.co.kr/view/AEN20261106007800320?section=economy-finance%2Feconomy"
+    },
+    {
+      "name": "U.S. Bureau of Economic Analysis",
+      "region": "United States",
+      "title": "U.S. International Trade in Goods and Services, September 2026",
+      "url": "https://www.bea.gov/sites/default/files/2026-11/trad0926.pdf"
+    }
+  ]
+}
