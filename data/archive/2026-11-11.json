@@ -1,0 +1,138 @@
+{
+  "date_iso": "2026-11-11",
+  "date_display": "November 11, 2026",
+  "headline": "The AI boom is lifting trade—but testing central banks",
+  "dek": "The United States is facing renewed inflation pressure, while China and South Korea are benefiting from strong technology exports. Japan is watching whether AI demand can remain durable enough to justify further rate hikes.",
+  "read_time": "8 min",
+  "story_title": "A powerful AI cycle, with very different economic consequences",
+  "story_html": "<p><strong>United States 🇺🇸</strong> A hotter-than-expected October inflation report has strengthened expectations that the Federal Reserve will raise interest rates again in December. Prices are being pushed higher not only by energy and housing costs, but also by resilient consumer spending and heavy business investment. The AI boom is part of this picture: companies are spending aggressively on data centres, chips and software, supporting growth but adding to demand for labour, electricity and equipment. Markets are now debating whether the Fed may need to respond more forcefully than previously expected. ([apnews.com](https://apnews.com/article/fcd3c7766d3cdb36057f6dab19ff3a8e?utm_source=openai))</p><p><strong>China 🇨🇳</strong> China presents a contrasting but connected story. October exports rose 35.2% year on year, while imports increased 41.6%, according to customs data reported by Caixin. Integrated-circuit exports remained a major source of momentum, suggesting that global demand for computing equipment is helping Chinese manufacturers. Yet the composition of growth matters: domestic passenger-car sales weakened even as vehicle exports surged. In other words, external demand is carrying more of the economy, while household demand remains less convincing. That imbalance could intensify trade tensions if Chinese firms continue redirecting excess capacity abroad. ([economy.caixin.com](https://economy.caixin.com/m/2026-11-10/102503103.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is exposed to the same technology cycle, but its policy problem is different. A summary of the Bank of Japan’s October meeting showed that some policymakers wanted to accelerate rate hikes because underlying inflation had reached the bank’s 2% target. Others urged caution, pointing to soft consumption and uncertainty about how durable AI-related demand will be. The disagreement is important: AI investment can support exports, profits and productivity, but it can also create a boom that fades quickly. The BOJ therefore has to distinguish between lasting inflation and a temporary surge in technology spending. ([uk.marketscreener.com](https://uk.marketscreener.com/news/bank-of-japan-debated-need-for-faster-rate-hikes-october-summary-shows-ce785fd3d08eff2c?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Korea is currently one of the clearest beneficiaries. Exports during November 1–10 more than doubled from a year earlier, reaching $35.5 billion, while semiconductor shipments jumped 331%. Cumulative exports for the year had already approached $1 trillion. The figures show how strongly Korea’s recovery depends on memory chips and AI infrastructure. That dependence is both an advantage and a vulnerability: strong global investment can lift national income rapidly, but a correction in chip prices or technology spending could affect exports, corporate profits and the won at the same time. ([biz.chosun.com](https://biz.chosun.com/en/en-policy/2026/11/11/JB7QDWKBSRE6FOJ42TH7BXVVNM/?utm_source=openai))</p><p>The common theme is not a uniform “AI boom” across all four economies, but a shared exposure to one. In the United States, AI investment is contributing to demand and inflation. In China and South Korea, it is strengthening technology exports. In Japan, it is influencing the debate over how quickly monetary policy should tighten. The key question for investors and policymakers is whether AI is creating durable productivity gains—or merely an unusually powerful investment cycle that could eventually cool.</p>",
+  "b2_summary": "The AI boom is affecting all four economies, but in different ways. In the United States, strong business investment and consumer demand are keeping inflation high, making another Fed rate hike more likely. China and South Korea are gaining from strong exports of chips and other technology products, although China still has weak domestic demand. Japan’s central bank is considering further rate increases, but officials disagree about whether AI-related demand will last. The shared issue is whether today’s technology spending will create long-term productivity—or whether it will eventually slow sharply.",
+  "vocabulary": [
+    {
+      "term": "underlying inflation",
+      "meaning": "Price increases that continue after temporary effects are removed (기조적 물가상승률)."
+    },
+    {
+      "term": "resilient",
+      "meaning": "Strong enough to continue despite difficulties (회복력 있는, 견조한)."
+    },
+    {
+      "term": "data centre",
+      "meaning": "A large facility that stores and processes digital information (데이터센터)."
+    },
+    {
+      "term": "excess capacity",
+      "meaning": "More production ability than current demand requires (초과 생산능력)."
+    },
+    {
+      "term": "redirect capacity abroad",
+      "meaning": "To sell unused domestic production in foreign markets (남는 생산능력을 해외로 돌리다)."
+    },
+    {
+      "term": "monetary policy",
+      "meaning": "A central bank’s decisions about interest rates and money supply (통화정책)."
+    },
+    {
+      "term": "productivity gains",
+      "meaning": "Improvements that allow more output from the same amount of labour or resources (생산성 향상)."
+    },
+    {
+      "term": "investment cycle",
+      "meaning": "A period in which investment rises strongly and later slows or reverses (투자 사이클)."
+    },
+    {
+      "term": "rate hike",
+      "meaning": "An increase in an official interest rate (금리 인상)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "strengthen expectations that",
+      "meaning": "Make people more confident that something will happen.",
+      "example": "The inflation report strengthened expectations that the Fed will raise rates in December.",
+      "type": "phrase"
+    },
+    {
+      "term": "carry more of the economy",
+      "meaning": "Provide a larger share of economic growth.",
+      "example": "Exports are carrying more of the economy as domestic consumption weakens.",
+      "type": "phrase"
+    },
+    {
+      "term": "urge caution",
+      "meaning": "Advise people not to act too quickly or aggressively.",
+      "example": "Several BOJ policymakers urged caution because consumption remains soft.",
+      "type": "phrase"
+    },
+    {
+      "term": "a clear beneficiary of",
+      "meaning": "A person, company or country that gains directly from a development.",
+      "example": "South Korea is a clear beneficiary of the global AI infrastructure cycle.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Hotter inflation and the growing possibility of another Federal Reserve rate hike."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Strong technology exports contrast with weaker domestic demand."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "The BOJ debates faster tightening while questioning the durability of AI demand."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "A semiconductor surge pushes exports toward the $1 trillion milestone."
+    }
+  ],
+  "common_theme": "AI-related investment and semiconductor demand are supporting growth and trade, but they are also creating different risks for inflation, monetary policy and export dependence.",
+  "concept": {
+    "title": "Underlying inflation",
+    "explanation": "Underlying inflation tries to show the lasting direction of prices by looking beyond temporary changes, such as a sudden jump in fuel or food prices. Central banks watch it because temporary inflation may disappear on its own, while underlying inflation can become embedded in wages, rents and business pricing."
+  },
+  "quiz": {
+    "question": "Why is the AI boom a policy challenge for Japan’s central bank?",
+    "options": [
+      "Because AI has already ended Japan’s export growth",
+      "Because officials must judge whether AI-related demand will last or fade",
+      "Because Japan has banned investment in data centres"
+    ],
+    "answer_index": 1,
+    "explanation": "The BOJ must decide whether technology-driven demand is durable enough to justify further interest-rate increases."
+  },
+  "one_sentence": "The AI boom is not one economic story: it is inflationary for some, export-enhancing for others, and a test of central-bank judgment for all.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
+      "url": "https://apnews.com/article/fcd3c7766d3cdb36057f6dab19ff3a8e"
+    },
+    {
+      "name": "Caixin",
+      "region": "China",
+      "title": "10月出口同比超预期高增35.2% 汽车出口增速高位回落至37.6%",
+      "url": "https://economy.caixin.com/m/2026-11-10/102503103.html"
+    },
+    {
+      "name": "Bank of Japan",
+      "region": "Japan",
+      "title": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
+      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf"
+    },
+    {
+      "name": "The Korea Herald",
+      "region": "South Korea",
+      "title": "Exports more than double in 1st 10 days of Nov.",
+      "url": "https://www.koreaherald.com/article/10933213"
+    }
+  ]
+}

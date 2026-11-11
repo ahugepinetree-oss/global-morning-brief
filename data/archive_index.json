@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-11-11",
+    "date_display": "November 11, 2026",
+    "headline": "The AI boom is lifting trade—but testing central banks",
+    "file": "data/archive/2026-11-11.json"
+  },
+  {
     "date_iso": "2026-11-10",
     "date_display": "November 10, 2026",
     "headline": "The AI investment cycle is reshaping trade, markets, and monetary policy",
