@@ -1,69 +1,73 @@
 {
-  "date_iso": "2026-11-12",
-  "date_display": "November 12, 2026",
-  "headline": "AI investment links four economies—but inflation and policy risks remain",
-  "dek": "The global AI build-out is supporting U.S. technology shares, Chinese policy efforts, Japanese markets and South Korean exports, but the economic effects are uneven.",
+  "date_iso": "2026-11-13",
+  "date_display": "November 13, 2026",
+  "headline": "Trade friction, chip power and higher costs reshape Asia’s economic outlook",
+  "dek": "The United States and China are managing an uneasy tariff pause, while Japan faces renewed price pressure and South Korea rides an extraordinary semiconductor export boom.",
   "read_time": "8 min",
-  "story_title": "The AI boom travels through Asia’s semiconductor chain",
-  "story_html": "<p>The clearest link among the four economies today is the semiconductor value chain powering artificial-intelligence investment. In the United States, technology shares rebounded sharply on Wednesday: the Nasdaq rose 1.6%, while the S&P 500 gained 1.3%. Investors temporarily looked past last week’s concerns that AI-related companies may be priced for unrealistically strong growth. Yet the mood is not uniformly confident. U.S. inflation accelerated to 4% year on year in October, and Federal Reserve officials are increasingly worried that price pressure is spreading beyond tariffs, energy and data-centre construction. That keeps the possibility of higher interest rates alive, even as AI remains a powerful source of corporate investment. ([apnews.com](https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e))</p><p>China is connected to this story in a more complicated way. Its technology sector needs advanced computing capacity, but access to cutting-edge U.S. chips remains politically sensitive and commercially constrained. At home, Beijing is trying to strengthen the capital market and support innovation while also reducing financial risks. A recent State Council meeting called for measures to improve stock-market stability and encourage investment in equipment and intangible assets. That policy stance may support Chinese technology companies, but it does not prove that household demand or private-sector confidence has fully recovered. The Chinese response is therefore not simply a mirror image of Wall Street’s rally; it is also a managed effort to channel capital toward strategic industries. ([english.www.gov.cn](https://english.www.gov.cn/news/202611/07/content_WS6aee87b5c6d00ca5f9a0e29b.html?utm_source=openai))</p><p>Japan is benefiting from the same technology enthusiasm through its machinery, electronics and semiconductor-related companies, but it is facing a different macroeconomic problem. October producer prices rose 7.1% from a year earlier, above expectations. Producer prices measure what businesses pay or charge before goods reach consumers, so the increase suggests that cost pressures remain strong upstream. The Bank of Japan’s October outlook also noted that import prices, wage increases and companies’ efforts to pass higher costs on to customers are pushing inflation more broadly. This could keep pressure on the central bank to consider further tightening, even if stronger borrowing costs eventually weigh on investment. ([cj.sina.com.cn](https://cj.sina.com.cn/articles/view/5993531560/1653e08a801901qe08))</p><p>South Korea shows perhaps the most direct real-economy benefit from the AI cycle. October exports almost doubled from a year earlier, while semiconductor exports surged 259.4%. Computer shipments also jumped as global companies expanded server capacity for AI services. Samsung Electronics and SK Hynix are major beneficiaries of this demand, which helps explain the Kospi’s 2.6% rise during Wednesday’s global technology rebound. However, such dependence creates vulnerability: if cloud companies reduce capital expenditure or investors decide that AI revenues will arrive more slowly than expected, Korea’s exports, corporate profits and currency could all feel the shock quickly. ([marketscreener.com](https://www.marketscreener.com/news/south-korea-exports-nearly-double-in-october-on-ai-investment-boom-ce785fd8da89f626))</p><p>The shared theme, then, is not that all four economies are experiencing the same boom. Rather, AI investment is moving through them at different speeds: it lifts U.S. equities, shapes China’s industrial and financial policy, adds to Japan’s input-price pressure and directly boosts South Korea’s exports. The opportunity is substantial, but so is the policy challenge. Governments and central banks must support productive investment without allowing speculative valuations, trade restrictions or persistent inflation to turn a powerful technology cycle into a destabilising one.</p>",
-  "b2_summary": "AI investment is connecting the United States, China, Japan and South Korea, especially through semiconductors and data centres. U.S. technology shares recovered, but higher inflation may push the Federal Reserve toward tighter policy. China is supporting its capital market and strategic technology industries while facing limits on access to advanced American chips. Japan is seeing strong producer-price inflation, partly because import and wage costs are being passed on to customers. South Korea is gaining the most direct export benefit: semiconductor shipments rose sharply as global firms expanded AI servers. The boom is real, but it could weaken if investment slows or costs remain high.",
+  "story_title": "Four Economies, One Rewiring Global Economy",
+  "story_html": "<p><strong>United States 🇺🇸</strong> Washington is trying to reduce its dependence on overseas supply while keeping trade negotiations with Beijing alive. Treasury Secretary Scott Bessent has called for a more balanced relationship, arguing that the United States relies too heavily on imported goods while China relies heavily on foreign demand. At the same time, a US tariff suspension covering Chinese imports has been extended from November 10, 2026, to January 10, 2027. The extension lowers the risk of an immediate escalation, but it does not remove the underlying conflict over industrial policy, technology and market access. ([apnews.com](https://apnews.com/article/67d0030d68ba42bdcbedd0eacf92d4b3?utm_source=openai))</p><p><strong>China 🇨🇳</strong> China’s external sector is sending a different signal: despite trade restrictions, exports remain exceptionally strong. The country’s trade surplus is expected to exceed $1 trillion for a second consecutive year, while exports rose sharply in October. Shipments to the United States also rebounded from a low base. These figures show China’s continuing manufacturing capacity, but they also intensify complaints abroad that Chinese producers may be supplying global markets with more goods than domestic demand can absorb. In other words, China’s export strength is supporting growth at home while increasing pressure for defensive trade measures overseas. ([apnews.com](https://apnews.com/article/0fc56d7bd8bbff86ce6672bb67691f22?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is experiencing a more traditional cost shock. Its producer-price index, which tracks prices charged between businesses, climbed 7.1% year on year in October, accelerating from 6.8% in September. A weak yen—trading near ¥160 to the dollar—has made imported energy and materials more expensive, while oil prices above $100 a barrel have added to the pressure. The data strengthen the case for another Bank of Japan rate increase, although policymakers must balance inflation control against the risk of weakening demand. Japan’s challenge is therefore not simply whether prices are rising, but whether higher input costs can be passed on without damaging consumption. ([japantimes.co.jp](https://www.japantimes.co.jp/business/2026/11/12/economy/japan-producer-prices-october-pick-up/?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> South Korea is benefiting from the same global reorganization that is creating risks elsewhere. Semiconductor exports more than tripled during the first ten days of November, helping total exports more than double for the period. Cumulative exports for 2026 have moved close to the symbolic $1 trillion mark. The surge reflects strong demand for chips used in artificial-intelligence infrastructure, but it also reveals Korea’s concentration risk: a large share of national growth now depends on a narrow group of technology products and a small number of major markets. ([biz.heraldcorp.com](https://biz.heraldcorp.com/article/10933308?utm_source=openai))</p><p><strong>Common theme:</strong> These economies are not moving in lockstep. The United States and China are negotiating around strategic dependence; Japan is absorbing imported inflation; and South Korea is profiting from the semiconductor cycle. Yet all four are responding to the same structural shift: global supply chains are being repriced, redirected and increasingly treated as matters of economic security, not merely efficiency.</p>",
+  "b2_summary": "The four economies are responding differently to a changing global trading system. The United States and China have extended a temporary tariff pause, but their disagreement over technology and industrial policy remains. China’s exports are extremely strong, pushing its trade surplus above $1 trillion for a second year. Japan is facing higher business costs because of a weak yen and expensive energy. South Korea is benefiting from huge semiconductor demand, especially for artificial-intelligence equipment. The shared theme is supply-chain reorganization: trade is becoming more political, and countries are trying to protect strategic industries while keeping economic growth strong.",
   "vocabulary": [
     {
-      "term": "semiconductor value chain",
-      "meaning": "The connected stages that make and use chips, from design and equipment to production and final products (반도체 가치사슬)."
-    },
-    {
-      "term": "capital expenditure",
-      "meaning": "Money a company spends on long-term assets such as factories, servers or equipment (자본지출, 설비투자)."
-    },
-    {
-      "term": "producer prices",
-      "meaning": "Prices received or paid by businesses before products reach consumers (생산자물가)."
-    },
-    {
-      "term": "pass through",
-      "meaning": "To transfer higher costs to the next buyer, often through higher prices (비용 전가)."
-    },
-    {
-      "term": "monetary policy",
-      "meaning": "A central bank’s decisions about interest rates and financial conditions (통화정책)."
+      "term": "tariff suspension",
+      "meaning": "관세를 잠시 적용하지 않는 조치 (관세 유예)"
     },
     {
       "term": "trade surplus",
-      "meaning": "A situation in which a country exports more goods and services than it imports (무역흑자)."
+      "meaning": "수출액이 수입액보다 많은 상태 (무역 흑자)"
     },
     {
-      "term": "export controls",
-      "meaning": "Government rules that restrict the sale of certain goods or technologies to foreign buyers (수출통제)."
+      "term": "industrial policy",
+      "meaning": "정부가 특정 산업을 키우거나 보호하는 정책 (산업정책)"
     },
     {
-      "term": "valuation",
-      "meaning": "The price investors assign to a company or asset compared with its expected future earnings (기업가치 평가, 밸류에이션)."
+      "term": "producer-price index",
+      "meaning": "기업 사이에서 거래되는 상품 가격을 보여 주는 지표 (생산자물가지수)"
+    },
+    {
+      "term": "input costs",
+      "meaning": "상품을 만들 때 들어가는 원재료·에너지·부품 비용 (생산 투입 비용)"
+    },
+    {
+      "term": "pass on costs",
+      "meaning": "늘어난 비용을 소비자 가격에 반영하다 (비용 전가)"
+    },
+    {
+      "term": "concentration risk",
+      "meaning": "특정 상품·시장에 지나치게 의존해서 생기는 위험 (집중 위험)"
+    },
+    {
+      "term": "economic security",
+      "meaning": "국가 안보와 연결해 공급망·기술·산업을 보호하는 관점 (경제안보)"
+    },
+    {
+      "term": "rebound from a low base",
+      "meaning": "이전에 매우 낮았던 수준에서 크게 회복하다 (낮은 기저효과로 반등하다)"
     }
   ],
   "expressions": [
     {
-      "term": "look past concerns",
-      "meaning": "Temporarily ignore or discount a problem when making a judgment",
-      "example": "Investors looked past concerns about slowing AI demand.",
+      "term": "keep negotiations alive",
+      "meaning": "협상을 계속 이어 가다",
+      "example": "Both governments are trying to keep negotiations alive despite continuing disputes.",
       "type": "phrase"
     },
     {
-      "term": "keep pressure on",
-      "meaning": "Continue to make a person or institution feel that action is necessary",
-      "example": "Higher producer prices keep pressure on the central bank to tighten policy.",
+      "term": "from a low base",
+      "meaning": "낮은 이전 수준을 기준으로",
+      "example": "Exports rose sharply, although they were increasing from a low base.",
       "type": "phrase"
     },
     {
-      "term": "channel capital toward",
-      "meaning": "Direct money toward a particular sector or purpose",
-      "example": "Beijing wants to channel capital toward strategic industries.",
+      "term": "strengthen the case for",
+      "meaning": "어떤 조치의 필요성을 더 강하게 뒷받침하다",
+      "example": "The inflation data strengthened the case for another rate increase.",
       "type": "phrase"
     },
     {
-      "term": "feel the shock",
-      "meaning": "Experience the negative effects of a sudden change",
-      "example": "Export-dependent economies could feel the shock if AI investment slows.",
+      "term": "pass costs on to consumers",
+      "meaning": "비용을 소비자에게 전가하다",
+      "example": "Firms may pass higher energy costs on to consumers.",
       "type": "phrase"
     }
   ],
@@ -71,70 +75,70 @@
     {
       "flag": "🇺🇸",
       "name": "United States",
-      "focus": "AI stocks rebounded, but broadening inflation keeps higher interest rates in view."
+      "focus": "Balancing supply-chain independence with continued trade talks"
     },
     {
       "flag": "🇨🇳",
       "name": "China",
-      "focus": "Beijing is supporting capital-market stability and strategic technology investment amid chip restrictions."
+      "focus": "Record export strength despite external trade restrictions"
     },
     {
       "flag": "🇯🇵",
       "name": "Japan",
-      "focus": "Producer-price inflation is strengthening the case for continued monetary-policy caution."
+      "focus": "Higher producer prices and pressure from a weak yen"
     },
     {
       "flag": "🇰🇷",
       "name": "South Korea",
-      "focus": "Semiconductor exports and AI-server demand are driving exceptionally strong trade growth."
+      "focus": "A semiconductor-led export boom and concentration risk"
     }
   ],
-  "common_theme": "AI investment is transmitting through the semiconductor value chain, producing gains in markets and exports while also intensifying policy, inflation and trade risks.",
+  "common_theme": "Global supply chains are being reorganized as trade, technology and national security become more closely connected.",
   "concept": {
-    "title": "Pass-through",
-    "explanation": "Pass-through means that a higher cost at one stage moves to the next stage. For example, if imported materials become more expensive, a manufacturer may raise its prices; retailers may then raise prices for consumers. Economists use this idea to study how quickly temporary cost increases become broader inflation."
+    "title": "Producer-price index (PPI)",
+    "explanation": "The PPI measures price changes before products reach consumers. If factories pay more for energy, metals or parts, the increase may later move through the supply chain and raise consumer prices. However, companies may also absorb the extra cost or reduce production instead."
   },
   "quiz": {
-    "question": "Why are South Korea’s exports especially sensitive to a slowdown in AI investment?",
+    "question": "Why can strong semiconductor exports be both good news and a risk for South Korea?",
     "options": [
-      "Because most of its exports are agricultural products",
-      "Because semiconductors and AI-related equipment make up a large and rapidly growing part of its exports",
-      "Because South Korea has stopped trading with China"
+      "They increase export earnings but make the economy more dependent on one industry",
+      "They reduce all imported energy costs",
+      "They guarantee that consumer spending will rise immediately"
     ],
-    "answer_index": 1,
-    "explanation": "Semiconductors and computer-related shipments have surged as global companies expand AI infrastructure, making South Korea highly exposed to changes in that investment cycle."
+    "answer_index": 0,
+    "explanation": "Strong chip exports support growth and foreign-currency earnings, but heavy reliance on semiconductors creates concentration risk if demand or prices weaken."
   },
-  "one_sentence": "AI is not one economy-wide tide: it lifts U.S. markets, guides China’s policy, raises Japan’s cost pressures and powers South Korea’s exports.",
+  "one_sentence": "A stronger export number can hide a deeper question: is an economy becoming more resilient, or simply more dependent on one powerful trend?",
   "sources": [
     {
       "name": "Associated Press",
+      "region": "United States / China",
+      "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks",
+      "url": "https://apnews.com/article/67d0030d68ba42bdcbedd0eacf92d4b3"
+    },
+    {
+      "name": "U.S. Government Publishing Office",
       "region": "United States",
-      "title": "A rebound in AI stocks lifts the US market as the S&P 500 climbs",
-      "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e"
+      "title": "Federal Register notice extending the suspension of selected China tariffs",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22867.pdf"
     },
     {
       "name": "Associated Press",
-      "region": "United States",
-      "title": "Fed may be forced to raise interest rates faster as US inflation seeps into the broader economy",
-      "url": "https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457"
-    },
-    {
-      "name": "State Council Information Office of China",
       "region": "China",
-      "title": "Chinese premier chairs State Council executive meeting",
-      "url": "https://english.www.gov.cn/news/202611/07/content_WS6aee87b5c6d00ca5f9a0e29b.html"
+      "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+      "url": "https://apnews.com/article/0fc56d7bd8bbff86ce6672bb67691f22"
     },
     {
-      "name": "Bank of Japan",
+      "name": "The Japan Times",
       "region": "Japan",
-      "title": "Outlook for Economic Activity and Prices (October 2026)",
-      "url": "https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf"
+      "title": "Japan’s producer prices pick up, backing case for another BOJ rate hike",
+      "url": "https://www.japantimes.co.jp/business/2026/11/12/economy/japan-producer-prices-october-pick-up/"
     },
     {
-      "name": "Reuters via MarketScreener",
+      "name": "The Herald Business",
       "region": "South Korea",
-      "title": "South Korea exports nearly double in October on AI investment boom",
-      "url": "https://www.marketscreener.com/news/south-korea-exports-nearly-double-in-october-on-ai-investment-boom-ce785fd8da89f626"
+      "title": "Semiconductor exports surge 331%, pushing South Korea toward historic $1tr export milestone next week",
+      "url": "https://biz.heraldcorp.com/article/10933308"
     }
   ]
 }
