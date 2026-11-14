@@ -1,0 +1,150 @@
+{
+  "date_iso": "2026-11-14",
+  "date_display": "November 14, 2026",
+  "headline": "Higher-for-longer rates reshape Asia’s policy choices",
+  "dek": "U.S. inflation is keeping markets focused on further tightening, while China, Japan, and South Korea face very different consequences through currencies, trade, and investment.",
+  "read_time": "8 min",
+  "story_title": "A stronger dollar, divided Asia",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The latest U.S. producer-price data have reinforced the market’s “higher-for-longer” interest-rate narrative. The Producer Price Index rose 0.3% from September to October, while its annual increase accelerated to 6.5%, the strongest year-on-year gain since November 2022. Although the monthly rise was milder than September’s jump, the figures suggest that price pressure is not confined to one temporary shock. Investors are therefore assigning greater weight to the possibility of another Federal Reserve rate increase after December. Higher U.S. yields tend to support the dollar because they make dollar-denominated assets more attractive. ([apnews.com](https://apnews.com/article/5f427443fd31a4aa2bd2a1b6cebfe549?utm_source=openai))</p><p><strong>China 🇨🇳</strong> China presents a contrasting picture. Consumer prices rose only 0.7% in October from a year earlier, and were unchanged from September, pointing to restrained household demand. At the same time, producer prices rose 5.7% year-on-year and 0.7% month-on-month. This combination suggests a two-speed economy: consumer demand remains relatively soft, while industrial input and factory-gate prices are rising. Beijing may consequently retain more room for targeted support than the Federal Reserve, even as stronger global commodity prices raise costs for manufacturers. The data do not show a uniform regional inflation story; they show sharply different domestic conditions. ([stats.gov.cn](https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965808.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is feeling the currency channel most directly. The yen briefly moved beyond ¥160 to the dollar on November 13, as expectations for sustained U.S. rate strength outweighed confidence that the Bank of Japan would tighten policy quickly enough to close the interest-rate gap. Japanese officials have warned against excessive, one-sided currency moves, reviving speculation about intervention. A weak yen can support exporters’ overseas earnings, but it also raises the domestic cost of imported energy, food, and raw materials. For policymakers, the exchange rate is therefore both a competitiveness tool and an inflation risk. ([marketscreener.com](https://www.marketscreener.com/news/japan-s-finance-minister-vows-action-as-yen-breaches-160-threshold-ce785ed9db89f027?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Korea is benefiting from a separate but related global force: AI-led investment. October exports surged 93.7% year-on-year to $115.28 billion, with semiconductors providing the main engine. Yet strong exports do not eliminate financial vulnerability. Korean government-bond markets have been sensitive to rising expectations of another Federal Reserve increase, complicating the Bank of Korea’s own policy decision. The country must balance export momentum against borrowing costs, capital flows, and a potentially strong dollar. In short, the four economies share exposure to global financial conditions, but they are not moving in lockstep: the United States is fighting inflation, China is managing weak demand, Japan is defending currency stability, and Korea is trying to convert a chip boom into durable growth. ([marketscreener.com](https://www.marketscreener.com/news/south-korea-exports-nearly-double-in-october-on-ai-investment-boom-ce785fd8da89f626?utm_source=openai))</p><p>The connecting theme is <strong>policy divergence under dollar pressure</strong>. A more restrictive Fed can tighten financial conditions abroad even when other economies face different problems. Japan may consider intervention, Korea may hesitate over rate cuts, and China may preserve room for selective easing. The common pressure is real, but the policy responses are not interchangeable.</p>",
+  "b2_summary": "The United States is showing stubborn producer-price inflation, so markets expect interest rates to remain high or rise again. This supports the dollar and puts pressure on Asian currencies. China’s consumer inflation is weak, although factory prices are rising, giving Beijing more room to support the economy. Japan’s yen has fallen beyond 160 per dollar, increasing import costs and raising intervention concerns. South Korea is enjoying a huge semiconductor export boom linked to AI investment, but higher U.S. rates are making its bond-market and central-bank decisions more difficult. The shared theme is global financial pressure from a strong dollar, not identical economic conditions.",
+  "vocabulary": [
+    {
+      "term": "producer-price inflation",
+      "meaning": "물건이 소비자에게 팔리기 전에 생산자 단계에서 가격이 오르는 현상 (생산자물가 상승)"
+    },
+    {
+      "term": "higher-for-longer",
+      "meaning": "금리가 오랫동안 높은 상태로 유지된다는 뜻 (고금리 장기화)"
+    },
+    {
+      "term": "rate divergence",
+      "meaning": "나라별 금리 방향이나 수준이 서로 달라지는 현상 (금리 차별화)"
+    },
+    {
+      "term": "factory-gate prices",
+      "meaning": "공장이 제품을 출고할 때 받는 가격 (공장도 가격)"
+    },
+    {
+      "term": "restrained demand",
+      "meaning": "사람이나 기업이 지출을 많이 하지 않는 상태 (수요 억제)"
+    },
+    {
+      "term": "currency intervention",
+      "meaning": "정부나 중앙은행이 외환시장에 직접 개입하는 행동 (환율시장 개입)"
+    },
+    {
+      "term": "capital flows",
+      "meaning": "국가 간에 투자금이 들어오고 나가는 움직임 (자본 흐름)"
+    },
+    {
+      "term": "policy divergence",
+      "meaning": "각국 중앙은행이 서로 다른 통화정책을 선택하는 상황 (정책 차별화)"
+    },
+    {
+      "term": "durable growth",
+      "meaning": "일시적 호황이 아니라 오래 지속될 수 있는 성장 (지속 가능한 성장)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "reinforce the higher-for-longer narrative",
+      "meaning": "금리가 오랫동안 높게 유지될 것이라는 전망을 더 강하게 만들다",
+      "example": "The inflation data reinforced the higher-for-longer narrative.",
+      "type": "phrase"
+    },
+    {
+      "term": "close the interest-rate gap",
+      "meaning": "두 나라 사이의 금리 차이를 줄이다",
+      "example": "The Bank of Japan may need to tighten policy to close the interest-rate gap.",
+      "type": "phrase"
+    },
+    {
+      "term": "raise intervention concerns",
+      "meaning": "정부 개입 가능성에 대한 우려를 높이다",
+      "example": "A weaker yen has raised intervention concerns.",
+      "type": "phrase"
+    },
+    {
+      "term": "convert a boom into durable growth",
+      "meaning": "호황을 지속 가능한 성장으로 바꾸다",
+      "example": "Korea must convert its chip boom into durable growth.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Producer-price inflation is keeping expectations of further Fed tightening alive."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Weak consumer inflation contrasts with rising industrial prices."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "The yen’s slide beyond ¥160 raises import-cost and intervention risks."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "AI-driven semiconductor exports are strong, but higher U.S. rates strain financial markets."
+    }
+  ],
+  "common_theme": "Policy divergence under dollar pressure",
+  "concept": {
+    "title": "Why higher U.S. rates affect other countries",
+    "explanation": "When U.S. interest rates rise, dollar assets often become more attractive. Money can move toward the United States, strengthening the dollar and weakening other currencies. Countries such as Japan and South Korea may then face higher import costs or pressure to keep their own rates higher, even when their domestic economies need support."
+  },
+  "quiz": {
+    "question": "Which economy is experiencing weak consumer inflation but sharply higher producer prices?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea"
+    ],
+    "answer_index": 1,
+    "explanation": "China’s October consumer-price inflation was 0.7% year-on-year, while producer prices rose 5.7%."
+  },
+  "one_sentence": "One global interest-rate cycle can create four different policy problems: inflation in America, weak demand in China, currency stress in Japan, and financial pressure beside an export boom in Korea.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "Wholesale inflation declined last month yet remains stubbornly elevated",
+      "url": "https://apnews.com/article/5f427443fd31a4aa2bd2a1b6cebfe549"
+    },
+    {
+      "name": "National Bureau of Statistics of China",
+      "region": "China",
+      "title": "Consumer Price Index in October 2026",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965808.html"
+    },
+    {
+      "name": "National Bureau of Statistics of China",
+      "region": "China",
+      "title": "Industrial Producer Price Indexes in October 2026",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965806.html"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "Japan",
+      "title": "Limited US role in Japan intervention undermines deterrent as yen touches 160",
+      "url": "https://www.marketscreener.com/news/japan-s-finance-minister-vows-action-as-yen-breaches-160-threshold-ce785ed9db89f027"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "region": "South Korea",
+      "title": "South Korea exports nearly double in October on AI investment boom",
+      "url": "https://www.marketscreener.com/news/south-korea-exports-nearly-double-in-october-on-ai-investment-boom-ce785fd8da89f626"
+    },
+    {
+      "name": "Yonhap Infomax",
+      "region": "South Korea",
+      "title": "Bond Market Closing: Rates Flat as Investor Sentiment Weakens",
+      "url": "https://en.infomaxai.com/news/articleView.html?idxno=148313"
+    }
+  ]
+}
