@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-15",
+  "date_display": "November 15, 2026",
+  "headline": "Asia’s trade reset meets inflation, currencies, and supply-chain pressure",
+  "dek": "The United States and China are testing a fragile trade détente, while Japan and South Korea feel the consequences through exchange rates, exports, and technology supply chains.",
+  "read_time": "8 min",
+  "story_title": "A managed economic relationship, not a return to normal",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The central economic story in the Asia-Pacific is not a clean return to free trade but an attempt to manage strategic dependence. Ahead of next week’s APEC summit in Shenzhen, Washington and Beijing held the first meeting of a new trade committee. The discussions reportedly covered tariffs, agricultural purchases, and the implementation of earlier agreements, including possible reductions in duties applied to roughly $30 billion of each side’s imports. The mechanism gives both governments a channel for negotiation, but it does not remove the larger dispute over technology, industrial policy, and economic security. ([yna.co.kr](https://www.yna.co.kr/amp/view/AKR20261114041700089?utm_source=openai))</p><p>For the United States, the external trade agenda is unfolding alongside renewed domestic inflation pressure. Recent price data have strengthened expectations that the Federal Reserve may keep interest rates higher for longer, especially as tariffs and energy costs feed into a broader range of goods and services. Higher Treasury yields and a stronger dollar can attract global capital, but they also tighten financial conditions for businesses and raise the burden on economies whose currencies are weakening against the dollar. ([apnews.com](https://apnews.com/article/336b95f88ac197f7d0e84199bda23136?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is presenting the APEC meeting as an opportunity to promote openness, innovation, and cooperation, yet its approach is highly pragmatic. Extending tariff suspensions and maintaining talks with Washington can reduce immediate pressure on exporters, while preserving room to bargain over agriculture, advanced technology, and critical materials. The trade committee therefore functions less like a peace treaty than a pressure-release valve: it lowers the risk of sudden escalation without resolving the structural rivalry. ([yna.co.kr](https://www.yna.co.kr/amp/view/AKR20261114041700089?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is affected indirectly but intensely. The yen has remained near ¥160 to the dollar, encouraging speculation about further monetary tightening or foreign-exchange intervention by Tokyo and the Bank of Japan. A weak yen can support exporters, but it also raises the domestic cost of imported energy and raw materials. That makes Japan particularly sensitive to both American interest rates and any disruption in regional trade. ([sugotoku.docomo.ne.jp](https://www.sugotoku.docomo.ne.jp/cs/cpsite.html?url=https%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%3Ftp%3Dhttps%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%2Fweb%2Feconomy%2F261114%2Fxx-20261114-WA3W3HU32NK6NINNJXEULNODJA_1.html&utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Korea illustrates the upside and vulnerability of this regional system. Semiconductor exports more than doubled in the first ten days of November, putting annual exports on course to exceed $1 trillion for the first time. Strong chip demand links Korean manufacturers to American technology investment and Chinese production networks, but that same interdependence exposes Seoul to tariff changes, export controls, and shifts in global demand. The shared theme across the four economies is therefore <em>managed interdependence</em>: governments are trying to preserve trade and investment flows while treating supply chains as matters of national security. ([koreajoongangdaily.com](https://www.koreajoongangdaily.com/business/exports-more-than-double-in-1st-10-days-of-november/12966595?utm_source=openai))</p>",
+  "b2_summary": "The United States and China are trying to reduce trade tensions before the APEC summit, but their deeper competition over technology and industrial policy remains. The United States is also dealing with high inflation and expectations of higher interest rates. Japan’s weak yen makes exports more competitive but increases the cost of imports. South Korea is benefiting from very strong semiconductor exports and may record more than $1 trillion in exports this year. These economies are connected through trade, investment, and supply chains, but governments increasingly manage those links for security reasons.",
+  "vocabulary": [
+    {
+      "term": "fragile détente",
+      "meaning": "A weak and easily damaged period of reduced tension (불안정한 긴장 완화)"
+    },
+    {
+      "term": "trade committee",
+      "meaning": "An official group that discusses and manages trade disputes (무역위원회)"
+    },
+    {
+      "term": "tariff suspension",
+      "meaning": "A temporary pause in collecting an import tax (관세 부과 유예)"
+    },
+    {
+      "term": "structural rivalry",
+      "meaning": "Long-term competition caused by deep differences in interests or systems (구조적 경쟁)"
+    },
+    {
+      "term": "pressure-release valve",
+      "meaning": "A way to reduce pressure without solving the main problem (압력을 낮추는 완충 장치)"
+    },
+    {
+      "term": "foreign-exchange intervention",
+      "meaning": "Government action to influence the value of its currency (외환시장 개입)"
+    },
+    {
+      "term": "imported inflation",
+      "meaning": "Price increases caused by more expensive goods bought from abroad (수입 물가 상승)"
+    },
+    {
+      "term": "interdependence",
+      "meaning": "A situation in which economies rely on one another (상호의존)"
+    },
+    {
+      "term": "export controls",
+      "meaning": "Government limits on selling certain goods or technology abroad (수출통제)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "keep rates higher for longer",
+      "meaning": "Maintain relatively high interest rates for an extended period",
+      "example": "Sticky inflation could force the central bank to keep rates higher for longer.",
+      "type": "phrase"
+    },
+    {
+      "term": "reduce the risk of escalation",
+      "meaning": "Make a conflict becoming more serious less likely",
+      "example": "The new dialogue may reduce the risk of escalation in the tariff dispute.",
+      "type": "phrase"
+    },
+    {
+      "term": "remain exposed to",
+      "meaning": "Continue to be vulnerable to a risk or outside influence",
+      "example": "Korea remains exposed to sudden changes in global chip demand.",
+      "type": "phrase"
+    },
+    {
+      "term": "course toward a record",
+      "meaning": "Be likely to reach an unprecedented level",
+      "example": "The company is on course toward a record annual profit.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Trade talks with China and persistent inflation are shaping expectations for interest rates."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Beijing is using APEC and a new trade committee to stabilize relations without ending strategic competition."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "The weak yen supports exporters but raises the cost of imported energy and materials."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "A semiconductor-led export surge highlights both Korea’s strength and its dependence on global supply chains."
+    }
+  ],
+  "common_theme": "Managed interdependence: the four economies remain deeply connected through trade, investment, currencies, and technology supply chains, but governments increasingly regulate those connections for economic-security reasons.",
+  "concept": {
+    "title": "Managed interdependence",
+    "explanation": "Countries can depend on one another for trade and technology while still limiting that dependence. In practice, they keep profitable links open but add tariffs, export controls, investment rules, or strategic stockpiles to reduce security risks."
+  },
+  "quiz": {
+    "question": "Why can a weak yen be both helpful and harmful to Japan?",
+    "options": [
+      "It makes exports more competitive but makes imports more expensive.",
+      "It lowers export prices and reduces all domestic costs.",
+      "It automatically causes the Bank of Japan to cut interest rates."
+    ],
+    "answer_index": 0,
+    "explanation": "A weaker yen can help Japanese exporters earn more in foreign markets, but Japan must pay more yen for imported energy, food, and raw materials."
+  },
+  "one_sentence": "The new normal is not economic separation but controlled connection: trade continues, yet every supply chain is increasingly treated as a strategic asset.",
+  "sources": [
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "U.S. and China hold first trade committee meeting ahead of APEC summit",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261114041700089"
+    },
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "Retail sales and Fed minutes in focus next week",
+      "url": "https://apnews.com/article/336b95f88ac197f7d0e84199bda23136"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "APEC summit in Shenzhen draws attention to U.S.-China and regional economic diplomacy",
+      "url": "https://www.yna.co.kr/view/AKR20261110136600083"
+    },
+    {
+      "name": "Sankei Shimbun",
+      "region": "Japan",
+      "title": "Yen trades near ¥160 amid intervention concerns",
+      "url": "https://www.sugotoku.docomo.ne.jp/cs/cpsite.html?url=https%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%3Ftp%3Dhttps%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%2Fweb%2Feconomy%2F261114%2Fxx-20261114-WA3W3HU32NK6NINNJXEULNODJA_1.html"
+    },
+    {
+      "name": "Korea JoongAng Daily",
+      "region": "South Korea",
+      "title": "South Korea exports more than double in first 10 days of November",
+      "url": "https://www.koreajoongangdaily.com/business/exports-more-than-double-in-1st-10-days-of-november/12966595"
+    }
+  ]
+}

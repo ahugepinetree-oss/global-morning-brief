@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-11-15",
+    "date_display": "November 15, 2026",
+    "headline": "Asia’s trade reset meets inflation, currencies, and supply-chain pressure",
+    "file": "data/archive/2026-11-15.json"
+  },
+  {
     "date_iso": "2026-11-14",
     "date_display": "November 14, 2026",
     "headline": "Higher-for-longer rates reshape Asia’s policy choices",
