@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-16",
+  "date_display": "November 16, 2026",
+  "headline": "AI investment links four economies—but not in the same way",
+  "dek": "The United States is debating control of the AI boom, China is showcasing technology-led growth, Japan is expanding only modestly, and South Korea is benefiting strongly from semiconductor demand.",
+  "read_time": "8 min",
+  "story_title": "The AI economy is spreading unevenly across Asia and America",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — The American economy is entering an important week with inflation, consumer spending, and the Federal Reserve in focus. Retail-sales data and the minutes of the Fed’s latest meeting are due shortly, while recent figures suggest that the labor market remains resilient even as household budgets are under pressure. At the same time, the country’s AI boom is becoming a policy problem as well as an investment story. Treasury Secretary Scott Bessent has questioned whether Nvidia’s reported growth was supported by improper sales to China, putting export controls, corporate compliance, and national security at the center of the technology debate. ([apnews.com](https://apnews.com/article/retail-sales-fed-inflation-interest-rates-336b95f88ac197f7d0e84199bda23136))</p><p><strong>China 🇨🇳</strong> — China is presenting a different side of the same transformation. Ahead of this week’s APEC meetings, Shenzhen is being used as a showcase for driverless taxis, service robots, electric vehicles, and dense technology supply chains. The city’s advantage is not only its engineering talent: companies also benefit from policy support, nearby suppliers, and customers willing to test new products quickly. This illustrates Beijing’s broader effort to shift from an economy driven mainly by property and traditional manufacturing toward one based more heavily on advanced technology. However, a technology success story does not automatically mean that household demand is strong across the entire economy. ([apnews.com](https://apnews.com/article/china-shenzhen-apec-technology-df655739f3881e2025c873c13b1fed70))</p><p><strong>Japan 🇯🇵</strong> — Japan’s latest GDP figures show a more restrained picture. Real GDP increased 0.4% quarter on quarter in July–September, equivalent to a 1.6% annualized pace. Business investment and exports provided support, but household consumption weakened. The data therefore point to an economy that is still expanding, though without broad-based momentum. Japan’s experience matters for the wider region: companies can benefit from global demand for equipment and technology even when consumers at home remain cautious. The Bank of Japan must consequently balance inflation and currency pressures against the risk of slowing domestic activity too sharply. ([esri.cao.go.jp](https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/pdf/gaiyou2631_e.pdf))</p><p><strong>South Korea 🇰🇷</strong> — South Korea is currently the clearest beneficiary of the semiconductor cycle. Exports more than doubled during the first ten days of November, while chip shipments surged 331.2% year on year. Semiconductors accounted for almost half of total exports, and shipments to both China and the United States rose sharply. The figures put annual exports on course to exceed $1 trillion for the first time. Yet this strength also creates concentration risk: if AI-related capital spending slows, Korea’s export growth, corporate profits, and currency could all feel the impact. The common theme is therefore not a uniform boom, but an uneven reorganization of growth around AI, chips, and strategic technology. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261111002651320?section=economy-finance/economy))</p>",
+  "b2_summary": "AI and semiconductors are becoming more important to all four economies, but the effects are different. In the United States, strong AI investment is creating arguments about export controls and corporate responsibility. China is using Shenzhen to demonstrate progress in robots, driverless cars, and other advanced industries, although domestic demand remains a separate issue. Japan’s economy grew modestly in the third quarter because exports and business investment helped offset weaker consumer spending. South Korea is enjoying exceptional chip-export growth and may pass $1 trillion in annual exports. The shared trend is technology-led growth, but it also creates risks if demand slows or trade restrictions increase.",
+  "vocabulary": [
+    {
+      "term": "resilient",
+      "meaning": "강한 충격을 받아도 잘 버티는 (회복력 있는)"
+    },
+    {
+      "term": "household budgets",
+      "meaning": "가정이 수입을 어떻게 쓰고 관리하는지에 대한 계획 (가계 예산)"
+    },
+    {
+      "term": "export controls",
+      "meaning": "특정 기술이나 제품을 해외에 팔지 못하게 하는 정부 규칙 (수출 통제)"
+    },
+    {
+      "term": "corporate compliance",
+      "meaning": "기업이 법과 규정을 지키는 것 (기업 준법)"
+    },
+    {
+      "term": "supply chain",
+      "meaning": "제품을 만들고 운송하는 데 참여하는 전체 기업과 과정 (공급망)"
+    },
+    {
+      "term": "broad-based momentum",
+      "meaning": "경제 여러 부문에서 동시에 나타나는 성장의 힘 (광범위한 성장 동력)"
+    },
+    {
+      "term": "annualized pace",
+      "meaning": "현재의 분기 성장률이 1년 동안 계속된다고 가정한 속도 (연율 환산 성장률)"
+    },
+    {
+      "term": "concentration risk",
+      "meaning": "한 산업이나 고객에 지나치게 의존해서 생기는 위험 (집중 위험)"
+    },
+    {
+      "term": "capital spending",
+      "meaning": "공장·장비·기술 등에 기업이 투자하는 돈 (자본 지출)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "put something at the center of the debate",
+      "meaning": "어떤 사안을 논쟁의 핵심으로 만들다",
+      "example": "The scandal put export controls at the center of the debate.",
+      "type": "phrase"
+    },
+    {
+      "term": "be on course to",
+      "meaning": "어떤 목표를 향해 순조롭게 가고 있다",
+      "example": "South Korea is on course to exceed $1 trillion in exports.",
+      "type": "phrase"
+    },
+    {
+      "term": "provide support for",
+      "meaning": "어떤 결과나 활동을 뒷받침하다",
+      "example": "Exports provided support for Japan’s economy.",
+      "type": "phrase"
+    },
+    {
+      "term": "feel the impact",
+      "meaning": "영향을 직접 받다",
+      "example": "Korean exporters could feel the impact if AI demand slows.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "AI investment, inflation, the Federal Reserve, and export-control politics."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Shenzhen’s robotics and autonomous-driving ecosystem ahead of APEC."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Modest third-quarter growth supported by exports and business investment."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Exceptional semiconductor exports and the approach toward $1 trillion in annual exports."
+    }
+  ],
+  "common_theme": "AI and strategic technology are reshaping trade and growth, but the benefits are uneven and increasingly connected to geopolitical and supply-chain risks.",
+  "concept": {
+    "title": "Concentration risk",
+    "explanation": "If an economy depends heavily on one industry, product, or customer group, it may grow quickly when conditions are favorable—but suffer sharply when that source of demand weakens. South Korea’s strong dependence on semiconductor exports is a clear example."
+  },
+  "quiz": {
+    "question": "Which economy currently shows the strongest direct boost from semiconductor exports?",
+    "options": [
+      "United States",
+      "Japan",
+      "South Korea"
+    ],
+    "answer_index": 2,
+    "explanation": "South Korea’s chip exports rose 331.2% year on year in the first ten days of November and made up almost half of total exports."
+  },
+  "one_sentence": "Technology can create powerful growth, but an economy is safest when its success is not dependent on a single chip, customer, or policy decision.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "Retail sales and Fed minutes in focus next week",
+      "url": "https://apnews.com/article/retail-sales-fed-inflation-interest-rates-336b95f88ac197f7d0e84199bda23136"
+    },
+    {
+      "name": "Axios",
+      "region": "United States",
+      "title": "Bessent questions Nvidia’s sales and calls for external CEO",
+      "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
+    },
+    {
+      "name": "Associated Press",
+      "region": "China",
+      "title": "APEC host city Shenzhen shows China’s tech ambitions",
+      "url": "https://apnews.com/article/china-shenzhen-apec-technology-df655739f3881e2025c873c13b1fed70"
+    },
+    {
+      "name": "Economic and Social Research Institute, Cabinet Office of Japan",
+      "region": "Japan",
+      "title": "Quarterly Estimates of GDP for July–September 2026",
+      "url": "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/pdf/gaiyou2631_e.pdf"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Exports more than double in first 10 days of November",
+      "url": "https://en.yna.co.kr/view/AEN20261111002651320?section=economy-finance%2Feconomy"
+    }
+  ]
+}

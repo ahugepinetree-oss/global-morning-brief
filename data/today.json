@@ -1,73 +1,73 @@
 {
-  "date_iso": "2026-11-15",
-  "date_display": "November 15, 2026",
-  "headline": "Asia’s trade reset meets inflation, currencies, and supply-chain pressure",
-  "dek": "The United States and China are testing a fragile trade détente, while Japan and South Korea feel the consequences through exchange rates, exports, and technology supply chains.",
+  "date_iso": "2026-11-16",
+  "date_display": "November 16, 2026",
+  "headline": "AI investment links four economies—but not in the same way",
+  "dek": "The United States is debating control of the AI boom, China is showcasing technology-led growth, Japan is expanding only modestly, and South Korea is benefiting strongly from semiconductor demand.",
   "read_time": "8 min",
-  "story_title": "A managed economic relationship, not a return to normal",
-  "story_html": "<p><strong>United States 🇺🇸</strong> The central economic story in the Asia-Pacific is not a clean return to free trade but an attempt to manage strategic dependence. Ahead of next week’s APEC summit in Shenzhen, Washington and Beijing held the first meeting of a new trade committee. The discussions reportedly covered tariffs, agricultural purchases, and the implementation of earlier agreements, including possible reductions in duties applied to roughly $30 billion of each side’s imports. The mechanism gives both governments a channel for negotiation, but it does not remove the larger dispute over technology, industrial policy, and economic security. ([yna.co.kr](https://www.yna.co.kr/amp/view/AKR20261114041700089?utm_source=openai))</p><p>For the United States, the external trade agenda is unfolding alongside renewed domestic inflation pressure. Recent price data have strengthened expectations that the Federal Reserve may keep interest rates higher for longer, especially as tariffs and energy costs feed into a broader range of goods and services. Higher Treasury yields and a stronger dollar can attract global capital, but they also tighten financial conditions for businesses and raise the burden on economies whose currencies are weakening against the dollar. ([apnews.com](https://apnews.com/article/336b95f88ac197f7d0e84199bda23136?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is presenting the APEC meeting as an opportunity to promote openness, innovation, and cooperation, yet its approach is highly pragmatic. Extending tariff suspensions and maintaining talks with Washington can reduce immediate pressure on exporters, while preserving room to bargain over agriculture, advanced technology, and critical materials. The trade committee therefore functions less like a peace treaty than a pressure-release valve: it lowers the risk of sudden escalation without resolving the structural rivalry. ([yna.co.kr](https://www.yna.co.kr/amp/view/AKR20261114041700089?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is affected indirectly but intensely. The yen has remained near ¥160 to the dollar, encouraging speculation about further monetary tightening or foreign-exchange intervention by Tokyo and the Bank of Japan. A weak yen can support exporters, but it also raises the domestic cost of imported energy and raw materials. That makes Japan particularly sensitive to both American interest rates and any disruption in regional trade. ([sugotoku.docomo.ne.jp](https://www.sugotoku.docomo.ne.jp/cs/cpsite.html?url=https%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%3Ftp%3Dhttps%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%2Fweb%2Feconomy%2F261114%2Fxx-20261114-WA3W3HU32NK6NINNJXEULNODJA_1.html&utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Korea illustrates the upside and vulnerability of this regional system. Semiconductor exports more than doubled in the first ten days of November, putting annual exports on course to exceed $1 trillion for the first time. Strong chip demand links Korean manufacturers to American technology investment and Chinese production networks, but that same interdependence exposes Seoul to tariff changes, export controls, and shifts in global demand. The shared theme across the four economies is therefore <em>managed interdependence</em>: governments are trying to preserve trade and investment flows while treating supply chains as matters of national security. ([koreajoongangdaily.com](https://www.koreajoongangdaily.com/business/exports-more-than-double-in-1st-10-days-of-november/12966595?utm_source=openai))</p>",
-  "b2_summary": "The United States and China are trying to reduce trade tensions before the APEC summit, but their deeper competition over technology and industrial policy remains. The United States is also dealing with high inflation and expectations of higher interest rates. Japan’s weak yen makes exports more competitive but increases the cost of imports. South Korea is benefiting from very strong semiconductor exports and may record more than $1 trillion in exports this year. These economies are connected through trade, investment, and supply chains, but governments increasingly manage those links for security reasons.",
+  "story_title": "The AI economy is spreading unevenly across Asia and America",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — The American economy is entering an important week with inflation, consumer spending, and the Federal Reserve in focus. Retail-sales data and the minutes of the Fed’s latest meeting are due shortly, while recent figures suggest that the labor market remains resilient even as household budgets are under pressure. At the same time, the country’s AI boom is becoming a policy problem as well as an investment story. Treasury Secretary Scott Bessent has questioned whether Nvidia’s reported growth was supported by improper sales to China, putting export controls, corporate compliance, and national security at the center of the technology debate. ([apnews.com](https://apnews.com/article/retail-sales-fed-inflation-interest-rates-336b95f88ac197f7d0e84199bda23136))</p><p><strong>China 🇨🇳</strong> — China is presenting a different side of the same transformation. Ahead of this week’s APEC meetings, Shenzhen is being used as a showcase for driverless taxis, service robots, electric vehicles, and dense technology supply chains. The city’s advantage is not only its engineering talent: companies also benefit from policy support, nearby suppliers, and customers willing to test new products quickly. This illustrates Beijing’s broader effort to shift from an economy driven mainly by property and traditional manufacturing toward one based more heavily on advanced technology. However, a technology success story does not automatically mean that household demand is strong across the entire economy. ([apnews.com](https://apnews.com/article/china-shenzhen-apec-technology-df655739f3881e2025c873c13b1fed70))</p><p><strong>Japan 🇯🇵</strong> — Japan’s latest GDP figures show a more restrained picture. Real GDP increased 0.4% quarter on quarter in July–September, equivalent to a 1.6% annualized pace. Business investment and exports provided support, but household consumption weakened. The data therefore point to an economy that is still expanding, though without broad-based momentum. Japan’s experience matters for the wider region: companies can benefit from global demand for equipment and technology even when consumers at home remain cautious. The Bank of Japan must consequently balance inflation and currency pressures against the risk of slowing domestic activity too sharply. ([esri.cao.go.jp](https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/pdf/gaiyou2631_e.pdf))</p><p><strong>South Korea 🇰🇷</strong> — South Korea is currently the clearest beneficiary of the semiconductor cycle. Exports more than doubled during the first ten days of November, while chip shipments surged 331.2% year on year. Semiconductors accounted for almost half of total exports, and shipments to both China and the United States rose sharply. The figures put annual exports on course to exceed $1 trillion for the first time. Yet this strength also creates concentration risk: if AI-related capital spending slows, Korea’s export growth, corporate profits, and currency could all feel the impact. The common theme is therefore not a uniform boom, but an uneven reorganization of growth around AI, chips, and strategic technology. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261111002651320?section=economy-finance/economy))</p>",
+  "b2_summary": "AI and semiconductors are becoming more important to all four economies, but the effects are different. In the United States, strong AI investment is creating arguments about export controls and corporate responsibility. China is using Shenzhen to demonstrate progress in robots, driverless cars, and other advanced industries, although domestic demand remains a separate issue. Japan’s economy grew modestly in the third quarter because exports and business investment helped offset weaker consumer spending. South Korea is enjoying exceptional chip-export growth and may pass $1 trillion in annual exports. The shared trend is technology-led growth, but it also creates risks if demand slows or trade restrictions increase.",
   "vocabulary": [
     {
-      "term": "fragile détente",
-      "meaning": "A weak and easily damaged period of reduced tension (불안정한 긴장 완화)"
+      "term": "resilient",
+      "meaning": "강한 충격을 받아도 잘 버티는 (회복력 있는)"
     },
     {
-      "term": "trade committee",
-      "meaning": "An official group that discusses and manages trade disputes (무역위원회)"
-    },
-    {
-      "term": "tariff suspension",
-      "meaning": "A temporary pause in collecting an import tax (관세 부과 유예)"
-    },
-    {
-      "term": "structural rivalry",
-      "meaning": "Long-term competition caused by deep differences in interests or systems (구조적 경쟁)"
-    },
-    {
-      "term": "pressure-release valve",
-      "meaning": "A way to reduce pressure without solving the main problem (압력을 낮추는 완충 장치)"
-    },
-    {
-      "term": "foreign-exchange intervention",
-      "meaning": "Government action to influence the value of its currency (외환시장 개입)"
-    },
-    {
-      "term": "imported inflation",
-      "meaning": "Price increases caused by more expensive goods bought from abroad (수입 물가 상승)"
-    },
-    {
-      "term": "interdependence",
-      "meaning": "A situation in which economies rely on one another (상호의존)"
+      "term": "household budgets",
+      "meaning": "가정이 수입을 어떻게 쓰고 관리하는지에 대한 계획 (가계 예산)"
     },
     {
       "term": "export controls",
-      "meaning": "Government limits on selling certain goods or technology abroad (수출통제)"
+      "meaning": "특정 기술이나 제품을 해외에 팔지 못하게 하는 정부 규칙 (수출 통제)"
+    },
+    {
+      "term": "corporate compliance",
+      "meaning": "기업이 법과 규정을 지키는 것 (기업 준법)"
+    },
+    {
+      "term": "supply chain",
+      "meaning": "제품을 만들고 운송하는 데 참여하는 전체 기업과 과정 (공급망)"
+    },
+    {
+      "term": "broad-based momentum",
+      "meaning": "경제 여러 부문에서 동시에 나타나는 성장의 힘 (광범위한 성장 동력)"
+    },
+    {
+      "term": "annualized pace",
+      "meaning": "현재의 분기 성장률이 1년 동안 계속된다고 가정한 속도 (연율 환산 성장률)"
+    },
+    {
+      "term": "concentration risk",
+      "meaning": "한 산업이나 고객에 지나치게 의존해서 생기는 위험 (집중 위험)"
+    },
+    {
+      "term": "capital spending",
+      "meaning": "공장·장비·기술 등에 기업이 투자하는 돈 (자본 지출)"
     }
   ],
   "expressions": [
     {
-      "term": "keep rates higher for longer",
-      "meaning": "Maintain relatively high interest rates for an extended period",
-      "example": "Sticky inflation could force the central bank to keep rates higher for longer.",
+      "term": "put something at the center of the debate",
+      "meaning": "어떤 사안을 논쟁의 핵심으로 만들다",
+      "example": "The scandal put export controls at the center of the debate.",
       "type": "phrase"
     },
     {
-      "term": "reduce the risk of escalation",
-      "meaning": "Make a conflict becoming more serious less likely",
-      "example": "The new dialogue may reduce the risk of escalation in the tariff dispute.",
+      "term": "be on course to",
+      "meaning": "어떤 목표를 향해 순조롭게 가고 있다",
+      "example": "South Korea is on course to exceed $1 trillion in exports.",
       "type": "phrase"
     },
     {
-      "term": "remain exposed to",
-      "meaning": "Continue to be vulnerable to a risk or outside influence",
-      "example": "Korea remains exposed to sudden changes in global chip demand.",
+      "term": "provide support for",
+      "meaning": "어떤 결과나 활동을 뒷받침하다",
+      "example": "Exports provided support for Japan’s economy.",
       "type": "phrase"
     },
     {
-      "term": "course toward a record",
-      "meaning": "Be likely to reach an unprecedented level",
-      "example": "The company is on course toward a record annual profit.",
+      "term": "feel the impact",
+      "meaning": "영향을 직접 받다",
+      "example": "Korean exporters could feel the impact if AI demand slows.",
       "type": "phrase"
     }
   ],
@@ -75,70 +75,70 @@
     {
       "flag": "🇺🇸",
       "name": "United States",
-      "focus": "Trade talks with China and persistent inflation are shaping expectations for interest rates."
+      "focus": "AI investment, inflation, the Federal Reserve, and export-control politics."
     },
     {
       "flag": "🇨🇳",
       "name": "China",
-      "focus": "Beijing is using APEC and a new trade committee to stabilize relations without ending strategic competition."
+      "focus": "Shenzhen’s robotics and autonomous-driving ecosystem ahead of APEC."
     },
     {
       "flag": "🇯🇵",
       "name": "Japan",
-      "focus": "The weak yen supports exporters but raises the cost of imported energy and materials."
+      "focus": "Modest third-quarter growth supported by exports and business investment."
     },
     {
       "flag": "🇰🇷",
       "name": "South Korea",
-      "focus": "A semiconductor-led export surge highlights both Korea’s strength and its dependence on global supply chains."
+      "focus": "Exceptional semiconductor exports and the approach toward $1 trillion in annual exports."
     }
   ],
-  "common_theme": "Managed interdependence: the four economies remain deeply connected through trade, investment, currencies, and technology supply chains, but governments increasingly regulate those connections for economic-security reasons.",
+  "common_theme": "AI and strategic technology are reshaping trade and growth, but the benefits are uneven and increasingly connected to geopolitical and supply-chain risks.",
   "concept": {
-    "title": "Managed interdependence",
-    "explanation": "Countries can depend on one another for trade and technology while still limiting that dependence. In practice, they keep profitable links open but add tariffs, export controls, investment rules, or strategic stockpiles to reduce security risks."
+    "title": "Concentration risk",
+    "explanation": "If an economy depends heavily on one industry, product, or customer group, it may grow quickly when conditions are favorable—but suffer sharply when that source of demand weakens. South Korea’s strong dependence on semiconductor exports is a clear example."
   },
   "quiz": {
-    "question": "Why can a weak yen be both helpful and harmful to Japan?",
+    "question": "Which economy currently shows the strongest direct boost from semiconductor exports?",
     "options": [
-      "It makes exports more competitive but makes imports more expensive.",
-      "It lowers export prices and reduces all domestic costs.",
-      "It automatically causes the Bank of Japan to cut interest rates."
+      "United States",
+      "Japan",
+      "South Korea"
     ],
-    "answer_index": 0,
-    "explanation": "A weaker yen can help Japanese exporters earn more in foreign markets, but Japan must pay more yen for imported energy, food, and raw materials."
+    "answer_index": 2,
+    "explanation": "South Korea’s chip exports rose 331.2% year on year in the first ten days of November and made up almost half of total exports."
   },
-  "one_sentence": "The new normal is not economic separation but controlled connection: trade continues, yet every supply chain is increasingly treated as a strategic asset.",
+  "one_sentence": "Technology can create powerful growth, but an economy is safest when its success is not dependent on a single chip, customer, or policy decision.",
   "sources": [
-    {
-      "name": "Yonhap News Agency",
-      "region": "South Korea",
-      "title": "U.S. and China hold first trade committee meeting ahead of APEC summit",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261114041700089"
-    },
     {
       "name": "Associated Press",
       "region": "United States",
       "title": "Retail sales and Fed minutes in focus next week",
-      "url": "https://apnews.com/article/336b95f88ac197f7d0e84199bda23136"
+      "url": "https://apnews.com/article/retail-sales-fed-inflation-interest-rates-336b95f88ac197f7d0e84199bda23136"
+    },
+    {
+      "name": "Axios",
+      "region": "United States",
+      "title": "Bessent questions Nvidia’s sales and calls for external CEO",
+      "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
+    },
+    {
+      "name": "Associated Press",
+      "region": "China",
+      "title": "APEC host city Shenzhen shows China’s tech ambitions",
+      "url": "https://apnews.com/article/china-shenzhen-apec-technology-df655739f3881e2025c873c13b1fed70"
+    },
+    {
+      "name": "Economic and Social Research Institute, Cabinet Office of Japan",
+      "region": "Japan",
+      "title": "Quarterly Estimates of GDP for July–September 2026",
+      "url": "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/pdf/gaiyou2631_e.pdf"
     },
     {
       "name": "Yonhap News Agency",
       "region": "South Korea",
-      "title": "APEC summit in Shenzhen draws attention to U.S.-China and regional economic diplomacy",
-      "url": "https://www.yna.co.kr/view/AKR20261110136600083"
-    },
-    {
-      "name": "Sankei Shimbun",
-      "region": "Japan",
-      "title": "Yen trades near ¥160 amid intervention concerns",
-      "url": "https://www.sugotoku.docomo.ne.jp/cs/cpsite.html?url=https%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%3Ftp%3Dhttps%3A%2F%2Fsmp.sankei.co.jp%2Fdsc%2Fsnews%2Fweb%2Feconomy%2F261114%2Fxx-20261114-WA3W3HU32NK6NINNJXEULNODJA_1.html"
-    },
-    {
-      "name": "Korea JoongAng Daily",
-      "region": "South Korea",
-      "title": "South Korea exports more than double in first 10 days of November",
-      "url": "https://www.koreajoongangdaily.com/business/exports-more-than-double-in-1st-10-days-of-november/12966595"
+      "title": "Exports more than double in first 10 days of November",
+      "url": "https://en.yna.co.kr/view/AEN20261111002651320?section=economy-finance%2Feconomy"
     }
   ]
 }
