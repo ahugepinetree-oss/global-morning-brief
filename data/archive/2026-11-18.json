@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-18",
+  "date_display": "November 18, 2026",
+  "headline": "Asia-Pacific economies turn interdependence into a security question",
+  "dek": "At the Shenzhen APEC summit, the United States, China, Japan, and South Korea are discussing growth—but increasingly through the lenses of technology, energy, and supply-chain resilience.",
+  "read_time": "8 min",
+  "story_title": "From Free Trade to Economic Security",
+  "story_html": "<p><strong>United States 🇺🇸</strong> Washington is approaching this week’s Asia-Pacific Economic Cooperation (APEC) meetings with a dual strategy: preserve commercial ties where possible while limiting strategic dependence on China. At a Quad summit in Manila on November 17, the United States, Japan, Australia, and India expressed concern about “economic coercion,” including arbitrary export restrictions. The language reflects a wider shift in American policy: trade is no longer treated as separate from national security. Meanwhile, American companies form the largest group of non-Chinese businesses attending the APEC CEO Summit in Shenzhen, showing that rivalry and commercial engagement are continuing side by side. ([whitehouse.gov](https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is presenting APEC as evidence that regional cooperation remains possible. The Chinese government says the Shenzhen meetings will prioritize openness, innovation, and cooperation, with discussions on digital-economy coordination, artificial intelligence, green transformation, and a possible Free Trade Area of the Asia-Pacific. Yet China’s message is not simply a return to old-style globalization. Its emphasis on an “open and inclusive AI innovation ecosystem” also reflects the country’s attempt to shape the rules of the next technology cycle while facing restrictions on advanced American chips. The central tension is clear: businesses want predictable cross-border access, while governments increasingly want control over technologies and materials considered strategically vital. ([english.www.gov.cn](https://english.www.gov.cn/news/202611/17/content_WS6afc2b6dc6d00ca5f9a0e5b4.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan is responding by building resilience through partnerships. Prime Minister Sanae Takaichi is attending APEC after participating in ASEAN-related meetings, where Tokyo highlighted stronger regional supply chains and cooperation on critical minerals. Japan and the International Energy Agency also agreed to establish an oil-security hub for Asia, designed to improve stockpiling, market information, and emergency coordination. These measures show how energy security has become an economic issue, not merely a diplomatic one. For an import-dependent economy, a disruption in shipping lanes or fuel supplies can quickly raise production costs, weaken household purchasing power, and complicate monetary policy. ([mofa.go.jp](https://www.mofa.go.jp/a_o/rp/pageite_000001_01926.html?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Seoul is trying to keep several doors open at once. President Lee Jae Myung arrived in Shenzhen on November 18 and was scheduled to meet President Xi Jinping to discuss trade, investment, and bilateral cooperation. At the same time, South Korea has urged ASEAN, China, and Japan to strengthen joint responses to “polycrises,” including energy shocks, food insecurity, and disruptions to digital networks. This balancing act reflects Korea’s economic structure: it depends heavily on Chinese trade, the American security relationship, and global demand for semiconductors. The shared theme across all four economies is therefore not agreement, but managed interdependence. They still need one another—but they increasingly want backup plans. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261118003400315?utm_source=openai))</p>",
+  "b2_summary": "The United States, China, Japan, and South Korea are attending important regional meetings in Asia. Their economies are connected, but they are also worried about risks involving technology, energy, and supply chains. The United States and Japan want protection against economic pressure and export restrictions. China is promoting cooperation in digital technology and trade while trying to influence future technology rules. Japan is building stronger energy and mineral partnerships. South Korea is working with both China and the United States while seeking stable supply chains. The countries do not completely agree, but all are trying to reduce their economic vulnerability.",
+  "vocabulary": [
+    {
+      "term": "economic coercion",
+      "meaning": "Using trade, investment, or market access to pressure another country (경제적 강압)."
+    },
+    {
+      "term": "export restriction",
+      "meaning": "A government rule that limits what products or technology can be sold abroad (수출 제한)."
+    },
+    {
+      "term": "supply-chain resilience",
+      "meaning": "The ability of a supply network to continue working after a shock (공급망 회복력)."
+    },
+    {
+      "term": "critical minerals",
+      "meaning": "Raw materials essential to important industries but vulnerable to shortages or political disruption (핵심 광물)."
+    },
+    {
+      "term": "strategically vital",
+      "meaning": "Extremely important for national security or long-term economic power (전략적으로 매우 중요한)."
+    },
+    {
+      "term": "import-dependent",
+      "meaning": "Relying heavily on goods, fuel, or materials purchased from other countries (수입 의존적인)."
+    },
+    {
+      "term": "polycrisis",
+      "meaning": "Several serious crises happening at the same time and affecting one another (복합 위기)."
+    },
+    {
+      "term": "managed interdependence",
+      "meaning": "A situation in which countries remain economically connected but deliberately limit their risks (관리되는 상호의존)."
+    },
+    {
+      "term": "monetary policy",
+      "meaning": "Central-bank decisions about interest rates and money supply (통화정책)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "side by side",
+      "meaning": "Happening together, even when two things seem contradictory.",
+      "example": "Rivalry and commercial engagement are continuing side by side.",
+      "type": "phrase"
+    },
+    {
+      "term": "keep several doors open",
+      "meaning": "Maintain good options with different partners instead of choosing only one.",
+      "example": "Seoul is trying to keep several doors open at once.",
+      "type": "phrase"
+    },
+    {
+      "term": "build a backup plan",
+      "meaning": "Prepare an alternative in case the main system fails.",
+      "example": "Governments want to build backup plans for energy and technology supplies.",
+      "type": "phrase"
+    },
+    {
+      "term": "come at a cost",
+      "meaning": "Bring a negative consequence or require a sacrifice.",
+      "example": "Greater economic security may come at a cost to efficiency.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Linking trade policy with national security and technology controls."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Promoting regional openness while shaping digital and AI rules."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Strengthening energy security and critical-mineral supply chains."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Balancing ties with China and the United States while protecting trade resilience."
+    }
+  ],
+  "common_theme": "Managed interdependence: all four economies still rely on regional trade, but they are building safeguards around technology, energy, and strategic supply chains.",
+  "concept": {
+    "title": "Supply-chain resilience",
+    "explanation": "Supply-chain resilience means being able to keep producing and delivering goods after a disruption. A resilient country may use several suppliers, hold emergency stockpiles, or develop local production. This can reduce risk, but it may also raise costs because the cheapest supplier is not always the safest one."
+  },
+  "quiz": {
+    "question": "Why are the four economies strengthening supply-chain resilience?",
+    "options": [
+      "Because international trade has completely stopped",
+      "Because they want to reduce the damage from possible shocks or political pressure",
+      "Because they no longer need energy or technology imports"
+    ],
+    "answer_index": 1,
+    "explanation": "They remain dependent on international trade, but they want alternative suppliers and emergency plans in case trade is disrupted."
+  },
+  "one_sentence": "The new economic reality is simple: countries still need one another, but they increasingly want the power to cope without one another.",
+  "sources": [
+    {
+      "name": "The White House",
+      "region": "United States",
+      "title": "Quad Leaders’ Summit Joint Press Release",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/"
+    },
+    {
+      "name": "State Council of the People’s Republic of China / Xinhua",
+      "region": "China",
+      "title": "APEC CEO Summit 2026 kicks off in Shenzhen with focus on regional cooperation, future prosperity",
+      "url": "https://english.www.gov.cn/news/202611/17/content_WS6afc2b6dc6d00ca5f9a0e5b4.html"
+    },
+    {
+      "name": "Ministry of Foreign Affairs of Japan",
+      "region": "Japan",
+      "title": "Joint Statement by the Government of Japan and the International Energy Agency",
+      "url": "https://www.mofa.go.jp/files/101120169.pdf"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Lee to hold talks with Xi on sidelines of APEC summit",
+      "url": "https://en.yna.co.kr/view/AEN20261118003400315"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "Regional context",
+      "title": "(LEAD) S. Korea’s Lee calls for stronger joint crisis response by ASEAN, Korea, China, Japan",
+      "url": "https://en.yna.co.kr/view/AEN20261117002451315"
+    }
+  ]
+}
