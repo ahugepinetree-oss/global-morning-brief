@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-19",
+  "date_display": "November 19, 2026",
+  "headline": "Asia-Pacific trade is opening—and becoming more strategic",
+  "dek": "The latest signals from the United States, China, Japan and South Korea point to the same tension: governments want commerce to grow, but they also want tighter control over technology, supply chains and national security.",
+  "read_time": "8 min",
+  "story_title": "Economic openness, with conditions attached",
+  "story_html": "<p><strong>United States 🇺🇸</strong> Washington is entering the APEC spotlight with two messages that do not fit neatly together. President Donald Trump is meeting Chinese President Xi Jinping in Shenzhen, while the Federal Reserve’s latest minutes show that almost all officials expect another interest-rate increase in December because inflation remains a concern. The combination suggests that the U.S. is trying to preserve bargaining power abroad while keeping financial conditions tight at home. In trade, the central issue is no longer simply whether goods cross borders, but which technologies and strategic inputs are allowed to do so. ([apnews.com](https://apnews.com/article/0324c1116e07ed0c188fad0d94398296?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is using APEC to present itself as a defender of open trade and regional growth. Xi has called for more equitable economic cooperation, yet China’s export strength—particularly in manufacturing and technology—continues to unsettle trading partners. That contradiction is central to the current relationship with Washington: both economies remain deeply connected, but each is trying to reduce the other’s leverage. The result is not a clean separation. It is a selective decoupling, in which some commercial links expand while sensitive sectors such as advanced chips face tighter restrictions. ([apnews.com](https://apnews.com/article/1e3b6161b31196c9716ca02ac8c7720c?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Tokyo illustrates the vulnerability behind the strategic debate. Japan recorded a 476.5 billion yen trade deficit in October as higher energy-import costs outweighed strong export growth. Its exports rose to North America, Europe and Asia, including China, but expensive fuel still weakened the overall balance. Japan therefore has an interest in stable regional trade even as its government seeks greater resilience in energy, technology and critical materials. Economic security for Tokyo is not an abstract slogan: it is closely tied to whether factories can obtain affordable inputs and whether households can absorb imported inflation. ([apnews.com](https://apnews.com/article/17623689c3248c926283044cd5ff3484?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Seoul is pursuing a more practical form of economic diplomacy. South Korea and China have substantively concluded negotiations to expand their bilateral free-trade agreement into services and investment. The prospective deal would improve market access for Korean films, games, tourism, legal services and finance, while giving Korean companies more predictable treatment in China. At the same time, President Lee Jae Myung has urged APEC economies to cooperate on stable supplies of critical minerals and energy. Seoul is therefore trying to achieve two goals at once: reopen commercial opportunities with China and reduce exposure to supply-chain shocks. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261119000300315?utm_source=openai))</p><p>The common theme is <strong>managed interdependence</strong>. None of these four economies appears ready to abandon cross-border trade; their industries still rely on one another for markets, components, capital and energy. But governments increasingly want trade to serve strategic objectives. Washington emphasizes leverage and technology controls, Beijing emphasizes access and exports, Tokyo emphasizes resilience, and Seoul emphasizes diversification without closing the door to China. The important lesson is that globalization is not disappearing. It is being redesigned around the question of who controls the links that make growth possible.</p>",
+  "b2_summary": "The United States, China, Japan and South Korea still depend on international trade, but they are becoming more careful about it. The U.S. is discussing trade and technology restrictions while the Federal Reserve may raise interest rates again. China is promoting open trade, although its strong exports worry other countries. Japan’s October trade deficit showed how expensive energy can hurt the economy. South Korea reached an important agreement with China to improve access for services such as films, games and tourism. Together, these stories show “managed interdependence”: countries continue trading, but they want more control over strategic industries and supplies.",
+  "vocabulary": [
+    {
+      "term": "economic security",
+      "meaning": "국가 경제를 지키는 것; 기술·에너지·공급망을 안보처럼 관리하는 것 (경제안보)"
+    },
+    {
+      "term": "bargaining power",
+      "meaning": "협상에서 상대방에게 조건을 받아들이게 할 수 있는 힘 (협상력)"
+    },
+    {
+      "term": "selective decoupling",
+      "meaning": "모든 교역을 끊지 않고 민감한 분야만 분리하는 것 (선별적 디커플링)"
+    },
+    {
+      "term": "strategic input",
+      "meaning": "경제나 산업에 꼭 필요하면서 안보와도 관련된 원료·부품·기술 (전략적 투입재)"
+    },
+    {
+      "term": "trade deficit",
+      "meaning": "수입액이 수출액보다 많은 상태 (무역수지 적자)"
+    },
+    {
+      "term": "market access",
+      "meaning": "외국 기업이 다른 나라 시장에서 상품이나 서비스를 팔 수 있는 기회 (시장 접근성)"
+    },
+    {
+      "term": "critical minerals",
+      "meaning": "배터리·반도체·에너지 산업에 중요하지만 공급 위험이 큰 광물 (핵심 광물)"
+    },
+    {
+      "term": "managed interdependence",
+      "meaning": "서로 의존해 거래는 계속하지만 위험한 연결은 국가가 관리하는 상태 (관리된 상호의존)"
+    },
+    {
+      "term": "financial conditions",
+      "meaning": "금리와 대출 비용 등을 포함해 기업과 가계가 돈을 쓰고 빌리기 쉬운 정도 (금융 여건)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "enter the spotlight",
+      "meaning": "중요한 관심의 중심에 들어가다",
+      "example": "The two economies entered the spotlight at the APEC summit.",
+      "type": "phrase"
+    },
+    {
+      "term": "fit neatly together",
+      "meaning": "서로 완전히 잘 맞다",
+      "example": "The government’s trade and security goals do not fit neatly together.",
+      "type": "phrase"
+    },
+    {
+      "term": "outweigh strong export growth",
+      "meaning": "강한 수출 증가보다 더 큰 영향을 주다",
+      "example": "Higher energy costs outweighed strong export growth.",
+      "type": "phrase"
+    },
+    {
+      "term": "achieve two goals at once",
+      "meaning": "두 가지 목표를 동시에 달성하다",
+      "example": "Seoul wants to achieve two goals at once: more trade and safer supply chains.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Fed rate-hike expectations and technology-related trade leverage"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "APEC’s open-trade message versus export and technology tensions"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "October trade deficit caused partly by costly energy imports"
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Expanded China FTA access and cooperation on critical supplies"
+    }
+  ],
+  "common_theme": "Managed interdependence: all four economies still need cross-border trade, but they increasingly want to control strategic technologies, energy and supply chains.",
+  "concept": {
+    "title": "Economic security",
+    "explanation": "Economic security means protecting the economy from dangerous dependence. A country may still trade internationally, but it tries to ensure that essential chips, energy, minerals and technologies cannot be easily blocked or controlled by another country."
+  },
+  "quiz": {
+    "question": "What does “selective decoupling” mean in the article?",
+    "options": [
+      "Ending all international trade",
+      "Separating only sensitive economic sectors",
+      "Increasing dependence on one foreign supplier"
+    ],
+    "answer_index": 1,
+    "explanation": "Selective decoupling means keeping ordinary trade while restricting or separating sensitive areas such as advanced chips or strategic technology."
+  },
+  "one_sentence": "Globalization is not disappearing; it is being redesigned around who controls the links that make growth possible.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States / China",
+      "title": "What to know about US-China competition as Trump and Xi meet again this week",
+      "url": "https://apnews.com/article/0324c1116e07ed0c188fad0d94398296a"
+    },
+    {
+      "name": "Associated Press",
+      "region": "China / Asia-Pacific",
+      "title": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China",
+      "url": "https://apnews.com/article/1e3b6161b31196c9716ca02ac8c7720c"
+    },
+    {
+      "name": "Associated Press",
+      "region": "Japan",
+      "title": "Japan marks a trade deficit in October as oil prices keep imports high",
+      "url": "https://apnews.com/article/17623689c3248c926283044cd5ff3484"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea / China",
+      "title": "Seoul hails FTA expansion with China on services, investment as qualitative advance in ties",
+      "url": "https://en.yna.co.kr/view/AEN20261119000300315"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea / Asia-Pacific",
+      "title": "Lee calls on APEC members to work together to ensure stable supply of critical minerals, energy",
+      "url": "https://en.yna.co.kr/view/AEN20261118009600315"
+    }
+  ]
+}
