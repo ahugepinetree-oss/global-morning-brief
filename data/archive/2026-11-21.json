@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-21",
+  "date_display": "November 21, 2026",
+  "headline": "The AI boom is still real—but markets are repricing it",
+  "dek": "Across the United States, China, Japan, and South Korea, artificial intelligence is reshaping investment, exports, currencies, and economic policy. The benefits are substantial, but uneven.",
+  "read_time": "8 min",
+  "story_title": "AI’s next test: from explosive growth to economic broadening",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The clearest warning came from Wall Street. A sharp sell-off in artificial-intelligence shares pushed the S&amp;P 500 down 3.7% on Friday, while the Nasdaq entered negative territory for the year. Chipmakers and companies linked to data-centre construction suffered especially heavy losses. Investors are not necessarily abandoning AI; rather, they are questioning whether exceptionally high valuations and enormous capital spending can be justified by near-term profits. The episode shows how quickly a powerful investment narrative can become a source of market vulnerability. ([apnews.com](https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad))</p><p><strong>China 🇨🇳</strong> China illustrates a more complicated picture. Broad mainland equity indexes fell on November 20, and the yuan weakened modestly, but Chinese technology shares connected with domestic computing and advanced chip packaging also attracted interest. Chinese financial coverage has highlighted efforts to strengthen locally designed AI infrastructure, including packaging, processors, and supporting equipment. This suggests that Beijing’s AI strategy is partly defensive: it aims not only to capture a commercial boom, but also to reduce dependence on foreign technology. China is therefore participating in the AI cycle while simultaneously building a more self-reliant supply chain. ([chinaday.news](https://www.chinaday.news/en))</p><p><strong>Japan 🇯🇵</strong> Japan is feeling the same technology shock through both markets and monetary policy. The Nikkei fell sharply alongside other Asian equity indexes after the U.S. technology rout. At the same time, the Bank of Japan is moving into unfamiliar territory: inflation has reached its 2% target, yet policymakers disagree about how far interest rates should eventually rise. Reuters reports that markets broadly expect another hike in December, but uncertainty about the neutral rate is encouraging yen selling. Japan must therefore balance three pressures—higher import costs from a weak yen, stronger inflation, and the risk that tighter policy will weaken household consumption. ([investing.com](https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426))</p><p><strong>South Korea 🇰🇷</strong> Korea represents the export side of the story. It passed $1 trillion in annual exports for the first time, with high-bandwidth memory, or HBM, chips playing a central role in the surge. Yet the achievement has exposed a structural divide. Samsung Electronics and SK Hynix are benefiting enormously, while some smaller suppliers remain loss-making and several traditional industries face intense competition from China. The common theme, then, is not simply “AI growth.” It is the challenge of converting a concentrated technology boom into durable, broad-based prosperity. Markets, governments, and companies are now testing whether AI can move from spectacular valuation story to productive economic foundation. ([news.sbs.co.kr](https://news.sbs.co.kr/english/article.do?news_id=N1008854652))</p>",
+  "b2_summary": "The four economies are connected by the rapid expansion of artificial intelligence and semiconductors. In the United States, investors have started to question very high AI valuations and heavy spending. China is developing domestic AI chips and equipment while trying to reduce reliance on foreign technology. Japan is dealing with market volatility, inflation, and uncertainty about future interest-rate increases. South Korea has reached $1 trillion in exports, helped by HBM memory chips, but smaller firms and older industries are not benefiting equally. The main question is whether AI can create broad economic growth rather than gains for only a few companies.",
+  "vocabulary": [
+    {
+      "term": "reprice",
+      "meaning": "to change the value of an asset after new information; 가격을 다시 매기다 (시장 재평가)"
+    },
+    {
+      "term": "market correction",
+      "meaning": "a noticeable fall after prices have risen too far; 가격이 너무 오른 뒤의 조정 하락 (시장 조정)"
+    },
+    {
+      "term": "capital expenditure",
+      "meaning": "money spent on long-term assets such as factories or data centres; 공장·데이터센터 같은 장기 시설에 쓰는 돈 (자본지출)"
+    },
+    {
+      "term": "advanced packaging",
+      "meaning": "a sophisticated way to connect and stack chips; 칩을 연결하고 쌓는 고도화된 제조 방식 (첨단 패키징)"
+    },
+    {
+      "term": "supply-chain resilience",
+      "meaning": "the ability to keep production running despite disruption; 문제가 생겨도 생산을 계속하는 힘 (공급망 회복력)"
+    },
+    {
+      "term": "neutral rate",
+      "meaning": "an interest rate that neither stimulates nor slows the economy; 경제를 자극하지도 억제하지도 않는 금리 (중립금리)"
+    },
+    {
+      "term": "monetary-policy divergence",
+      "meaning": "a situation in which central banks move in different directions; 각국 중앙은행의 정책 방향이 달라지는 상황 (통화정책 차별화)"
+    },
+    {
+      "term": "export powerhouse",
+      "meaning": "a country that sells very large amounts abroad; 해외에 물건을 매우 많이 파는 나라 (수출 강국)"
+    },
+    {
+      "term": "broad-based prosperity",
+      "meaning": "economic benefits shared across many groups, not just leading firms; 일부 기업뿐 아니라 여러 계층이 함께 얻는 번영 (광범위한 경제적 번영)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "come under pressure",
+      "meaning": "to face growing criticism, risk, or difficulty",
+      "example": "AI valuations came under pressure after the technology sell-off.",
+      "type": "phrase"
+    },
+    {
+      "term": "price in",
+      "meaning": "to include an expected event in an asset’s current value",
+      "example": "Markets have already priced in another BOJ rate hike.",
+      "type": "phrase"
+    },
+    {
+      "term": "on the export side",
+      "meaning": "when discussing the part of an economy linked to foreign sales",
+      "example": "On the export side, Korea is benefiting from strong memory-chip demand.",
+      "type": "phrase"
+    },
+    {
+      "term": "spread the gains",
+      "meaning": "to distribute benefits more widely across people or sectors",
+      "example": "The government wants to spread the gains from the semiconductor boom.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "AI stock sell-off and doubts about valuations"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Domestic AI-chip capacity and a weaker yuan"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "BOJ rate-hike uncertainty and yen pressure"
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "$1 trillion exports and HBM-led growth"
+    }
+  ],
+  "common_theme": "The AI and semiconductor boom is creating powerful growth and export opportunities, but it is also producing market volatility, policy dilemmas, and uneven benefits across companies and economies.",
+  "concept": {
+    "title": "What is the neutral interest rate?",
+    "explanation": "The neutral rate is the approximate interest rate at which the economy grows at a normal pace without strong inflation pressure or a recessionary drag. If a central bank sets rates below it, borrowing is generally encouraged; if it sets rates above it, demand is usually restrained. The difficulty is that the neutral rate cannot be observed directly, so policymakers must estimate it."
+  },
+  "quiz": {
+    "question": "Why is the Bank of Japan’s neutral rate important in today’s story?",
+    "options": [
+      "It determines how much China can export.",
+      "It helps show whether future Japanese rate hikes would stimulate or restrain the economy.",
+      "It measures the number of HBM chips Korea exports."
+    ],
+    "answer_index": 1,
+    "explanation": "The neutral rate is a benchmark for judging whether monetary policy is still supportive or has become restrictive."
+  },
+  "one_sentence": "The next phase of the AI boom will be judged not by how high valuations rise, but by how widely productivity gains spread.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+      "url": "https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad"
+    },
+    {
+      "name": "China Day, citing Chinese financial sources",
+      "region": "China",
+      "title": "China Day · 21 November 2026",
+      "url": "https://www.chinaday.news/en"
+    },
+    {
+      "name": "Shanghai Securities News / China Securities Journal",
+      "region": "China",
+      "title": "科技主线轮动复苏 先进封装概念走强",
+      "url": "https://www.cnstock.com/commonDetail/831002"
+    },
+    {
+      "name": "Reuters via Investing.com",
+      "region": "Japan",
+      "title": "Analysis—BOJ’s ambiguity on rate hike path could tempt yen bears",
+      "url": "https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426"
+    },
+    {
+      "name": "SBS News",
+      "region": "South Korea",
+      "title": "A New Milestone in Exports Reaching $1 Trillion... Inside the 24-Hour HBM Production Site",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008854652"
+    }
+  ]
+}
