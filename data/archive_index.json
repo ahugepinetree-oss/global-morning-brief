@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-11-22",
+    "date_display": "November 22, 2026",
+    "headline": "AI’s Reality Check Spreads Across East Asia",
+    "file": "data/archive/2026-11-22.json"
+  },
+  {
     "date_iso": "2026-11-21",
     "date_display": "November 21, 2026",
     "headline": "The AI boom is still real—but markets are repricing it",

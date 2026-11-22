@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-22",
+  "date_display": "November 22, 2026",
+  "headline": "AI’s Reality Check Spreads Across East Asia",
+  "dek": "Investors are reassessing the enormous cost and uncertain payoff of artificial-intelligence investment, exposing different vulnerabilities in the United States, China, Japan, and South Korea.",
+  "read_time": "8 min",
+  "story_title": "The AI trade is being repriced—but not every economy faces the same risk",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The immediate shock began on Wall Street, where investors sold technology shares despite a strong initial public offering by Anthropic. The Nasdaq Composite fell 5.3% on November 20, while the S&P 500 dropped 3.7%. The market’s concern is no longer simply whether artificial intelligence will transform the economy. It is whether companies can generate enough cash flow to justify the huge sums being spent on chips, data centers, electricity, and specialized software. Rising expectations of another Federal Reserve rate increase have intensified the pressure because higher borrowing costs make long-term projects less attractive. ([apnews.com](https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad?utm_source=openai))</p><p><strong>China 🇨🇳</strong> China is connected to this story in a more complicated way. Its technology sector faces tighter American controls on advanced AI chips, while Chinese policymakers are simultaneously promoting domestic substitutes and high-end manufacturing. Recent official data presented a mixed picture: industrial output and exports remained resilient, but fixed-asset investment continued to contract. High-tech manufacturing, electric vehicles, batteries, and industrial robots are therefore becoming increasingly important as Beijing tries to shift growth away from property and traditional construction. In other words, China is not merely an observer of the AI repricing; it is trying to build a different, more state-directed version of the same technological transformation. ([english.news.cn](https://english.news.cn/20261116/28a5591399de413c8695f0372093bebd/c.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan illustrates how a global technology correction can become a domestic market shock. The Nikkei fell about 5% on November 20 to a seven-month low, with semiconductor-related shares among the main losers. Japanese investors had embraced the AI cycle through chip-testing equipment makers, technology conglomerates, and companies linked to data-center construction. When American investors began questioning the durability of AI spending, those highly valued Japanese shares became vulnerable to a sharp repricing. The decline does not necessarily mean that Japan’s industrial outlook has collapsed; it means that expectations had moved faster than confirmed profits. ([brecorder.com](https://www.brecorder.com/news/40450058/nikkei-ends-5pc-lower?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> South Korea is especially exposed because semiconductors account for a large share of its exports, corporate earnings, and stock-market value. The country’s leading memory-chip producers benefited enormously from demand linked to AI servers, but that same concentration makes the market sensitive to any sign that data-center investment may slow. The recent global sell-off pushed the KOSPI sharply lower and revived calls for greater economic diversification. The shared theme across all four economies is therefore not a uniform recession forecast. It is a repricing of risk: investors are demanding clearer evidence that AI spending will produce sustainable productivity and profits. The next phase may reward companies with real cash generation rather than ambitious promises.</p>",
+  "b2_summary": "Investors are worried that companies may be spending too much money on artificial intelligence before they can earn enough profit from it. This concern caused technology stocks to fall in the United States and Japan, and it also hurt South Korea because Korean companies depend heavily on semiconductor exports. China faces a different situation: it is affected by US restrictions on advanced chips but is investing heavily in domestic technology and manufacturing. The common theme is a reassessment of AI investment. Markets now want stronger evidence of future profits, not only impressive growth plans.",
+  "vocabulary": [
+    {
+      "term": "reprice",
+      "meaning": "가격을 다시 매기다, 특히 위험이나 수익 전망의 변화에 따라 자산 가격을 조정하다 (재평가하다)"
+    },
+    {
+      "term": "cash flow",
+      "meaning": "기업에 실제로 들어오고 나가는 현금의 흐름 (현금흐름)"
+    },
+    {
+      "term": "capital expenditure",
+      "meaning": "공장·장비·데이터센터 같은 장기 자산에 쓰는 돈 (자본적 지출, CAPEX)"
+    },
+    {
+      "term": "valuation",
+      "meaning": "회사가 앞으로 벌 돈을 바탕으로 평가된 현재의 가치 (기업가치 평가)"
+    },
+    {
+      "term": "spillover",
+      "meaning": "한 시장이나 국가의 충격이 다른 곳으로 퍼지는 현상 (파급효과)"
+    },
+    {
+      "term": "export controls",
+      "meaning": "특정 국가나 기업에 상품·기술을 수출하지 못하게 하는 정부 규제 (수출 통제)"
+    },
+    {
+      "term": "semiconductor cycle",
+      "meaning": "반도체 수요와 가격이 호황과 불황을 반복하는 흐름 (반도체 경기순환)"
+    },
+    {
+      "term": "safe-haven asset",
+      "meaning": "시장 불안 때 투자자들이 상대적으로 안전하다고 생각해 돈을 옮기는 자산 (안전자산)"
+    },
+    {
+      "term": "productivity",
+      "meaning": "같은 시간과 자원으로 얼마나 많은 결과를 만들어내는지 보여주는 효율성 (생산성)"
+    }
+  ],
+  "expressions": [
+    {
+      "term": "a sharp repricing of risk",
+      "meaning": "위험에 대한 시장의 평가가 갑자기 크게 바뀌는 것",
+      "example": "The sell-off reflects a sharp repricing of risk in the AI sector.",
+      "type": "phrase"
+    },
+    {
+      "term": "come under pressure",
+      "meaning": "가격·이익·정책 등이 압박을 받기 시작하다",
+      "example": "Highly valued chipmakers came under pressure after the Nasdaq fell.",
+      "type": "phrase"
+    },
+    {
+      "term": "raise questions about",
+      "meaning": "무언가에 대해 의문이나 우려를 불러일으키다",
+      "example": "The market decline raised questions about the sustainability of AI spending.",
+      "type": "phrase"
+    },
+    {
+      "term": "be exposed to",
+      "meaning": "특정 위험이나 변화의 영향을 크게 받을 가능성이 있다",
+      "example": "South Korea is highly exposed to swings in the semiconductor cycle.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Wall Street questions whether AI investment can generate sufficient profits."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Export controls are accelerating Beijing’s push for domestic technology and high-end manufacturing."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "The Nikkei falls sharply as investors reassess highly valued AI and semiconductor shares."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Heavy dependence on memory chips leaves the market vulnerable to a slowdown in AI-server spending."
+    }
+  ],
+  "common_theme": "The global reassessment of artificial-intelligence investment and semiconductor-related risk.",
+  "concept": {
+    "title": "What is repricing?",
+    "explanation": "Repricing means changing an asset’s market value when investors update their expectations. If investors once believed AI companies would earn huge profits, they might accept very high share prices. If they later worry about slower growth, higher interest rates, or excessive spending, they demand a lower price. The business may not have changed overnight; the market’s expectations have."
+  },
+  "quiz": {
+    "question": "Why is South Korea particularly vulnerable when investors question AI spending?",
+    "options": [
+      "Because South Korea has no major technology companies.",
+      "Because semiconductors are central to its exports, earnings, and stock market.",
+      "Because the Bank of Korea controls US technology stocks."
+    ],
+    "answer_index": 1,
+    "explanation": "Semiconductors are a major part of South Korea’s economy, so a slowdown in AI-related chip demand can affect exports, company profits, and share prices at the same time."
+  },
+  "one_sentence": "When expectations rise faster than profits, even a promising technology can trigger a market-wide reality check.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+      "url": "https://apnews.com/article/c4c3f4878b12947f8a930ed813dad"
+    },
+    {
+      "name": "Associated Press",
+      "region": "United States / China",
+      "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
+      "url": "https://apnews.com/article/88142455395552afe74caec3399a648b"
+    },
+    {
+      "name": "Xinhua",
+      "region": "China",
+      "title": "Economic Watch: Policy synergy supports China's steady growth",
+      "url": "https://english.news.cn/20261116/28a5591399de413c8695f0372093bebd/c.html"
+    },
+    {
+      "name": "Reuters via Business Recorder",
+      "region": "Japan",
+      "title": "Nikkei ends 5pc lower",
+      "url": "https://www.brecorder.com/news/40450058/nikkei-ends-5pc-lower"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "KOSPI pummeled by AI investment fears, briefly dips below 5,000",
+      "url": "https://en.yna.co.kr/view/AEN20261106004451320"
+    }
+  ]
+}
