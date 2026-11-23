@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-23",
+  "date_display": "November 23, 2026",
+  "headline": "The AI boom is reshaping trade, investment, and economic risk",
+  "dek": "The United States is tightening control over advanced computing, China is promoting digital openness, Japan is losing momentum, and South Korea is benefiting from record chip exports.",
+  "read_time": "8 min",
+  "story_title": "Four economies, one semiconductor question",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The American economy remains closely tied to the AI investment cycle, but Washington is increasingly treating computing power as a strategic asset rather than an ordinary commercial product. The Commerce Department’s Bureau of Industry and Security has introduced rules aimed at stopping restricted foreign companies from accessing advanced U.S. chips remotely through overseas data centers. The policy reflects a difficult trade-off: American firms want to sell globally, while policymakers want to prevent strategic rivals from using U.S. technology to accelerate their own AI capabilities. ([bis.gov](https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing is presenting a contrasting economic message. At the APEC meeting in Shenzhen, President Xi Jinping emphasized open trade, cross-border data flows, digital infrastructure, and cooperation on artificial intelligence. China’s official narrative is that regional integration can create shared growth even as supply chains become more politically sensitive. Yet this openness exists alongside a sharper technology rivalry with Washington. The central tension is not simply whether AI will expand, but who will control the chips, data, cloud capacity, and standards that make expansion possible. ([english.news.cn](https://english.news.cn/20261119/27bb569faf3e497fb269237622f96dac/c.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan shows the less spectacular side of the same transformation. Real GDP was essentially flat in the July–September quarter, with household consumption weakening for a second consecutive quarter, while business investment remained comparatively firm. That divergence matters: companies may continue spending on machinery, software, and technology even when households remain cautious because of higher prices. Japan therefore illustrates how an investment-led recovery can coexist with fragile domestic demand. Its economy is not collapsing, but the benefits of technological spending have not yet translated into broad-based consumer momentum. ([esri.cao.go.jp](https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/pdf/gaiyou2631_e.pdf?+target=&utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Korea is the clearest short-term winner from the semiconductor upswing. Exports in the first 20 days of November more than doubled from a year earlier, while chip shipments nearly quadrupled and accounted for almost half of total exports. Shipments to both China and the United States surged, demonstrating that Korea’s export engine can benefit from demand on both sides of the strategic divide. However, the concentration also creates vulnerability: if AI-related capital expenditure slows, memory-chip prices fall, or trade restrictions widen, Korea’s headline growth could weaken quickly. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261123002551320?utm_source=openai))</p><p>The shared theme is therefore <em>AI-driven growth under geopolitical fragmentation</em>. The four economies are connected by the same technological supply chain, but they occupy different positions within it: the United States designs leading systems and sets controls; China seeks scale, autonomy, and regional influence; Japan supplies advanced industrial capabilities while struggling with consumption; and South Korea manufactures critical memory chips. The boom is real, but its benefits are uneven—and its political risks are rising.</p>",
+  "b2_summary": "The four economies are connected by the global AI and semiconductor boom, but they are experiencing it differently. The United States is restricting access to advanced chips for security reasons. China is promoting digital cooperation while competing with Washington. Japan’s companies continue investing, but households are spending cautiously. South Korea is enjoying extremely strong chip exports to both China and the United States. The common issue is that AI creates growth and trade opportunities, yet it also increases dependence on a few technologies and makes economic relations more vulnerable to political conflict.",
+  "vocabulary": [
+    {
+      "term": "strategic asset",
+      "meaning": "중요한 국가 자산이라는 뜻입니다 (전략적 자산)."
+    },
+    {
+      "term": "remote access",
+      "meaning": "멀리 있는 컴퓨터나 서버에 접속해 사용하는 것 (원격 접근)."
+    },
+    {
+      "term": "cross-border data flow",
+      "meaning": "국경을 넘어 데이터가 이동하는 것 (국경 간 데이터 이동)."
+    },
+    {
+      "term": "supply-chain fragmentation",
+      "meaning": "정치나 규제로 공급망이 여러 부분으로 나뉘는 현상 (공급망 분절)."
+    },
+    {
+      "term": "household consumption",
+      "meaning": "가정이 상품과 서비스에 쓰는 돈 (가계 소비)."
+    },
+    {
+      "term": "capital expenditure",
+      "meaning": "기업이 공장, 장비, 소프트웨어 등에 투자하는 지출 (자본지출·설비투자)."
+    },
+    {
+      "term": "headline growth",
+      "meaning": "가장 눈에 띄는 전체 성장률이나 주요 경제 수치 (헤드라인 성장률)."
+    },
+    {
+      "term": "strategic divide",
+      "meaning": "국가 간 안보·기술 경쟁으로 생긴 큰 분열 (전략적 분열)."
+    },
+    {
+      "term": "broad-based",
+      "meaning": "특정 산업이 아니라 경제 여러 부문에 넓게 퍼진 (광범위한)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "remain closely tied to",
+      "meaning": "~와 밀접하게 연결된 상태로 남다",
+      "example": "The economy remains closely tied to semiconductor demand.",
+      "type": "phrase"
+    },
+    {
+      "term": "reflect a difficult trade-off",
+      "meaning": "어려운 선택의 균형을 보여 주다",
+      "example": "The policy reflects a difficult trade-off between security and commerce.",
+      "type": "phrase"
+    },
+    {
+      "term": "coexist with",
+      "meaning": "~와 동시에 존재하다",
+      "example": "Weak consumption can coexist with strong business investment.",
+      "type": "phrase"
+    },
+    {
+      "term": "create vulnerability",
+      "meaning": "취약성을 만들다",
+      "example": "Heavy reliance on one industry can create vulnerability.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Advanced-chip controls and the security risks of AI infrastructure."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Digital openness and regional cooperation alongside technology rivalry."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Flat growth, weak consumption, and comparatively resilient business investment."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "Record semiconductor exports and rising dependence on AI demand."
+    }
+  ],
+  "common_theme": "AI-driven growth is connecting the four economies through semiconductors, investment, and digital infrastructure, while geopolitical rivalry is making that same network more fragmented.",
+  "concept": {
+    "title": "Economic spillovers",
+    "explanation": "A spillover happens when activity in one part of the economy affects other countries or industries. For example, U.S. AI investment can increase demand for Korean memory chips, Japanese production equipment, and Chinese technology alternatives."
+  },
+  "quiz": {
+    "question": "Why is South Korea enjoying strong export growth but also facing a risk?",
+    "options": [
+      "Because its exports depend heavily on the semiconductor and AI investment cycle.",
+      "Because Japan has stopped buying Korean products.",
+      "Because household consumption is driving most of its export earnings."
+    ],
+    "answer_index": 0,
+    "explanation": "South Korea is benefiting from strong global demand for chips, but this concentration means weaker AI investment or lower chip prices could hurt growth."
+  },
+  "one_sentence": "The AI boom is creating powerful growth links among the four economies—but it is also turning technology supply chains into geopolitical fault lines.",
+  "sources": [
+    {
+      "name": "U.S. Bureau of Industry and Security",
+      "region": "United States",
+      "title": "BIS Issues Rule Addressing Remote Access to American Super Intelligence Technology",
+      "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+    },
+    {
+      "name": "Xinhua News Agency",
+      "region": "China",
+      "title": "Full text: Remarks by Chinese President Xi Jinping at the 33rd APEC Economic Leaders’ Meeting",
+      "url": "https://english.news.cn/20261119/27bb569faf3e497fb269237622f96dac/c.html"
+    },
+    {
+      "name": "Economic and Social Research Institute, Cabinet Office of Japan",
+      "region": "Japan",
+      "title": "Quarterly Estimates of GDP for July–September 2026: First Preliminary Estimates",
+      "url": "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/pdf/gaiyou2631_e.pdf"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Exports more than double in first 20 days of November, with chip shipments surging to new high",
+      "url": "https://en.yna.co.kr/view/AEN20261123002551320"
+    },
+    {
+      "name": "Axios",
+      "region": "United States",
+      "title": "Axios AM: AI’s 2027 reckoning",
+      "url": "https://www.axios.com/newsletters/axios-am-4fdcdf3f-5786-4a64-b134-567fad56a564"
+    }
+  ]
+}
