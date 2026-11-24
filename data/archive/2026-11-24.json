@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-24",
+  "date_display": "November 24, 2026",
+  "headline": "The AI-chip shock spreads across Asia",
+  "dek": "A dramatic Nvidia-led rebound has eased market stress, but the four economies face different risks from their dependence on artificial-intelligence investment and semiconductor trade.",
+  "read_time": "8 min",
+  "story_title": "One AI market, four different vulnerabilities",
+  "story_html": "<p><strong>United States 🇺🇸</strong> Wall Street began the week with an extraordinary rebound after Nvidia reinstated founder Jensen Huang as chief executive. The Nasdaq jumped 6.5%, while the S&P 500 recorded its strongest daily gain since April 2025. The move did more than lift one company: it revived the broader “AI trade,” in which investors buy shares linked to data centres, advanced chips and cloud computing. Yet the rally also exposed how heavily market confidence has become tied to a small group of technology companies. Nvidia remains under scrutiny over its corporate governance and over whether advanced chips are reaching restricted Chinese users, so the relief may prove fragile. ([apnews.com](https://apnews.com/article/feec0e25b9994b1c86b16329cf770192?utm_source=openai))</p><p><strong>China 🇨🇳</strong> China is experiencing the same shock from the opposite direction. Its benchmark share index recently touched a 16-month low as investors reacted to the global sell-off in AI stocks and to tighter U.S. restrictions on advanced chips. Beijing has tried to support equities by lowering the minimum margin requirement for leveraged stock purchases, but the measure has not fully restored confidence. The pressure is especially significant because semiconductors are both a strategic industry and a symbol of China’s technological independence. If access to foreign chips narrows, Chinese firms may accelerate domestic alternatives; however, that substitution process is expensive and unlikely to remove near-term uncertainty. ([brecorder.com](https://www.brecorder.com/news/40450433?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Japan’s exposure is transmitted through markets, exporters and monetary policy rather than through a single technology company. Japanese equities reopened after a sharp sell-off, while investors weighed a weaker yen, higher government borrowing costs and the possibility of another Bank of Japan rate increase. A weaker currency can support exporters’ overseas earnings, but it also raises import costs for households and businesses. At the same time, Japanese suppliers of semiconductor equipment and electronic components benefit when AI investment accelerates, yet suffer when investors question whether the spending boom can continue. The result is a difficult policy environment: the BOJ must consider inflation and currency weakness while avoiding a shock to already nervous markets. ([businessnews.com.my](https://businessnews.com.my/tokyo-stocks-reopen-nikkei-rout-boj-yen/?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> South Korea shows perhaps the clearest link between the AI cycle and the real economy. The KOSPI plunged 5% on November 23 as U.S. semiconductor shares weakened, prompting officials to repeat that market-stabilisation measures could be deployed if necessary. Finance Minister Lee Hyoung-il nevertheless argued that growth could reach the upper-3% range next year if current momentum continues. The contradiction is revealing: Korea’s chip exporters are major beneficiaries of AI infrastructure spending, but that concentration also makes the market unusually sensitive to changes in global technology sentiment. A rebound in U.S. chip shares can therefore lift Seoul rapidly; a renewed sell-off can transmit almost as quickly. ([streetinsider.com](https://www.streetinsider.com/Reuters/South%2BKoreas%2Bfinance%2Bminister%2Bsees%2Bsolid%2Bgrowth%2Bnext%2Byear%2C%2Bflags%2Bchip%2Bvolatility%2Brisks/27383122.html?utm_source=openai))</p><p><strong>Common theme:</strong> all four economies are being tested by the same question: is AI investment becoming a durable productivity engine, or has financial enthusiasm run ahead of proven returns? The answer matters differently in each country. The United States worries about valuation, regulation and market concentration; China faces technology restrictions and the cost of self-reliance; Japan must balance currency pressure with monetary normalisation; and South Korea must manage the benefits and risks of semiconductor dependence. Monday’s rally reduced immediate fear, but it did not resolve the underlying uncertainty. ([axios.com](https://www.axios.com/2026/11/23/ai-spending-slowdown?utm_source=openai))</p>",
+  "b2_summary": "The four economies are reacting to the same global AI and semiconductor shock, but their problems are different. U.S. stocks rebounded strongly after Nvidia’s founder returned as CEO, although investors still worry about regulation and high valuations. China’s markets remain weak because of U.S. chip restrictions and doubts about AI investment. Japan is balancing a weaker yen, possible interest-rate increases and exposure to technology exporters. South Korea’s stock market has been highly sensitive to semiconductor prices and U.S. technology shares. The shared issue is whether AI spending will create lasting economic growth or mainly inflate asset prices.",
+  "vocabulary": [
+    {
+      "term": "reinstated",
+      "meaning": "다시 그 직위에 복귀시킨다는 뜻입니다 (복직시키다)."
+    },
+    {
+      "term": "the AI trade",
+      "meaning": "AI 관련 기업에 투자하는 시장 흐름을 말합니다 (인공지능 투자 테마)."
+    },
+    {
+      "term": "market concentration",
+      "meaning": "시장 상승이나 하락이 소수 기업에 지나치게 좌우되는 상태입니다 (시장 집중도)."
+    },
+    {
+      "term": "margin requirement",
+      "meaning": "빌린 돈으로 주식을 살 때 투자자가 먼저 준비해야 하는 최소 금액입니다 (증거금 요건)."
+    },
+    {
+      "term": "substitution",
+      "meaning": "부족하거나 제한된 제품을 다른 제품으로 바꾸는 과정입니다 (대체)."
+    },
+    {
+      "term": "borrowing costs",
+      "meaning": "정부나 기업이 돈을 빌릴 때 부담하는 이자 비용입니다 (차입 비용)."
+    },
+    {
+      "term": "monetary normalisation",
+      "meaning": "비상시의 매우 낮은 금리 정책을 일반적인 수준으로 되돌리는 과정입니다 (통화정책 정상화)."
+    },
+    {
+      "term": "market-stabilisation measures",
+      "meaning": "주가가 급락할 때 시장의 과도한 불안을 줄이기 위한 정책입니다 (시장 안정화 조치)."
+    },
+    {
+      "term": "durable productivity engine",
+      "meaning": "오랫동안 생산성과 경제성장을 높이는 힘을 뜻합니다 (지속 가능한 생산성 동력)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "revive the broader AI trade",
+      "meaning": "AI 관련 투자 흐름 전체를 다시 활성화하다",
+      "example": "The announcement revived the broader AI trade across Asian markets.",
+      "type": "phrase"
+    },
+    {
+      "term": "restore confidence",
+      "meaning": "투자자나 소비자의 신뢰를 회복하다",
+      "example": "The policy change failed to restore confidence in Chinese equities.",
+      "type": "phrase"
+    },
+    {
+      "term": "be transmitted through markets",
+      "meaning": "시장 경로를 통해 다른 경제로 전달되다",
+      "example": "Japan’s risks are transmitted through markets, exporters and monetary policy.",
+      "type": "phrase"
+    },
+    {
+      "term": "run ahead of proven returns",
+      "meaning": "실제로 확인된 수익보다 기대가 앞서가다",
+      "example": "Investors worry that AI enthusiasm may run ahead of proven returns.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "Nvidia-led rebound, market concentration and AI regulation"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "U.S. chip restrictions, weak equities and domestic substitution"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Yen weakness, BOJ policy and semiconductor exposure"
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "KOSPI volatility and dependence on chip exports"
+    }
+  ],
+  "common_theme": "AI and semiconductor investment is connecting the four economies, while exposing different vulnerabilities in markets, trade and economic policy.",
+  "concept": {
+    "title": "What is market concentration?",
+    "explanation": "Market concentration means that a small number of companies account for an unusually large share of an index or sector. When those companies rise, the whole market may look healthy. When they fall, the broader economy can appear weaker even if many other businesses are stable."
+  },
+  "quiz": {
+    "question": "Why is South Korea especially sensitive to a global AI-stock sell-off?",
+    "options": [
+      "Because its economy and stock market are strongly linked to semiconductor exporters",
+      "Because the Bank of Japan controls Korean interest rates",
+      "Because China has stopped importing all Korean products"
+    ],
+    "answer_index": 0,
+    "explanation": "South Korea has major semiconductor exporters, so changes in global AI and chip investment can quickly affect corporate profits, the KOSPI and the wider economy."
+  },
+  "one_sentence": "The AI boom is global, but its risks arrive through different doors: valuation in America, technology restrictions in China, monetary policy in Japan and semiconductor dependence in South Korea.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States / Asia",
+      "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia's CEO",
+      "url": "https://apnews.com/article/feec0e25b9994b1c86b16329cf770192"
+    },
+    {
+      "name": "Business Recorder / Reuters",
+      "region": "China",
+      "title": "China stocks end off 16-month low, but US chip curbs sour mood",
+      "url": "https://www.brecorder.com/news/40450433"
+    },
+    {
+      "name": "News On Japan / Reuters",
+      "region": "Japan",
+      "title": "Japan Markets Face Crucial Week After Historic Stock Selloff",
+      "url": "https://newsonjapan.com/article/151493.php"
+    },
+    {
+      "name": "StreetInsider / Reuters",
+      "region": "South Korea",
+      "title": "South Korea vows to stabilise stock market after KOSPI drops 5%",
+      "url": "https://www.streetinsider.com/Reuters/South%2BKoreas%2Bfinance%2Bminister%2Bsees%2Bsolid%2Bgrowth%2Bnext%2Byear%2C%2Bflags%2Bchip%2Bvolatility%2Brisks/27383122.html"
+    },
+    {
+      "name": "Axios",
+      "region": "United States",
+      "title": "AI's spending slowdown",
+      "url": "https://www.axios.com/2026/11/23/ai-spending-slowdown"
+    }
+  ]
+}

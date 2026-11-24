@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-11-24",
+    "date_display": "November 24, 2026",
+    "headline": "The AI-chip shock spreads across Asia",
+    "file": "data/archive/2026-11-24.json"
+  },
+  {
     "date_iso": "2026-11-23",
     "date_display": "November 23, 2026",
     "headline": "The AI boom is reshaping trade, investment, and economic risk",
