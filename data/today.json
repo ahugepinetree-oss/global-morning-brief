@@ -1,73 +1,73 @@
 {
-  "date_iso": "2026-11-25",
-  "date_display": "November 25, 2026",
-  "headline": "Tariffs and AI Volatility Put Asia’s Tech-Heavy Economies on Alert",
-  "dek": "A new U.S. tariff threat is colliding with doubts about the AI investment boom, creating a shared but uneven shock across the four economies.",
+  "date_iso": "2026-11-26",
+  "date_display": "November 26, 2026",
+  "headline": "AI Boom Meets a New Inflation and Trade Test",
+  "dek": "Across the United States, China, Japan, and South Korea, technology-led growth is colliding with higher prices, tighter monetary policy, and renewed trade barriers.",
   "read_time": "8 min",
-  "story_title": "Two Shocks, One Connected Region",
-  "story_html": "<p><strong>United States 🇺🇸</strong> — The Trump administration is preparing another round of tariffs on China and other major trading partners, including Japan and South Korea. The proposed measures are linked to a Section 301 investigation into industrial subsidies and what Washington describes as excess manufacturing capacity. The timing is politically and economically delicate: American households remain sensitive to high prices, while companies must decide whether to absorb higher import costs or pass them on to consumers. The tariff plan is not yet final, but the prospect alone is raising uncertainty for manufacturers, retailers and investors. ([apnews.com](https://apnews.com/article/d97ed6f4017152ca4c18de5517db6d51?utm_source=openai))</p><p><strong>China 🇨🇳</strong> — Beijing is at the center of the dispute because its weak domestic demand has encouraged firms to rely more heavily on overseas sales. China’s strength in sectors such as electric vehicles, solar equipment and industrial materials has created export pressure that trading partners increasingly describe as overcapacity. From Beijing’s perspective, however, overseas demand is also a way to support factories and employment while the property downturn continues to weigh on the economy. This tension—China seeking external markets while others seek protection—makes a rapid return to friction-free trade unlikely, even though the two governments recently extended parts of their trade truce.</p><p><strong>Japan 🇯🇵</strong> — Japanese markets are being squeezed by both channels. The Nikkei fell sharply as semiconductor and technology shares followed a renewed sell-off on Wall Street. Japanese investors are questioning whether the enormous capital spending planned for artificial-intelligence data centers will generate profits quickly enough to justify current valuations. At the same time, the prospect of higher U.S. tariffs threatens exporters, especially manufacturers that depend on complex regional supply chains. A Japanese market briefing also highlighted the risk that tariff uncertainty could worsen sentiment even if the final duties are lower than initially feared. ([apnews.com](https://apnews.com/article/10044b4fb55d3ff20fde9ba9e9acaab1?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> — Korea has been hit even harder in the short term because its stock market is unusually concentrated in large technology companies. The Kospi dropped 5.6%, while Samsung Electronics and SK Hynix suffered steep declines as investors reassessed the AI-chip boom. Korea therefore faces a double exposure: tariffs could weaken export competitiveness, while a cooler AI investment cycle could reduce demand for memory chips. The common theme across these four economies is not a single shared economic outlook. Rather, it is a shared vulnerability to policy uncertainty and highly concentrated investment narratives. Trade policy can change supply chains; financial markets can change expectations almost overnight. ([apnews.com](https://apnews.com/article/10044b4fb55d3ff20fde9ba9e9acaab1?utm_source=openai))</p>",
-  "b2_summary": "The United States may soon impose new tariffs on China, Japan and South Korea, arguing that government support has created too much industrial production. China is especially exposed because weak domestic demand has pushed companies to sell more goods abroad. At the same time, Japan and South Korea are suffering from a sharp fall in technology stocks linked to artificial intelligence. Their markets depend heavily on semiconductor and other technology companies. The four economies are connected by two risks: changing trade rules and doubts about whether AI investment can continue at its current speed.",
+  "story_title": "The AI Economy Is Growing—But Policymakers Are Pushing Back",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The American economy is entering the end of 2026 with striking momentum. Revised data showed that real GDP expanded at a 4.3% annual rate in the third quarter, supported by consumer demand and heavy corporate investment in artificial-intelligence infrastructure. Yet the same expansion is making the Federal Reserve’s job more difficult. Inflation remains well above its 2% target, while proposed new tariffs on major trading partners could raise import costs further. The result is an uncomfortable policy trade-off: Washington wants investment and industrial capacity, but the Fed may need to keep borrowing costs high—or raise them again—to prevent price pressures from becoming entrenched.</p><p><strong>China 🇨🇳</strong> China sits on the other side of that trade-off. Its manufacturers are benefiting from strong overseas demand, but weak domestic property activity and cautious consumers continue to limit internal growth. The United States has proposed additional duties of up to 20% on Chinese goods, citing excess industrial capacity. Beijing may regard exports as an essential release valve for factories, but trading partners see the resulting goods surplus as evidence that Chinese production is outpacing global demand. The immediate risk is not necessarily a collapse in trade; it is a gradual multiplication of tariffs, investigations, and other defensive measures that make global supply chains less predictable.</p><p><strong>Japan 🇯🇵</strong> Japan is confronting a different version of the same problem. Its economy contracted slightly in the July–September quarter as higher living costs discouraged household spending, even while business investment and technology-related demand offered support. A weak yen has made imported energy and other goods more expensive, keeping inflation above the Bank of Japan’s target. That is why markets continue to expect another rate increase, even though tighter policy could further weaken consumption. Japan’s challenge is to convert higher prices into sustainable wage growth rather than allowing inflation to erode purchasing power.</p><p><strong>South Korea 🇰🇷</strong> South Korea provides the clearest example of how the AI cycle can strengthen an economy and create new risks at the same time. Semiconductor exports have surged, helping annual exports pass US$1 trillion for the first time. The Bank of Korea responded on November 26 by raising its benchmark rate to 3.25% and sharply upgrading its growth forecasts for 2026 and 2027. Its concern is that export income, investment, energy costs, and household demand could combine to keep inflation above target. The shared theme is therefore not a uniform economic story, but a policy dilemma: AI is lifting production and trade, while inflation and protectionism are forcing central banks and companies to become more cautious.</p>",
+  "b2_summary": "The United States and South Korea are growing strongly because companies are investing heavily in AI and semiconductors. However, strong demand is also creating inflation, so their central banks are considering or delivering higher interest rates. China is exporting large amounts of manufactured goods while domestic property demand remains weak. The United States is responding with proposed tariffs, which could make trade more difficult. Japan faces slower household spending because prices are rising, partly because of the weak yen. All four economies are connected by the AI boom, but they do not face exactly the same economic conditions or policy choices.",
   "vocabulary": [
     {
-      "term": "industrial subsidy",
-      "meaning": "정부가 기업의 비용을 낮추거나 생산을 돕는 지원; (산업 보조금)"
+      "term": "real GDP",
+      "meaning": "국내총생산에서 물가 변화를 빼고 실제 생산량을 본 수치 (실질 국내총생산)"
     },
     {
-      "term": "excess manufacturing capacity",
-      "meaning": "상품을 시장이 필요로 하는 것보다 너무 많이 만들 수 있는 상태; (과잉 생산능력)"
+      "term": "annual rate",
+      "meaning": "한 분기의 성장 속도가 1년 동안 계속된다고 가정해 계산한 비율 (연율)"
     },
     {
-      "term": "pass costs on to consumers",
-      "meaning": "늘어난 비용을 소비자에게 가격 인상으로 부담시키다; (비용 전가)"
+      "term": "entrenched inflation",
+      "meaning": "높은 물가 상승이 경제에 굳어져 쉽게 내려가지 않는 상태 (고착화된 인플레이션)"
     },
     {
-      "term": "trade truce",
-      "meaning": "무역 갈등을 잠시 멈추기로 한 합의; (무역 휴전)"
+      "term": "industrial capacity",
+      "meaning": "공장과 기업이 생산할 수 있는 최대 규모 (산업 생산능력)"
     },
     {
-      "term": "overcapacity",
-      "meaning": "생산 시설이나 능력이 실제 수요보다 지나치게 큰 상태; (과잉 생산능력)"
+      "term": "trade surplus",
+      "meaning": "수출액이 수입액보다 많은 상태 (무역흑자)"
     },
     {
-      "term": "capital spending",
-      "meaning": "공장·장비·데이터센터처럼 장기간 사용할 자산에 쓰는 돈; (자본지출)"
+      "term": "release valve",
+      "meaning": "문제나 압력을 다른 곳으로 풀어 주는 방법; 여기서는 국내 수요 부족을 해외 판매로 보완하는 수단 (압력 해소 수단)"
     },
     {
-      "term": "export competitiveness",
-      "meaning": "해외 시장에서 가격과 품질 면에서 경쟁할 수 있는 힘; (수출 경쟁력)"
+      "term": "purchasing power",
+      "meaning": "같은 돈으로 살 수 있는 상품과 서비스의 양 (구매력)"
     },
     {
-      "term": "market concentration",
-      "meaning": "시장의 큰 부분이 소수 기업이나 산업에 몰려 있는 상태; (시장 집중도)"
+      "term": "benchmark rate",
+      "meaning": "다른 대출금리의 기준이 되는 중앙은행의 정책금리 (기준금리)"
     },
     {
-      "term": "valuation",
-      "meaning": "기업이나 주식이 시장에서 평가받는 금액 또는 수준; (기업가치·밸류에이션)"
+      "term": "protectionism",
+      "meaning": "자국 산업을 보호하기 위해 관세나 수입 제한을 사용하는 정책 (보호무역주의)"
     }
   ],
   "expressions": [
     {
-      "term": "at the center of the dispute",
-      "meaning": "논쟁이나 갈등의 중심에 있는",
-      "example": "China is at the center of the dispute over industrial subsidies.",
+      "term": "enter the end of the year with momentum",
+      "meaning": "연말을 강한 성장세로 맞이하다",
+      "example": "The economy is entering the end of the year with momentum despite high interest rates.",
       "type": "phrase"
     },
     {
-      "term": "raise uncertainty for",
-      "meaning": "누구에게 불확실성을 키우다",
-      "example": "New tariffs could raise uncertainty for exporters.",
+      "term": "make the central bank’s job more difficult",
+      "meaning": "중앙은행의 정책 결정을 더 어렵게 만들다",
+      "example": "Strong consumer demand makes the central bank’s job more difficult.",
       "type": "phrase"
     },
     {
-      "term": "be squeezed by both channels",
-      "meaning": "두 가지 경로에서 동시에 압박을 받다",
-      "example": "Japanese manufacturers are squeezed by both channels: tariffs and weaker tech demand.",
+      "term": "sit on the other side of the trade-off",
+      "meaning": "같은 문제에서 다른 쪽의 선택이나 부담을 안고 있다",
+      "example": "China sits on the other side of the trade-off because it depends heavily on exports.",
       "type": "phrase"
     },
     {
-      "term": "reassess the investment boom",
-      "meaning": "투자 붐을 다시 평가하다",
-      "example": "Investors are reassessing the AI investment boom.",
+      "term": "force policymakers to become more cautious",
+      "meaning": "정책 담당자들이 더 신중하게 행동하도록 만들다",
+      "example": "Renewed tariffs could force policymakers to become more cautious.",
       "type": "phrase"
     }
   ],
@@ -75,70 +75,70 @@
     {
       "flag": "🇺🇸",
       "name": "United States",
-      "focus": "Possible new tariffs tied to industrial subsidies and excess manufacturing capacity."
+      "focus": "Fast growth, persistent inflation, and proposed new tariffs"
     },
     {
       "flag": "🇨🇳",
       "name": "China",
-      "focus": "Weak domestic demand is increasing dependence on overseas markets."
+      "focus": "Export strength, weak domestic demand, and industrial overcapacity"
     },
     {
       "flag": "🇯🇵",
       "name": "Japan",
-      "focus": "Technology shares are falling as tariff risks and AI-investment doubts grow."
+      "focus": "Weak household spending, a soft yen, and expected rate hikes"
     },
     {
       "flag": "🇰🇷",
       "name": "South Korea",
-      "focus": "The chip-heavy stock market is highly exposed to a weaker AI investment cycle."
+      "focus": "AI-led semiconductor exports and a new Bank of Korea rate increase"
     }
   ],
-  "common_theme": "Trade-policy uncertainty and doubts about the sustainability of the AI investment boom are affecting all four economies, though through different channels.",
+  "common_theme": "The AI investment boom is boosting production and trade, but it is also intensifying inflation risks and provoking more defensive trade policy.",
   "concept": {
-    "title": "Overcapacity",
-    "explanation": "Overcapacity means producers can make more goods than customers currently want to buy. Companies may then cut prices or export aggressively to keep factories operating. This can help consumers in the short term, but it can also trigger accusations of unfair competition and lead other countries to impose tariffs."
+    "title": "The policy trade-off",
+    "explanation": "A policy trade-off means that solving one economic problem can worsen another. Higher interest rates may reduce inflation, but they can also slow consumer spending and business investment. Tariffs may protect domestic producers, but they can also raise prices and trigger retaliation."
   },
   "quiz": {
-    "question": "Why is South Korea especially vulnerable to a slowdown in AI investment?",
+    "question": "Why did the Bank of Korea raise its benchmark rate on November 26, 2026?",
     "options": [
-      "Its economy depends heavily on technology and semiconductor companies.",
-      "It has stopped exporting manufactured goods.",
-      "Its government has banned foreign investment in data centers."
+      "To respond to stronger growth and inflationary pressure",
+      "To weaken semiconductor exports",
+      "To encourage households to borrow more"
     ],
     "answer_index": 0,
-    "explanation": "South Korea’s market and exports are strongly linked to major technology and memory-chip companies, so weaker AI-related demand can affect both share prices and the wider economy."
+    "explanation": "The Bank of Korea raised the rate to contain inflation while the economy was strengthening through semiconductor exports and investment."
   },
-  "one_sentence": "When trade barriers rise and investment stories lose credibility, highly connected economies can feel the shock before the real data appears.",
+  "one_sentence": "The AI boom is accelerating growth, but it is also forcing policymakers to choose how much inflation, protectionism, and slower demand they are willing to tolerate.",
   "sources": [
     {
       "name": "Associated Press",
       "region": "United States",
-      "title": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say",
-      "url": "https://apnews.com/article/d97ed6f4017152ca4c18de5517db6d51"
+      "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+      "url": "https://apnews.com/article/31fab1e32dda1ad3a29c192f620d5733"
     },
     {
-      "name": "Associated Press",
-      "region": "Asia-Pacific",
-      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
-      "url": "https://apnews.com/article/10044b4fb55d3ff20fde9ba9e9acaab1"
+      "name": "South China Morning Post",
+      "region": "China / United States",
+      "title": "US proposes new tariffs on China a week after Trump-Xi summit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375801/us-proposes-new-20-tariffs-china-week-after-trump-xi-summit"
     },
     {
-      "name": "Axios",
-      "region": "United States",
-      "title": "Trump prepares a new round of tariffs on China, other U.S. trading partners",
-      "url": "https://www.axios.com/2026/11/24/trump-tariffs-china-affordability"
-    },
-    {
-      "name": "Resona Bank",
+      "name": "Reuters via Investing.com",
       "region": "Japan",
-      "title": "Daily Market Report — November 25, 2026",
-      "url": "https://www.resonabank.co.jp/kojin/market/daily/pdf/20261125.pdf"
+      "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say",
+      "url": "https://www.investing.com/news/economy-news/bank-of-japan-to-raise-interest-rates-in-december-and-again-by-endmarch-economistssay-5037220"
     },
     {
-      "name": "리지 경제학",
+      "name": "Yonhap News Agency",
       "region": "South Korea",
-      "title": "11월 25일 오늘의 경제 브리프",
-      "url": "https://www.rezyeconomics.com/briefs/2026/11/25/economy/"
+      "title": "BOK raises key rate to 3.25 pct to curb inflationary pressure",
+      "url": "https://en.yna.co.kr/view/AEN20261126001251320"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "region": "South Korea",
+      "title": "Exports more than double in first 20 days of Nov., with chip shipments surging to new high",
+      "url": "https://en.yna.co.kr/view/AEN20261123002551320"
     }
   ]
 }
