@@ -1,73 +1,73 @@
 {
-  "date_iso": "2026-11-26",
-  "date_display": "November 26, 2026",
-  "headline": "AI Boom Meets a New Inflation and Trade Test",
-  "dek": "Across the United States, China, Japan, and South Korea, technology-led growth is colliding with higher prices, tighter monetary policy, and renewed trade barriers.",
+  "date_iso": "2026-11-27",
+  "date_display": "November 27, 2026",
+  "headline": "Tariff pressure meets the AI investment boom",
+  "dek": "The United States is threatening new trade barriers just as China, Japan, and South Korea remain deeply tied to the technology supply chain.",
   "read_time": "8 min",
-  "story_title": "The AI Economy Is Growing—But Policymakers Are Pushing Back",
-  "story_html": "<p><strong>United States 🇺🇸</strong> The American economy is entering the end of 2026 with striking momentum. Revised data showed that real GDP expanded at a 4.3% annual rate in the third quarter, supported by consumer demand and heavy corporate investment in artificial-intelligence infrastructure. Yet the same expansion is making the Federal Reserve’s job more difficult. Inflation remains well above its 2% target, while proposed new tariffs on major trading partners could raise import costs further. The result is an uncomfortable policy trade-off: Washington wants investment and industrial capacity, but the Fed may need to keep borrowing costs high—or raise them again—to prevent price pressures from becoming entrenched.</p><p><strong>China 🇨🇳</strong> China sits on the other side of that trade-off. Its manufacturers are benefiting from strong overseas demand, but weak domestic property activity and cautious consumers continue to limit internal growth. The United States has proposed additional duties of up to 20% on Chinese goods, citing excess industrial capacity. Beijing may regard exports as an essential release valve for factories, but trading partners see the resulting goods surplus as evidence that Chinese production is outpacing global demand. The immediate risk is not necessarily a collapse in trade; it is a gradual multiplication of tariffs, investigations, and other defensive measures that make global supply chains less predictable.</p><p><strong>Japan 🇯🇵</strong> Japan is confronting a different version of the same problem. Its economy contracted slightly in the July–September quarter as higher living costs discouraged household spending, even while business investment and technology-related demand offered support. A weak yen has made imported energy and other goods more expensive, keeping inflation above the Bank of Japan’s target. That is why markets continue to expect another rate increase, even though tighter policy could further weaken consumption. Japan’s challenge is to convert higher prices into sustainable wage growth rather than allowing inflation to erode purchasing power.</p><p><strong>South Korea 🇰🇷</strong> South Korea provides the clearest example of how the AI cycle can strengthen an economy and create new risks at the same time. Semiconductor exports have surged, helping annual exports pass US$1 trillion for the first time. The Bank of Korea responded on November 26 by raising its benchmark rate to 3.25% and sharply upgrading its growth forecasts for 2026 and 2027. Its concern is that export income, investment, energy costs, and household demand could combine to keep inflation above target. The shared theme is therefore not a uniform economic story, but a policy dilemma: AI is lifting production and trade, while inflation and protectionism are forcing central banks and companies to become more cautious.</p>",
-  "b2_summary": "The United States and South Korea are growing strongly because companies are investing heavily in AI and semiconductors. However, strong demand is also creating inflation, so their central banks are considering or delivering higher interest rates. China is exporting large amounts of manufactured goods while domestic property demand remains weak. The United States is responding with proposed tariffs, which could make trade more difficult. Japan faces slower household spending because prices are rising, partly because of the weak yen. All four economies are connected by the AI boom, but they do not face exactly the same economic conditions or policy choices.",
+  "story_title": "Four economies, one fragile balancing act",
+  "story_html": "<p><strong>United States 🇺🇸</strong> The immediate story is not a new tariff already in force, but a proposed expansion of U.S. import duties aimed at economies Washington accuses of subsidising excess industrial capacity. The measures could affect China, Japan, and South Korea, among others. At the same time, the American economy remains resilient: third-quarter growth was revised up to a 4.3% annual rate, while October inflation accelerated to 3.8% year on year. That combination gives policymakers room to pursue trade restrictions, but it also raises the risk that tariffs will reinforce price pressures. ([apnews.com](https://apnews.com/article/d97ed6f4017152ca4c18de5517db6d51?utm_source=openai))</p><p><strong>China 🇨🇳</strong> Beijing has rejected the argument that Chinese industrial policy is simply a source of unfair overcapacity. The accusation matters because weak domestic demand has encouraged Chinese manufacturers to seek customers abroad, making exports an increasingly important pressure valve. China has also signalled that it may retaliate if Washington proceeds. This creates a difficult policy problem: supporting advanced manufacturing and employment at home can intensify trade friction overseas, especially when the United States is trying to protect its own industrial base. ([apnews.com](https://apnews.com/article/b94a693004ad8f9b5e78f7aafb196a71?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> Tokyo has formally objected to the proposed U.S. measures and denied that Japan has the kind of structural excess capacity described by Washington. Japan is already navigating a delicate domestic environment. October nationwide consumer prices rose 2.3% from a year earlier, keeping inflation close to the Bank of Japan’s target while household purchasing power remains a concern. A fresh tariff shock would complicate the central bank’s effort to normalise policy without unnecessarily weakening consumption or investment. ([apnews.com](https://apnews.com/article/b94a693004ad8f9b5e78f7aafb196a71?utm_source=openai))</p><p><strong>South Korea 🇰🇷</strong> Korea offers the clearest example of the other side of the story. The Bank of Korea raised its policy rate by 25 basis points to 3.25%, citing stronger growth, persistent inflation, and financial-stability risks. It sharply upgraded its growth forecasts to 3.9% for 2026 and 4.1% for 2027, largely because semiconductor exports and AI-related investment remain powerful engines. Yet Korea is also vulnerable to U.S. trade action because its prosperity depends heavily on cross-border manufacturing and technology sales. ([bok.or.kr](https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11067086&programType=newsDataEng&relate=Y&utm_source=openai))</p><p>The common theme is a conflict between industrial protection and supply-chain integration. The United States wants more production within its borders; China, Japan, and South Korea depend on selling components, machinery, and finished goods across borders. Meanwhile, all four economies are benefiting, directly or indirectly, from the AI investment cycle. That makes the current moment unusually unstable: the same semiconductor boom that supports growth can also become the political justification for tariffs. Asian markets rose on Friday, but investors remain focused on whether negotiations can prevent proposed duties from becoming a wider trade confrontation. ([apnews.com](https://apnews.com/article/c7ef10c1dbc5fa09668bd4fe0729c613?utm_source=openai))</p>",
+  "b2_summary": "The main economic story is a clash between U.S. tariff plans and the AI-driven technology boom. The United States says some trading partners support industries too heavily and create excess production. China, Japan, and South Korea reject or question that argument. China may retaliate, while Japan worries that tariffs could weaken households and investment. South Korea is enjoying strong semiconductor exports, so the Bank of Korea raised interest rates even as the country remains exposed to trade restrictions. The four economies are connected through technology supply chains, which support growth but also create political tension.",
   "vocabulary": [
     {
-      "term": "real GDP",
-      "meaning": "국내총생산에서 물가 변화를 빼고 실제 생산량을 본 수치 (실질 국내총생산)"
+      "term": "tariff",
+      "meaning": "수입품에 붙이는 세금 (관세)"
     },
     {
-      "term": "annual rate",
-      "meaning": "한 분기의 성장 속도가 1년 동안 계속된다고 가정해 계산한 비율 (연율)"
+      "term": "excess industrial capacity",
+      "meaning": "상품을 너무 많이 만들 수 있는 생산 능력 (과잉 생산능력)"
     },
     {
-      "term": "entrenched inflation",
-      "meaning": "높은 물가 상승이 경제에 굳어져 쉽게 내려가지 않는 상태 (고착화된 인플레이션)"
+      "term": "retaliate",
+      "meaning": "상대 조치에 맞서 대응하다 (보복 조치를 취하다)"
     },
     {
-      "term": "industrial capacity",
-      "meaning": "공장과 기업이 생산할 수 있는 최대 규모 (산업 생산능력)"
+      "term": "price pressure",
+      "meaning": "물가를 올리는 힘이나 요인 (가격 상승 압력)"
     },
     {
-      "term": "trade surplus",
-      "meaning": "수출액이 수입액보다 많은 상태 (무역흑자)"
+      "term": "policy normalisation",
+      "meaning": "비상적으로 완화했던 정책을 일반적인 상태로 되돌리는 과정 (통화정책 정상화)"
     },
     {
-      "term": "release valve",
-      "meaning": "문제나 압력을 다른 곳으로 풀어 주는 방법; 여기서는 국내 수요 부족을 해외 판매로 보완하는 수단 (압력 해소 수단)"
+      "term": "financial-stability risk",
+      "meaning": "금융시장이 크게 흔들릴 위험 (금융안정 위험)"
     },
     {
-      "term": "purchasing power",
-      "meaning": "같은 돈으로 살 수 있는 상품과 서비스의 양 (구매력)"
+      "term": "spill over",
+      "meaning": "한 분야의 영향이 다른 분야로 퍼지다 (파급되다)"
     },
     {
-      "term": "benchmark rate",
-      "meaning": "다른 대출금리의 기준이 되는 중앙은행의 정책금리 (기준금리)"
+      "term": "supply-chain integration",
+      "meaning": "여러 나라의 생산 과정이 서로 연결된 상태 (공급망 통합)"
     },
     {
-      "term": "protectionism",
-      "meaning": "자국 산업을 보호하기 위해 관세나 수입 제한을 사용하는 정책 (보호무역주의)"
+      "term": "industrial protection",
+      "meaning": "자국 산업을 외국 경쟁으로부터 보호하는 정책 (산업 보호주의)"
     }
   ],
   "expressions": [
     {
-      "term": "enter the end of the year with momentum",
-      "meaning": "연말을 강한 성장세로 맞이하다",
-      "example": "The economy is entering the end of the year with momentum despite high interest rates.",
+      "term": "remain resilient",
+      "meaning": "어려움 속에서도 강한 상태를 유지하다",
+      "example": "The U.S. economy has remained resilient despite elevated interest rates.",
       "type": "phrase"
     },
     {
-      "term": "make the central bank’s job more difficult",
-      "meaning": "중앙은행의 정책 결정을 더 어렵게 만들다",
-      "example": "Strong consumer demand makes the central bank’s job more difficult.",
+      "term": "raise the risk that",
+      "meaning": "어떤 일이 일어날 위험을 높이다",
+      "example": "The new duties could raise the risk that inflation stays high.",
       "type": "phrase"
     },
     {
-      "term": "sit on the other side of the trade-off",
-      "meaning": "같은 문제에서 다른 쪽의 선택이나 부담을 안고 있다",
-      "example": "China sits on the other side of the trade-off because it depends heavily on exports.",
+      "term": "navigate a delicate environment",
+      "meaning": "복잡하고 조심스러운 상황을 헤쳐 나가다",
+      "example": "Japan is navigating a delicate environment of inflation and weak consumption.",
       "type": "phrase"
     },
     {
-      "term": "force policymakers to become more cautious",
-      "meaning": "정책 담당자들이 더 신중하게 행동하도록 만들다",
-      "example": "Renewed tariffs could force policymakers to become more cautious.",
+      "term": "be exposed to",
+      "meaning": "어떤 위험이나 영향에 노출되어 있다",
+      "example": "Korea is highly exposed to changes in global technology demand.",
       "type": "phrase"
     }
   ],
@@ -75,41 +75,53 @@
     {
       "flag": "🇺🇸",
       "name": "United States",
-      "focus": "Fast growth, persistent inflation, and proposed new tariffs"
+      "focus": "Proposed tariffs, resilient growth, and renewed inflation pressure"
     },
     {
       "flag": "🇨🇳",
       "name": "China",
-      "focus": "Export strength, weak domestic demand, and industrial overcapacity"
+      "focus": "Trade retaliation risk and export dependence amid weak domestic demand"
     },
     {
       "flag": "🇯🇵",
       "name": "Japan",
-      "focus": "Weak household spending, a soft yen, and expected rate hikes"
+      "focus": "Tariff objections, 2.3% inflation, and cautious policy normalisation"
     },
     {
       "flag": "🇰🇷",
       "name": "South Korea",
-      "focus": "AI-led semiconductor exports and a new Bank of Korea rate increase"
+      "focus": "Rate hike and stronger forecasts powered by semiconductors and AI investment"
     }
   ],
-  "common_theme": "The AI investment boom is boosting production and trade, but it is also intensifying inflation risks and provoking more defensive trade policy.",
+  "common_theme": "Industrial protection is colliding with the highly integrated AI and semiconductor supply chain.",
   "concept": {
-    "title": "The policy trade-off",
-    "explanation": "A policy trade-off means that solving one economic problem can worsen another. Higher interest rates may reduce inflation, but they can also slow consumer spending and business investment. Tariffs may protect domestic producers, but they can also raise prices and trigger retaliation."
+    "title": "Tariff incidence",
+    "explanation": "Tariff incidence means who actually bears the cost of an import tax. Although a government charges the foreign seller legally, the cost may be shared by importers, businesses, and consumers through higher prices. In simple terms, a tariff is not always paid entirely by the country it targets."
   },
   "quiz": {
-    "question": "Why did the Bank of Korea raise its benchmark rate on November 26, 2026?",
+    "question": "Why did the Bank of Korea raise its policy rate on November 26, 2026?",
     "options": [
-      "To respond to stronger growth and inflationary pressure",
-      "To weaken semiconductor exports",
-      "To encourage households to borrow more"
+      "Because semiconductor exports and growth had strengthened while inflation remained above target",
+      "Because South Korea wanted to retaliate immediately against Japan",
+      "Because the U.S. Federal Reserve had announced an emergency rate cut"
     ],
     "answer_index": 0,
-    "explanation": "The Bank of Korea raised the rate to contain inflation while the economy was strengthening through semiconductor exports and investment."
+    "explanation": "The Bank of Korea cited stronger domestic growth, persistent inflation, and financial-stability risks. It also raised its growth forecasts because of strong semiconductor exports and AI-related investment."
   },
-  "one_sentence": "The AI boom is accelerating growth, but it is also forcing policymakers to choose how much inflation, protectionism, and slower demand they are willing to tolerate.",
+  "one_sentence": "The AI boom is strengthening all four economies, but the same interconnected supply chains are making them more vulnerable to tariffs.",
   "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States / China / Japan",
+      "title": "China and other US trading partners hit back at Trump's new tariff plans",
+      "url": "https://apnews.com/article/b94a693004ad8f9b5e78f7aafb196a71"
+    },
+    {
+      "name": "Associated Press",
+      "region": "United States / Asia",
+      "title": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday",
+      "url": "https://apnews.com/article/c7ef10c1dbc5fa09668bd4fe0729c613"
+    },
     {
       "name": "Associated Press",
       "region": "United States",
@@ -117,28 +129,16 @@
       "url": "https://apnews.com/article/31fab1e32dda1ad3a29c192f620d5733"
     },
     {
-      "name": "South China Morning Post",
-      "region": "China / United States",
-      "title": "US proposes new tariffs on China a week after Trump-Xi summit",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375801/us-proposes-new-20-tariffs-china-week-after-trump-xi-summit"
+      "name": "Bank of Korea",
+      "region": "South Korea",
+      "title": "Monetary Policy Decision, November 26, 2026",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11067086&programType=newsDataEng&relate=Y"
     },
     {
-      "name": "Reuters via Investing.com",
+      "name": "Statistics Bureau of Japan",
       "region": "Japan",
-      "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say",
-      "url": "https://www.investing.com/news/economy-news/bank-of-japan-to-raise-interest-rates-in-december-and-again-by-endmarch-economistssay-5037220"
-    },
-    {
-      "name": "Yonhap News Agency",
-      "region": "South Korea",
-      "title": "BOK raises key rate to 3.25 pct to curb inflationary pressure",
-      "url": "https://en.yna.co.kr/view/AEN20261126001251320"
-    },
-    {
-      "name": "Yonhap News Agency",
-      "region": "South Korea",
-      "title": "Exports more than double in first 20 days of Nov., with chip shipments surging to new high",
-      "url": "https://en.yna.co.kr/view/AEN20261123002551320"
+      "title": "Consumer Price Index, October 2026",
+      "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html"
     }
   ]
 }
