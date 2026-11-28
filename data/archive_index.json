@@ -1,5 +1,11 @@
 [
   {
+    "date_iso": "2026-11-28",
+    "date_display": "November 28, 2026",
+    "headline": "Global Morning Brief: Growth is holding up, but households and trade are under pressure",
+    "file": "data/archive/2026-11-28.json"
+  },
+  {
     "date_iso": "2026-11-27",
     "date_display": "November 27, 2026",
     "headline": "Tariff pressure meets the AI investment boom",

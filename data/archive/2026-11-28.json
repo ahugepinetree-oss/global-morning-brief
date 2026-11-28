@@ -1,0 +1,144 @@
+{
+  "date_iso": "2026-11-28",
+  "date_display": "November 28, 2026",
+  "headline": "Global Morning Brief: Growth is holding up, but households and trade are under pressure",
+  "dek": "Across the United States, China, Japan, and South Korea, policymakers are trying to protect growth while tariffs, expensive credit, and weak domestic demand create new risks.",
+  "read_time": "8 min",
+  "story_title": "The uneven recovery: strong industries, cautious consumers",
+  "story_html": "<p><strong>United States 🇺🇸</strong> — The Trump administration has proposed new tariffs on China, Japan, South Korea, and other major trading partners, arguing that the measures will protect American manufacturing. Yet the policy is becoming politically controversial. Some Republican lawmakers are now calling for a more selective and predictable approach, partly because tariffs can raise consumer prices and increase costs for businesses. The debate shows the tension between industrial policy and household affordability: tariffs may support certain producers, but they can also function like a tax on imported goods. ([apnews.com](https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3))</p><p><strong>China 🇨🇳</strong> — Beijing is taking a different route to support confidence. After a turbulent period for technology shares and other risk assets, a State Council meeting signaled stronger backing for the capital market. Chinese authorities highlighted state-backed funds, share repurchases, dividends, and longer-term institutional investment. The Shanghai Composite rose 3.73 percent on Friday, while the Shenzhen Component gained 7.24 percent. The immediate objective is not simply to lift prices; policymakers also want more stable expectations, easier corporate financing, and stronger household wealth effects. ([english.news.cn](https://english.news.cn/20261128/f93be63e37424d3fb74f1fdc138b2384/c.html?utm_source=openai))</p><p><strong>Japan 🇯🇵</strong> — Japan’s economy presents a more mixed picture. The government downgraded its assessment of private consumption for the first time since February 2024 as rising prices continued to weigh on consumers. At the same time, exports improved, particularly shipments to the United States and Europe, and industrial production was supported by machinery used in semiconductor manufacturing. In other words, Japan’s external and industrial sectors are showing resilience, while households remain cautious. That imbalance complicates the Bank of Japan’s policy choices because stronger exports can coexist with fragile consumer demand. ([investing.com](https://www.investing.com/news/economy-news/japan-cuts-view-on-consumer-spending-for-1st-time-since-2024-5047324))</p><p><strong>South Korea 🇰🇷</strong> — Korea is experiencing a similar split, but with an especially powerful semiconductor cycle. The Bank of Korea raised its benchmark rate to 3.25 percent and lifted its growth forecasts for 2026 and 2027, helped by artificial-intelligence-related chip exports. However, private consumption has weakened, household borrowing costs are high, and consumer sentiment has fallen. Proposed U.S. tariffs on Korean goods add another layer of uncertainty, especially for autos, semiconductors, and petrochemicals. The central bank therefore faces a difficult trade-off: contain inflation and protect the won without placing too much additional pressure on indebted households. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20261127000600315))</p><p>The common theme is not a synchronized recovery, but an uneven one. Exporters, technology firms, and financial markets are receiving support or benefiting from strong demand, while consumers are more exposed to prices, debt, and uncertainty. The United States is debating tariffs, China is stabilizing markets, and Japan and Korea are trying to balance industrial strength with weak domestic demand. For investors, the key question is whether gains in strategic sectors—especially chips—will spread broadly enough to improve household spending.</p>",
+  "b2_summary": "The four economies are growing unevenly. The United States is considering new tariffs, but some lawmakers worry that tariffs could increase prices. China is using state-backed funds and other policies to support its stock market and investor confidence. Japan’s exports and semiconductor-related production are improving, but consumers are spending cautiously because prices are high. South Korea is benefiting from strong AI-related chip exports, yet households face expensive loans and weaker sentiment. The shared pattern is a gap between strong industries and cautious consumers. Policymakers must support growth while controlling inflation, debt, and trade-related risks.",
+  "vocabulary": [
+    {
+      "term": "tariff",
+      "meaning": "A tax charged on imported goods (관세)."
+    },
+    {
+      "term": "industrial policy",
+      "meaning": "Government action designed to support selected industries or technologies (산업정책)."
+    },
+    {
+      "term": "capital market",
+      "meaning": "The system for raising and investing long-term money through stocks and bonds (자본시장)."
+    },
+    {
+      "term": "state-backed fund",
+      "meaning": "An investment fund supported or controlled by the government (정부 지원·출자 펀드)."
+    },
+    {
+      "term": "share repurchase",
+      "meaning": "When a company buys back its own shares, often to support the share price (자사주 매입)."
+    },
+    {
+      "term": "private consumption",
+      "meaning": "Spending by households on goods and services (민간소비)."
+    },
+    {
+      "term": "benchmark rate",
+      "meaning": "A central bank’s main interest rate, used to influence borrowing costs (기준금리)."
+    },
+    {
+      "term": "household borrowing costs",
+      "meaning": "The interest and other expenses households pay on loans (가계 차입 비용)."
+    },
+    {
+      "term": "trade-off",
+      "meaning": "A situation in which improving one goal makes another goal harder to achieve (상충관계)."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "weigh on consumer spending",
+      "meaning": "To make consumers spend less or feel less confident about spending.",
+      "example": "Higher mortgage rates are weighing on consumer spending.",
+      "type": "phrase"
+    },
+    {
+      "term": "shore up market confidence",
+      "meaning": "To support confidence and prevent investors from becoming too pessimistic.",
+      "example": "The government introduced measures to shore up market confidence.",
+      "type": "phrase"
+    },
+    {
+      "term": "face a difficult trade-off",
+      "meaning": "To choose between two desirable but conflicting objectives.",
+      "example": "The central bank faces a difficult trade-off between inflation control and growth.",
+      "type": "phrase"
+    },
+    {
+      "term": "spread to the wider economy",
+      "meaning": "To move from one sector or group to many other parts of the economy.",
+      "example": "Officials hope strong chip profits will spread to the wider economy.",
+      "type": "phrase"
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇺🇸",
+      "name": "United States",
+      "focus": "New tariffs are creating a political debate over manufacturing protection, prices, and consumer affordability."
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "focus": "Authorities are using state-backed capital and market reforms to stabilize stocks and expectations."
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "focus": "Exports and semiconductor machinery are improving, but high prices are restraining household spending."
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "focus": "AI-driven chip exports are lifting growth forecasts, while debt and trade risks pressure households."
+    }
+  ],
+  "common_theme": "An uneven recovery: strategic industries and financial markets are holding up better than domestic consumers, while governments respond with tariffs, market support, or tighter monetary policy.",
+  "concept": {
+    "title": "The wealth effect",
+    "explanation": "When people’s stocks, homes, or other assets rise in value, they may feel richer and spend more. When asset prices fall, they may cut spending. This connection between asset prices and household consumption is called the wealth effect (부의 효과)."
+  },
+  "quiz": {
+    "question": "Why is South Korea’s central bank facing a difficult policy trade-off?",
+    "options": [
+      "Because strong chip exports coexist with inflation and weak household spending.",
+      "Because Korea has stopped exporting semiconductors.",
+      "Because the government wants to eliminate all household borrowing."
+    ],
+    "answer_index": 0,
+    "explanation": "Strong semiconductor exports are supporting growth, but inflation, expensive loans, and weak consumption make additional interest-rate increases painful for households."
+  },
+  "one_sentence": "The global economy is not moving in one direction: strategic sectors are accelerating while households remain cautious.",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "region": "United States",
+      "title": "Republicans are rethinking Trump’s tariffs, giving Democrats an opening",
+      "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3"
+    },
+    {
+      "name": "Xinhua News Agency",
+      "region": "China",
+      "title": "Economic Watch: China sends key signals to steady capital market",
+      "url": "https://english.news.cn/20261128/f93be63e37424d3fb74f1fdc138b2384/c.html"
+    },
+    {
+      "name": "Reuters via Investing.com",
+      "region": "Japan",
+      "title": "Japan cuts view on consumer spending for 1st time since 2024",
+      "url": "https://www.investing.com/news/economy-news/japan-cuts-view-on-consumer-spending-for-1st-time-since-2024-5047324"
+    },
+    {
+      "name": "Yonhap News Agency / The Korea Herald",
+      "region": "South Korea",
+      "title": "The cost of growth: Households face higher borrowing costs as US tariffs cloud Korea’s chip outlook",
+      "url": "https://en.yna.co.kr/view/AEN20261127000600315"
+    },
+    {
+      "name": "The Korea Herald",
+      "region": "South Korea",
+      "title": "BOK raises 2027 growth outlook to 4.1%, lifts key rate to 3.25%",
+      "url": "https://www.koreaherald.com/business/economy"
+    }
+  ]
+}
